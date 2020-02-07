@@ -1,8 +1,8 @@
 # Translating-The-Aeneid
 
-### Translations of Vergil's Aeneid
+## Translations of Vergil's Aeneid
 
-We are interested in studying the (in)accuracies that come with translations of Vergil's Aeneid into other languages. No two languages are the same, hence no two languages should ever directly line up to produce exact translations. We would like to investigate where elements of the storytelling diverge due to different characteristics of each language, or different choices of each translator. To summarize: **in what ways do these translations succeed at translating _The Aeneid_ honestly and accurately, and in what ways do they fall short?**
+We. are interested in studying the (in)accuracies that come with translations of Vergil's Aeneid into other languages. No two languages are the same, hence no two languages should ever directly line up to produce exact translations. We would like to investigate where elements of the storytelling diverge due to different characteristics of each language, or different choices of each translator. To summarize: **in what ways do these translations succeed at translating _The Aeneid_ honestly and accurately, and in what ways do they fall short?**
 
 We are not sure whether it would be more interesting to look at a variety of languages, or at a variety of translations in one language for different purposes (commercial reading for people knowing only the language, or academic reading for those trying to understand the original text). Perhaps both could be done; and this could be similar to the Galician-Portuguese lyric website, only comparing selected translations at a time. At this point we will be investigating only translations in different languages, rather than by different translators in the same language. We are comfortable with English, Spanish, German, and Latin, so these are the languages we shall focus on.
 
