@@ -1,0 +1,45 @@
+#i [sarah] use these little notes to keep me organized. i really like them, but i'm sorry if they annoy you
+#feel free to add more if you add or change anything
+
+start = poem
+poem = element poem { title , writer , excerpt , publish_info* }
+#meta-info
+#what is title?
+title = element title { mixed { language} }
+#what is language?
+language = attribute language { "latin" | "english" | "spanish" | "german" }
+#what is writer?
+writer = element writer { text }
+
+#meat
+#what is excerpt?
+excerpt = element excerpt { subject , body }
+#what is subject?
+subject = attribute subject { "speech" | "snakes" | "suicide" }
+#what is body?
+body = element body { line +}
+#what is line?
+line = element line { mixed { fig_lang* , sound_device* , noun* , verb* , name* } }
+    #each line contains fig lang, sound devices, nouns, verbs, names, etc.
+    #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
+    #commas need to be switched out so that it makes sense
+#what is fig_lang?
+#what is sound_device?
+#what is noun?
+#what is verb?
+#what is name?
+
+
+#what is publish_info?
+publish_info = element publish_info { year }
+#what is year?
+year = element year { xsd:int }
+
+
+
+
+
+#each excerpt seperately until further notice
+#ie. Latin version snakes =/= Latin version suicide =/= English version A snakes =/= English version B snakes (for example)
+
+#SOMEWHERE so we can make it into a graph: track word count because that will change across languages
