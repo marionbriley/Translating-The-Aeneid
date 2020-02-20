@@ -19,14 +19,34 @@ subject = attribute subject { "speech" | "snakes" | "suicide" }
 #what is body?
 body = element body { line +}
 #what is line?
-line = element line { mixed { fig_lang* , sound_device* , noun* , verb* , name* } }
+line = element line { mixed { fig_lang* | sound_device* | noun* | verb* | name }* }
     #each line contains fig lang, sound devices, nouns, verbs, names, etc.
     #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
     #commas need to be switched out so that it makes sense
 #what is fig_lang?
+fig_lang = element fig_lang {type, text}
+#what is type?
+type = attribute type {"metaphor" | "simile" | "idiom"}
 #what is sound_device?
+sound_device = element sound_device {device, text}
+#what is device?
+device = attribute device {"alliteration" | "assonance" | "consonance"}
 #what is noun?
+noun = element noun {case*, pronoun*, text}
+#what is case?
+case = attribute case {"nom" | "gen" | "abl" | "dat" | "acc" | "voc"}
+#what is pronoun?
+pronoun = attribute pronoun {"1s" | "1p" | "2s" | "2p" | "2sf" | "2pf" | "3s" | "3p"}
 #what is verb?
+verb = element verb {kind, tense, aspect, mood*, voice*, text}
+#what is kind?
+kind = attribute kind {"main" | "aux"}
+#what is tense?
+tense = attribute tense {"present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
+#what is aspect?
+#what is mood?
+#what is voice?
+
 #what is name?
 
 
