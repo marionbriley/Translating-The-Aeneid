@@ -19,7 +19,7 @@ subject = attribute subject { "speech" | "snakes" | "suicide" }
 #what is body?
 body = element body { line +}
 #what is line?
-line = element line { mixed { fig_lang* | sound_device* | noun* | verb* | name }* }
+line = element line { mixed { fig_lang* | sound_device* | noun* | verb* | name* }* }
     #each line contains fig lang, sound devices, nouns, verbs, names, etc.
     #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
     #commas need to be switched out so that it makes sense
@@ -49,10 +49,11 @@ tense = attribute tense {"present" | "imperfect" | "perfect" | "pluperfect" | "f
 mood = attribute mood {"indicative" | "subjunctive" | "imperative"}
 #what is voice?
 voice = attribute voice {"passive" | "active"}
-#what is formal? (necessary for Spanish verbs sorry)
+#what is formal? (necessary for Spanish verbs, sorry. bc spanish is pro-drop, we can't just mark the pronouns)
 formality = attribute formality {"formal"}
 #what is name?
 name = attribute name {"name" | "nickname" | "patronymic"}
+    #is there anything else we need to specify for this?
 
 #what is publish_info?
 publish_info = element publish_info { year }
