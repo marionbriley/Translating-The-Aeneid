@@ -38,17 +38,21 @@ case = attribute case {"nom" | "gen" | "abl" | "dat" | "acc" | "voc"}
 #what is pronoun?
 pronoun = attribute pronoun {"1s" | "1p" | "2s" | "2p" | "2sf" | "2pf" | "3s" | "3p"}
 #what is verb?
-verb = element verb {kind, tense, aspect, mood*, voice*, text}
+verb = element verb {kind, tense, aspect, mood*, voice*, formality* text}
 #what is kind?
 kind = attribute kind {"main" | "aux"}
 #what is tense?
 tense = attribute tense {"present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
 #what is aspect?
+
 #what is mood?
+mood = attribute mood {"indicative" | "subjunctive" | "imperative"}
 #what is voice?
-
+voice = attribute voice {"passive" | "active"}
+#what is formal? (necessary for Spanish verbs sorry)
+formality = attribute formality {"formal"}
 #what is name?
-
+name = attribute name {"name" | "nickname" | "patronymic"}
 
 #what is publish_info?
 publish_info = element publish_info { year }
