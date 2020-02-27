@@ -2,7 +2,7 @@
 #feel free to add more if you add or change anything
 
 start = poem
-poem = element poem { title , writer , translator*, publish_info*, book}
+poem = element poem { title , writer , translator*, publish_info*, book*}
 #meta-info
 title = element title { mixed { language} }
 language = attribute language { "latin" | "english" | "spanish" | "german" }
@@ -39,9 +39,10 @@ formality = attribute formality {"formal"}
     #impersonal used to mark infinitives, participles, gerunds
 address = attribute address {"personal" | "impersonal"}
 name = element name {nametype, text}
-nametype = attribute nametype {"name" | "nickname" | "patronymic" | "reference"}
+nametype = attribute nametype {"name" | "nickname" | "patronymic" | "reference" | "other"}
     #is there anything else we need to specify for this? 
     #reference would tag adjectives or other words used in place of a noun to refer to a person.
+    #other used to account for the fact that there is no morphological difference in spanish/english between other nouns and places (like locative case, in spanish)
 
 
 #each excerpt seperately until further notice
