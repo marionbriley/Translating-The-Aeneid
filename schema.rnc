@@ -11,7 +11,8 @@ translator = element translator {text}
 publish_info = element publish_info { xsd:int }
 
 #meat
-book = element book {excerpt}
+book = element book {number, excerpt}
+number = attribute number {"1" | "2" | "4"}
 excerpt = element excerpt { subject , body }
 subject = attribute subject { "speech" | "snakes" | "suicide" }
 body = element body { line +}
