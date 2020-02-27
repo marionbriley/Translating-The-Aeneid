@@ -38,7 +38,8 @@ voice = attribute voice {"passive" | "active"}
 formality = attribute formality {"formal"}
     #impersonal used to mark infinitives, participles, gerunds
 address = attribute address {"personal" | "impersonal"}
-name = attribute name {"name" | "nickname" | "patronymic" | "reference"}
+name = element name {nametype, text}
+nametype = attribute nametype {"name" | "nickname" | "patronymic" | "reference"}
     #is there anything else we need to specify for this? 
     #reference would tag adjectives or other words used in place of a noun to refer to a person.
 

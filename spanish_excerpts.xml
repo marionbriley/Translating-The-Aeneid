@@ -1,7 +1,13 @@
-SPANISH EXCERPTS
-
-
-BOOK 1 PAGES 12-13
+<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+<title language="spanish">La Eneida</title> 
+<writer>Vergil</writer>
+<translator>D. Luis Herrera Y Robles</translator>
+<publish_info>1905</publish_info>
+    
+<book number="1"> PAGES 12-13
+<excerpt subject="speech">
+<body>
 Torna al puerto, y reparte entre los suyos 
 El preciado botin, y distribuye 
 El vino aquel, que en la trinacria costa 
@@ -29,10 +35,14 @@ Sufrid, guardaos para mejor fortuna.»-
 Así les dice, y lleno de congoja 
 La esperanza simula en su semblante, 
 Y el acerbo dolor en su alma oprime.
+</body>
+</excerpt>
+</book>
 
-
-BOOK 2 PAGES 56-58
-Terrible entonces singular portento 
+<book number="2">
+PAGES 56-58
+<excerpt subject="snakes">
+<body>Terrible entonces singular portento 
 Preséntase á los míseros troyanos 
 De súbito, y sus ánimos conturba. 
 El ilustre Laoconte, de Neptuuo 
@@ -87,9 +97,13 @@ La sacrilega lanza poderosa,
 Y con acorde clamoreo piden 
 Que el simulacro en Ilión penetre, 
 Y de la diosa la piedad se implore.
-
-
-BOOK 4 PAGES 168-170
+</body>
+</excerpt>
+</book>
+    
+<book number ="4">PAGES 168-170
+<excerpt subject="suicide">
+<body>
 Oye el rumor exánime la hermana, 
 Y al tropel aterrada de las gentes, 
 Hiriendo el rostro y golpeando el pecho, 
@@ -150,3 +164,7 @@ Y del mísero cuerpo te desato.» —
 Dice, y corta el cabello con su diestra; 
 Y se extinguió el calor; y al punto mismo 
 Se disipó la vida por los aires.
+</body>
+</excerpt>
+</book>
+</poem>
