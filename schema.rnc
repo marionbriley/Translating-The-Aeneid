@@ -16,7 +16,7 @@ number = attribute number {"1" | "2" | "4"}
 excerpt = element excerpt { subject , body }
 subject = attribute subject { "speech" | "snakes" | "suicide" }
 body = element body { line +}
-line = element line { mixed { fig_lang* | sound_device* | noun* | verb* | name* } }
+line = element line { mixed { (fig_lang | sound_device | noun | verb | name)* } }
     #each line contains fig lang, sound devices, nouns, verbs, names, etc.
     #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
 fig_lang = element fig_lang {type, text}
