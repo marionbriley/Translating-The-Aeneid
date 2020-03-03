@@ -1,128 +1,134 @@
-ENGLISH EXCERPTS
-
-BOOK 1 LINES 192-210
-Then back to shore he sped, and to his friends
-distributed the spoil, with that rare wine
-which good Acestes while in Sicily
-had stored in jars, and prince-like sent away
-with his Ioved guest;—this too Aeneas gave;
-and with these words their mournful mood consoled.
-“Companions mine, we have not failed to feel
-calamity till now. O, ye have borne
-far heavier sorrow: Jove will make an end
-also of this. Ye sailed a course hard by
-infuriate Scylla's howling cliffs and caves.
-Ye knew the Cyclops' crags. Lift up your hearts!
-No more complaint and fear! It well may be
-some happier hour will find this memory fair.
-Through chance and change and hazard without end,
-our goal is Latium; where our destinies
-beckon to blest abodes, and have ordained
-that Troy shall rise new-born! Have patience all!
-And bide expectantly that golden day.”
-Such was his word, but vexed with grief and care,
-feigned hopes upon his forehead firm he wore,
-and locked within his heart a hero's pain.
-
-BOOK 2 LINES 200-233
-But now a vaster spectacle of fear
-burst over us, to vex our startled souls.
-Laocoon, that day by cast of lot
-priest unto Neptune, was in act to slay
-a huge bull at the god's appointed fane.
-Lo! o'er the tranquil deep from Tenedos
-appeared a pair (I shudder as I tell)
-of vastly coiling serpents, side by side,
-stretching along the waves, and to the shore
-taking swift course; their necks were lifted high,
-their gory dragon-crests o'ertopped the waves;
-all else, half seen, trailed low along the sea;
-while with loud cleavage of the foaming brine
-their monstrous backs wound forward fold on fold.
-Soon they made land; the furious bright eyes
-glowed with ensanguined fire; their quivering tongues
-lapped hungrily the hissing, gruesome jaws.
-All terror-pale we fled. Unswerving then
-the monsters to Laocoon made way.
-First round the tender limbs of his two sons
-each dragon coiled, and on the shrinking flesh
-fixed fast and fed. Then seized they on the sire,
-who flew to aid, a javelin in his hand,
-embracing close in bondage serpentine
-twice round the waist; and twice in scaly grasp
-around his neck, and o'er him grimly peered
-with lifted head and crest; he, all the while,
-his holy fillet fouled with venomous blood,
-tore at his fetters with a desperate hand,
-and lifted up such agonizing voice,
-as when a bull, death-wounded, seeks to flee
-the sacrificial altar, and thrusts back
-from his doomed head the ill-aimed, glancing blade.
-then swiftly writhed the dragon-pair away
-unto the templed height, and in the shrine
-of cruel Pallas sure asylum found
-beneath the goddess' feet and orbed shield.
-Such trembling horror as we ne'er had known
-seized now on every heart. “ Of his vast guilt
-Laocoon,” they say, “receives reward;
-for he with most abominable spear
-did strike and violate that blessed wood.
-Yon statue to the temple! Ask the grace
-of glorious Pallas!” So the people cried
-in general acclaim.
-
-BOOK 4 LINES 679-713
-Her sister heard. Half in a swoon, she ran
-with trembling steps, where thickest was the throng,
-beating her breast, while with a desperate hand
-she tore at her own face, and called aloud
-upon the dying Queen.
-“Was it for this
-my own true sister used me with such guile?
-O, was this horrid deed the dire intent
-of altars, Iofty couch, and funeral fires?
-What shall I tell for chiefest of my woes?
-Lost that I am! Why, though in death, cast off
-thy sister from thy heart? Why not invite
-one mortal stroke for both, a single sword,
-one agony together? But these hands
-built up thy pyre; and my voice implored
-the blessing of our gods, who granted me
-that thou shouldst perish thus—and I not know!
-In thy self-slaughter, sister, thou hast slain
-myself, thy people, the grave counsellors
-of Sidon, and yon city thou didst build
-to be thy throne!—Go, fetch me water, there!
-That I may bathe those gashes! If there be
-one hovering breath that stays, let my fond lips
-discover and receive!” So saying, she sprang up
-from stair to stair, and, clasping to her breast
-her sister's dying form, moaned grievously,
-and staunched the dark blood with her garment's fold.
-Vainly would Dido lift her sinking eyes,
-but backward fell, while at her heart the wound
-opened afresh; three times with straining arm
-she rose; three times dropped helpless, her dimmed eyes
-turned skyward, seeking the sweet light of day, —
-which when she saw, she groaned.
-Great Juno then
-looked down in mercy on that lingering pain
-and labor to depart: from realms divine
-she sent the goddess of the rainbow wing,
-Iris, to set the struggling spirit free
-and loose its fleshly coil. For since the end
-came not by destiny, nor was the doom
-of guilty deed, but of a hapless wight
-to sudden madness stung, ere ripe to die,
-therefore the Queen of Hades had not shorn
-the fair tress from her forehead, nor assigned
-that soul to Stygian dark. So Iris came
-on dewy, saffron pinions down from heaven,
-a thousand colors on her radiant way,
-from the opposing sun. She stayed her flight
-above that pallid brow: “I come with power
-to make this gift to Death. I set thee free
-from thy frail body's bound.” With her right hand
-she cut the tress: then through its every limb
-the sinking form grew cold; the vital breath
-fled forth, departing on the viewless air.
+<poem>
+    ENGLISH EXCERPTS
+    
+    BOOK 1 LINES 192-210
+    <excerpt>
+        <body>
+            <line>Then back to <noun>shore</noun> <pronoun>he</pronoun> <verb>sped</verb>, and to his <noun>friends</noun></line>
+            <line><verb>distributed</verb> the <noun>spoil</noun>, with that rare <noun>wine</noun></line>
+            <line>which good <name>Acestes</name> while in <noun>Sicily</noun></line>
+            <line>had <verb>stored</verb> in <noun>jars</noun>, and prince-like <verb>sent away</verb></line>
+            <line>with his Ioved <noun>guest</noun>;—this too <noun>Aeneas</noun> <verb>gave</verb>;</line>
+            <line>and with these <noun>words</noun> their mournful <noun>mood</noun> <verb>consoled</verb>.</line>
+            <line>“<noun>Companions</noun> mine, <pronoun>we</pronoun> <verb>have</verb> not <verb>failed</verb> to <verb>feel</verb></line>
+            <line>calamity till now. O, ye have borne</line>
+            <line>far heavier sorrow: Jove will make an end</line>
+            <line>also of this. Ye sailed a course hard by</line>
+            <line>infuriate Scylla's howling cliffs and caves.</line>
+            <line>Ye knew the Cyclops' crags. Lift up your hearts!</line>
+            <line>No more complaint and fear! It well may be</line>
+            <line>some happier hour will find this memory fair.</line>
+            <line>Through chance and change and hazard without end,</line>
+            <line>our goal is Latium; where our destinies</line>
+            <line>beckon to blest abodes, and have ordained</line>
+            <line>that Troy shall rise new-born! Have patience all!</line>
+            <line>And bide expectantly that golden day.”</line>
+            <line>Such was his word, but vexed with grief and care,</line>
+            <line>feigned hopes upon his forehead firm he wore,</line>
+            <line>and locked within his heart a hero's pain.</line>
+        </body>
+    </excerpt>
+    
+    BOOK 2 LINES 200-233
+    But now a vaster spectacle of fear
+    burst over us, to vex our startled souls.
+    Laocoon, that day by cast of lot
+    priest unto Neptune, was in act to slay
+    a huge bull at the god's appointed fane.
+    Lo! o'er the tranquil deep from Tenedos
+    appeared a pair (I shudder as I tell)
+    of vastly coiling serpents, side by side,
+    stretching along the waves, and to the shore
+    taking swift course; their necks were lifted high,
+    their gory dragon-crests o'ertopped the waves;
+    all else, half seen, trailed low along the sea;
+    while with loud cleavage of the foaming brine
+    their monstrous backs wound forward fold on fold.
+    Soon they made land; the furious bright eyes
+    glowed with ensanguined fire; their quivering tongues
+    lapped hungrily the hissing, gruesome jaws.
+    All terror-pale we fled. Unswerving then
+    the monsters to Laocoon made way.
+    First round the tender limbs of his two sons
+    each dragon coiled, and on the shrinking flesh
+    fixed fast and fed. Then seized they on the sire,
+    who flew to aid, a javelin in his hand,
+    embracing close in bondage serpentine
+    twice round the waist; and twice in scaly grasp
+    around his neck, and o'er him grimly peered
+    with lifted head and crest; he, all the while,
+    his holy fillet fouled with venomous blood,
+    tore at his fetters with a desperate hand,
+    and lifted up such agonizing voice,
+    as when a bull, death-wounded, seeks to flee
+    the sacrificial altar, and thrusts back
+    from his doomed head the ill-aimed, glancing blade.
+    then swiftly writhed the dragon-pair away
+    unto the templed height, and in the shrine
+    of cruel Pallas sure asylum found
+    beneath the goddess' feet and orbed shield.
+    Such trembling horror as we ne'er had known
+    seized now on every heart. “ Of his vast guilt
+    Laocoon,” they say, “receives reward;
+    for he with most abominable spear
+    did strike and violate that blessed wood.
+    Yon statue to the temple! Ask the grace
+    of glorious Pallas!” So the people cried
+    in general acclaim.
+    
+    BOOK 4 LINES 679-713
+    Her sister heard. Half in a swoon, she ran
+    with trembling steps, where thickest was the throng,
+    beating her breast, while with a desperate hand
+    she tore at her own face, and called aloud
+    upon the dying Queen.
+    “Was it for this
+    my own true sister used me with such guile?
+    O, was this horrid deed the dire intent
+    of altars, Iofty couch, and funeral fires?
+    What shall I tell for chiefest of my woes?
+    Lost that I am! Why, though in death, cast off
+    thy sister from thy heart? Why not invite
+    one mortal stroke for both, a single sword,
+    one agony together? But these hands
+    built up thy pyre; and my voice implored
+    the blessing of our gods, who granted me
+    that thou shouldst perish thus—and I not know!
+    In thy self-slaughter, sister, thou hast slain
+    myself, thy people, the grave counsellors
+    of Sidon, and yon city thou didst build
+    to be thy throne!—Go, fetch me water, there!
+    That I may bathe those gashes! If there be
+    one hovering breath that stays, let my fond lips
+    discover and receive!” So saying, she sprang up
+    from stair to stair, and, clasping to her breast
+    her sister's dying form, moaned grievously,
+    and staunched the dark blood with her garment's fold.
+    Vainly would Dido lift her sinking eyes,
+    but backward fell, while at her heart the wound
+    opened afresh; three times with straining arm
+    she rose; three times dropped helpless, her dimmed eyes
+    turned skyward, seeking the sweet light of day, —
+    which when she saw, she groaned.
+    Great Juno then
+    looked down in mercy on that lingering pain
+    and labor to depart: from realms divine
+    she sent the goddess of the rainbow wing,
+    Iris, to set the struggling spirit free
+    and loose its fleshly coil. For since the end
+    came not by destiny, nor was the doom
+    of guilty deed, but of a hapless wight
+    to sudden madness stung, ere ripe to die,
+    therefore the Queen of Hades had not shorn
+    the fair tress from her forehead, nor assigned
+    that soul to Stygian dark. So Iris came
+    on dewy, saffron pinions down from heaven,
+    a thousand colors on her radiant way,
+    from the opposing sun. She stayed her flight
+    above that pallid brow: “I come with power
+    to make this gift to Death. I set thee free
+    from thy frail body's bound.” With her right hand
+    she cut the tress: then through its every limb
+    the sinking form grew cold; the vital breath
+    fled forth, departing on the viewless air.
+</poem>
