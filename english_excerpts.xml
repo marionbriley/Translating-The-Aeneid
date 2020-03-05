@@ -1,5 +1,6 @@
+<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    ENGLISH EXCERPTS
+<title language="english">The Aeneid</title>
     
     BOOK 1 LINES 192-210
     <excerpt>
@@ -29,52 +30,58 @@
         </body>
     </excerpt>
     
-    BOOK 2 LINES 200-233
-    But now a vaster spectacle of fear
-    burst over us, to vex our startled souls.
-    Laocoon, that day by cast of lot
-    priest unto Neptune, was in act to slay
-    a huge bull at the god's appointed fane.
-    Lo! o'er the tranquil deep from Tenedos
-    appeared a pair (I shudder as I tell)
-    of vastly coiling serpents, side by side,
-    stretching along the waves, and to the shore
-    taking swift course; their necks were lifted high,
-    their gory dragon-crests o'ertopped the waves;
-    all else, half seen, trailed low along the sea;
-    while with loud cleavage of the foaming brine
-    their monstrous backs wound forward fold on fold.
-    Soon they made land; the furious bright eyes
-    glowed with ensanguined fire; their quivering tongues
-    lapped hungrily the hissing, gruesome jaws.
-    All terror-pale we fled. Unswerving then
-    the monsters to Laocoon made way.
-    First round the tender limbs of his two sons
-    each dragon coiled, and on the shrinking flesh
-    fixed fast and fed. Then seized they on the sire,
-    who flew to aid, a javelin in his hand,
-    embracing close in bondage serpentine
-    twice round the waist; and twice in scaly grasp
-    around his neck, and o'er him grimly peered
-    with lifted head and crest; he, all the while,
-    his holy fillet fouled with venomous blood,
-    tore at his fetters with a desperate hand,
-    and lifted up such agonizing voice,
-    as when a bull, death-wounded, seeks to flee
-    the sacrificial altar, and thrusts back
-    from his doomed head the ill-aimed, glancing blade.
-    then swiftly writhed the dragon-pair away
-    unto the templed height, and in the shrine
-    of cruel Pallas sure asylum found
-    beneath the goddess' feet and orbed shield.
-    Such trembling horror as we ne'er had known
-    seized now on every heart. “ Of his vast guilt
-    Laocoon,” they say, “receives reward;
-    for he with most abominable spear
-    did strike and violate that blessed wood.
-    Yon statue to the temple! Ask the grace
-    of glorious Pallas!” So the people cried
-    in general acclaim.
+    <!--BOOK 2 LINES 200-233-->
+    <book number="2">
+    <excerpt subject="snakes">
+   <body> 
+    <line>But now a vaster <noun>spectacle</noun> of <noun>fear</noun></line>
+    <line><verb aspect="simple" kind="main" mood="indicative" tense="perfect" voice="active">burst</verb> over <noun pronoun="1p">us</noun>, <verb kind="main" mood="indicative" >to vex</verb> our startled <noun>souls</noun>.</line>
+    <line><name nametype="name">Laocoon</name>, that <noun>day</noun> by <noun>cast</noun> of <noun>lot</noun></line>
+    <line><noun>priest</noun> unto <name nametype="name">Neptune</name>, <verb aspect="continuous" kind="main" mood="indicative" voice="active" tense="perfect">was</verb> in <noun>act</noun> <verb kind="main" mood="indicative">to slay</verb></line>
+    <line>a huge <noun>bull</noun> at the <noun>god's</noun> appointed <noun>fane</noun>.</line>
+    <line>Lo! o'er the tranquil <noun>deep</noun> from <name nametype="name">Tenedos</name></line>
+    <line>appeared a pair (I shudder as I tell)</line>
+    <line>of vastly coiling serpents, side by side,</line>
+    <line>stretching along the waves, and to the shore</line>
+    <line>taking swift course; their necks were lifted high,</line>
+    <line>their gory dragon-crests o'ertopped the waves;</line>
+    <line>all else, half seen, trailed low along the sea;</line>
+    <line>while with loud cleavage of the foaming brine</line>
+    <line>their monstrous backs wound forward fold on fold.</line>
+    <line>Soon they made land; the furious bright eyes</line>
+    <line>glowed with ensanguined fire; their quivering tongues</line>
+    <line>lapped hungrily the hissing, gruesome jaws.</line>
+    <line>All terror-pale we fled. Unswerving then</line>
+    <line>the monsters to Laocoon made way.</line>
+    <line>First round the tender limbs of his two sons</line>
+    <line>each dragon coiled, and on the shrinking flesh</line>
+    <line>fixed fast and fed. Then seized they on the sire,</line>
+    <line>who flew to aid, a javelin in his hand,</line>
+    <line>embracing close in bondage serpentine</line>
+    <line>twice round the waist; and twice in scaly grasp</line>
+    <line>around his neck, and o'er him grimly peered</line>
+    <line>with lifted head and crest; he, all the while,</line>
+    <line>his holy fillet fouled with venomous blood,</line>
+    <line>tore at his fetters with a desperate hand,</line>
+    <line>and lifted up such agonizing voice,</line>
+    <line>as when a bull, death-wounded, seeks to flee</line>
+    <line>the sacrificial altar, and thrusts back</line>
+    <line>from his doomed head the ill-aimed, glancing blade.</line>
+    <line>then swiftly writhed the dragon-pair away</line>
+    <line>unto the templed height, and in the shrine</line>
+    <line>of cruel Pallas sure asylum found</line>
+    <line>beneath the goddess' feet and orbed shield.</line>
+    <line>Such trembling horror as we ne'er had known</line>
+    <line>seized now on every heart. “ Of his vast guilt</line>
+    <line>Laocoon,” they say, “receives reward;</line>
+    <line>for he with most abominable spear</line>
+    <line>did strike and violate that blessed wood.</line>
+    <line>Yon statue to the temple! Ask the grace</line>
+    <line>of glorious Pallas!” So the people cried</line>
+    <line>in general acclaim.</line>
+   </body>
+    </excerpt>
+    </book>
     
     BOOK 4 LINES 679-713
     Her sister heard. Half in a swoon, she ran
