@@ -9,33 +9,33 @@
         <!--PAGES 12-13-->
         <excerpt subject="speech">
             <body>
-                <line>Torna al <noun>puerto</noun>, y reparte entre los <noun pronoun="3p">suyos</noun></line>
-                <line>El preciado <noun>botin</noun>, y distribuye </line>
-                <line>El <noun>vino</noun> aquel, que en la trinacria costa </line>
-                <line>En repletos <noun>toneles</noun> le donara </line>
-                <line>En su <noun>partida</noun> el bondadoso <name nametype="name">Acestes</name>; </line>
-                <line>Y con tales <noun>palabras</noun> los anima, </line>
-                <line>Y sus <noun>pechos</noun> asaz entristecidos </line>
-                <line>Consuela así.—«Oh antiguos <noun>compañeros</noun>, </line>
-                <line>Pues no olvidamos los <noun>pasados</noun> males, </line>
-                <line>A sufrirlos mayores <noun>enseñados</noun>; </line>
-                <line>Tambien dará un <noun>dios</noun> fin á los <noun>presentes</noun>. </line>
-                <line>Los que de <name nametype="name">Escila</name> la furiosa <noun>rabia</noun></line>
-                <line>Supisteis soportar, y los <noun>escollos</noun></line>
-                <line>Rugientes y las rocas <noun>ciclopéas</noun>, </line>
-                <line>Recobrad el <noun>valor</noun>, y el <noun>miedo</noun> torpe </line>
-                <line>Al <noun>punto</noun> deponed; gratos un <noun>día</noun></line>
-                <line>Acaso <noun pronoun="1p">nos</noun> serán estos <noun>recuerdos</noun>; </line>
-                <line>Que entre <noun>infortunios</noun> y <noun>reveses</noun> tantos </line>
-                <line>Al <name nametype="other">Lacio</name> nuestra <noun>ruta</noun> dirigimos, </line>
-                <line>Allí donde los <noun>hados</noun> nos destinan</line>
-                <line><noun>Pacificas</noun> moradas, y á su <noun>influjo</noun></line>
-                <line>Resurgirá tambien de <name nametype="other">Troya</name> el <noun>reino</noun>: </line>
-                <line>Sufrid, guarda<noun pronoun="2pf">os</noun> para mejor <noun>fortuna</noun>.»- </line>
+                <line num="314">Torna al <noun>puerto</noun>, y reparte entre los <noun pronoun="3p">suyos</noun></line>
+                <line num="315">El preciado <noun>botin</noun>, y distribuye </line>
+                <line num="316">El <noun>vino</noun> aquel, que en la trinacria costa </line>
+                <line num="317">En repletos <noun>toneles</noun> le donara </line>
+                <line num="318">En su <noun>partida</noun> el bondadoso <name nametype="name">Acestes</name>; </line>
+                <line num="319">Y con tales <noun>palabras</noun> los anima, </line>
+                <line num="320">Y sus <noun>pechos</noun> asaz entristecidos </line>
+                <line num="321">Consuela así.—«Oh antiguos <noun>compañeros</noun>, </line>
+                <line num="322">Pues no olvidamos los <noun>pasados</noun> males, </line>
+                <line num="323">A sufrirlos mayores <noun>enseñados</noun>; </line>
+                <line num="324">Tambien dará un <noun>dios</noun> fin á los <noun>presentes</noun>. </line>
+                <line num="325">Los que de <name nametype="name">Escila</name> la furiosa <noun>rabia</noun></line>
+                <line num="326">Supisteis soportar, y los <noun>escollos</noun></line>
+                <line num="327">Rugientes y las rocas <noun>ciclopéas</noun>, </line>
+                <line num="328">Recobrad el <noun>valor</noun>, y el <noun>miedo</noun> torpe </line>
+                <line num="329">Al <noun>punto</noun> deponed; gratos un <noun>día</noun></line>
+                <line num="330">Acaso <noun pronoun="1p">nos</noun> serán estos <noun>recuerdos</noun>; </line>
+                <line num="331">Que entre <noun>infortunios</noun> y <noun>reveses</noun> tantos </line>
+                <line num="332">Al <name nametype="other">Lacio</name> nuestra <noun>ruta</noun> dirigimos, </line>
+                <line num="333">Allí donde los <noun>hados</noun> nos destinan</line>
+                <line num="334"><noun>Pacificas</noun> moradas, y á su <noun>influjo</noun></line>
+                <line num="335">Resurgirá tambien de <name nametype="other">Troya</name> el <noun>reino</noun>: </line>
+                <line num="336">Sufrid, guarda<noun pronoun="2pf">os</noun> para mejor <noun>fortuna</noun>.»- </line>
 
-                <line>Así les dice, y lleno de <noun>congoja</noun> </line>
-                <line>La <noun>esperanza</noun> simula en su <noun>semblante</noun>, </line>
-                <line>Y el acerbo <noun>dolor</noun> en su <noun>alma</noun> oprime.</line>
+                <line num="337">Así les dice, y lleno de <noun>congoja</noun> </line>
+                <line num="338">La <noun>esperanza</noun> simula en su <noun>semblante</noun>, </line>
+                <line num="339">Y el acerbo <noun>dolor</noun> en su <noun>alma</noun> oprime.</line>
             </body>
         </excerpt>
     </book>
