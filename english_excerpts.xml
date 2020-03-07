@@ -1,34 +1,38 @@
 <?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
 <title language="english">The Aeneid</title>
+<writer>Vergil</writer>
     
-    BOOK 1 LINES 192-210
-    <excerpt>
+    <!--BOOK 1 LINES 192-210-->
+        <!--there's more than 18 lines here- how should I number them?-->
+    <book number="1">
+    <excerpt subject="speech">
         <body>
-            <line>Then back to <noun>shore</noun> <pronoun>he</pronoun> <verb>sped</verb>, and to his <noun>friends</noun></line>
-            <line><verb>distributed</verb> the <noun>spoil</noun>, with that rare <noun>wine</noun></line>
-            <line>which good <name>Acestes</name> while in <noun>Sicily</noun></line>
-            <line>had <verb>stored</verb> in <noun>jars</noun>, and prince-like <verb>sent away</verb></line>
-            <line>with his Ioved <noun>guest</noun>;—this too <noun>Aeneas</noun> <verb>gave</verb>;</line>
-            <line>and with these <noun>words</noun> their mournful <noun>mood</noun> <verb>consoled</verb>.</line>
-            <line>“<noun>Companions</noun> mine, <pronoun>we</pronoun> <verb>have</verb> not <verb>failed</verb> to <verb>feel</verb></line>
-            <line>calamity till now. O, ye have borne</line>
-            <line>far heavier sorrow: Jove will make an end</line>
-            <line>also of this. Ye sailed a course hard by</line>
-            <line>infuriate Scylla's howling cliffs and caves.</line>
-            <line>Ye knew the Cyclops' crags. Lift up your hearts!</line>
-            <line>No more complaint and fear! It well may be</line>
-            <line>some happier hour will find this memory fair.</line>
-            <line>Through chance and change and hazard without end,</line>
-            <line>our goal is Latium; where our destinies</line>
-            <line>beckon to blest abodes, and have ordained</line>
-            <line>that Troy shall rise new-born! Have patience all!</line>
-            <line>And bide expectantly that golden day.”</line>
-            <line>Such was his word, but vexed with grief and care,</line>
-            <line>feigned hopes upon his forehead firm he wore,</line>
-            <line>and locked within his heart a hero's pain.</line>
+            <line num="192">Then back to <noun>shore</noun> <noun>he</noun> <verb kind="main" tense="imperfect">sped</verb>, and to his <noun>friends</noun></line>
+            <line num="193"><verb>distributed</verb> the <noun>spoil</noun>, with that rare <noun>wine</noun></line>
+            <line num="194">which good <name>Acestes</name> while in <noun>Sicily</noun></line>
+            <line num="195">had <verb>stored</verb> in <noun>jars</noun>, and prince-like <verb>sent away</verb></line>
+            <line num="196">with his Ioved <noun>guest</noun>;—this too <noun>Aeneas</noun> <verb>gave</verb>;</line>
+            <line num="197">and with these <noun>words</noun> their mournful <noun>mood</noun> <verb>consoled</verb>.</line>
+            <line num="198">“<noun>Companions</noun> mine, <noun>we</noun> <verb>have</verb> not <verb>failed</verb> to <verb>feel</verb></line>
+            <line num="199"><noun>calamity</noun> till now. O, <noun>ye</noun> <verb>have</verb> <verb>borne</verb></line>
+            <line num="200">far heavier <noun>sorrow</noun>: <name>Jove</name> <verb>will</verb> <verb>make</verb> an <noun>end</noun></line>
+            <line num="201">also of <noun>this</noun>. <noun>Ye</noun> <verb>sailed</verb> a <noun>course</noun> hard by</line>
+            <line num="202">infuriate <name>Scylla's</name> howling <noun>cliffs</noun> and <noun>caves</noun>.</line>
+            <line num="203"><noun>Ye</noun> <verb>knew</verb> the <noun>Cyclops'</noun> <noun>crags</noun>. <!--Lift up--> <noun>your</noun> <noun>hearts</noun>!</line>
+            <line num="204">No more <noun>complaint</noun> and <noun>fear</noun>! It well <verb>may</verb> <verb>be</verb></line>
+            <line num="205">some happier <noun>hour</noun> <verb>will</verb> <verb>find</verb> this <noun>memory</noun> fair.</line>
+            <line num="206">Through <noun>chance</noun> and <noun>change</noun> and <noun>hazard</noun> without <noun>end</noun>,</line>
+            <line num="207">our <noun>goal</noun> is <noun>Latium</noun>; where <noun>our</noun> <noun>destinies</noun></line>
+            <line num="208"><verb>beckon</verb> to blest <noun>abodes</noun>, and <verb>have</verb> <verb>ordained</verb></line>
+            <line num="209">that <noun>Troy</noun> <verb>shall</verb> <verb>rise</verb> new-born! <verb>Have</verb> <noun>patience</noun> <noun>all</noun>!</line>
+            <line num="210">And <verb>bide</verb> expectantly that golden <noun>day</noun>.”</line>
+            <line num="211"><noun>Such</noun> <verb>was</verb> <noun>his</noun> <noun>word</noun>, but <verb>vexed</verb> with <noun>grief</noun> and <noun>care</noun>,</line>
+            <line num="212"><verb>feigned</verb> <noun>hopes</noun> upon <noun>his</noun> <noun>forehead</noun> firm <noun>he</noun> <verb>wore</verb>,</line>
+            <line num="213">and <verb>locked</verb> within <noun>his</noun> <noun>heart</noun> a hero's <noun>pain</noun>.</line>
         </body>
     </excerpt>
+    </book>
     
     <!--BOOK 2 LINES 200-233-->
     <book number="2">

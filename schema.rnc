@@ -28,8 +28,9 @@ noun = element noun {case*, pronoun*, text}
 case = attribute case {"nom" | "gen" | "abl" | "dat" | "acc" | "voc"}
 pronoun = attribute pronoun {"1s" | "1p" | "2s" | "2p" | "2sf" | "2pf" | "3s" | "3p"}
 verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*, text}
-kind = attribute kind {"main" | "aux" | "prefix"}
-    #we added prefix here to account for German's separable prefices
+kind = attribute kind {"main" | "aux" | "prefix" | "modal"}
+    #we added prefix here to account for German's separable prefixes
+    #modal: can, should, will, shall, must, could, would, may, etc
 tense = attribute tense {"present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
 aspect = attribute aspect {"continuous" | "simple" |"perfect" | "perfect continuous"}
     # Latin only uses the first 3, English uses all 4, 
