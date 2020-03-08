@@ -1,6 +1,3 @@
-#i [sarah] use these little notes to keep me organized. i really like them, but i'm sorry if they annoy you
-#feel free to add more if you add or change anything
-
 start = poem
 poem = element poem { title , writer , translator*, publish_info*, book*}
 #meta-info

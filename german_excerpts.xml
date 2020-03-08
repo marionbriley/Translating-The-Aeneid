@@ -1,28 +1,32 @@
+<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
-    GERMAN EXCERPTS
+<title language="german">Die Aeneis</title>
+<writer>Vergil</writer>
     
-    BOOK 1 LINES 195-209
+    <!--BOOK 1 LINES 195-209-->
+    <book number="1">
     <excerpt>
         <body>
-            <line>Dann auch den <noun>Wein</noun>, den in <noun>Krügen</noun> <verb>gefüllt</verb> der gute <name>Akestes</name></line>
-            <line>Am trinakrischen <noun>Strande</noun>, der <noun>Held</noun>, den <noun>Scheidenden</noun> <verb>schenkte</verb>,</line>
-            <line><pronoun>Ihn</pronoun> auch <verb>teilt</verb> <pronoun>er</pronoun> und <verb>sänftigt</verb> so die bekümmerten <noun>Herzen</noun>:</line>
+            <line num="195">Dann auch den <noun>Wein</noun>, den in <noun>Krügen</noun> <verb>gefüllt</verb> der gute <name>Akestes</name></line>
+            <line num="196">Am trinakrischen <noun>Strande</noun>, der <noun>Held</noun>, den <noun>Scheidenden</noun> <verb>schenkte</verb>,</line>
+            <line num="197"><noun>Ihn</noun> auch <verb>teilt</verb> <noun>er</noun> und <verb>sänftigt</verb> so die bekümmerten <noun>Herzen</noun>:</line>
             
-            <line>"Teure <noun>Gefährten</noun> - <pronoun>wir</pronoun> <verb>sind</verb> ja nicht unkundig im <noun>Leiden</noun> –</line>
-            <line>Ihr, die ihr Schlimmres erlebt, ein Gott wird dieses auch enden.</line>
-            <line>Ihr seid Skyllas Wut und den lärmdurchschütterten Riffen</line>
-            <line>Nahe gekommen, ihr habt die kyklopische Felsenbehausung</line>
-            <line>Kennen gelernt. Fasst wiederum Mut, lasst ab von der trüben</line>
-            <line>Furcht. Vielleicht wird einst die Erinnrung daran euch ergötzen.</line>
-            <line>Durch manch Wechselgeschick, durch bedrängter Entscheidungen viele</line>
-            <line>Ziehen nach Latium wir, wo das Schicksal ruhige Sitze</line>
-            <line>Sicher verheißt. Dort darf von neuem sich Troia erheben.</line>
-            <line>Macht euch hart und erhaltet euch selbst für bessere Zeiten!"</line>
+            <line num="198">"Teure <noun>Gefährten</noun> - <noun>wir</noun> <verb>sind</verb> ja nicht unkundig im <noun>Leiden</noun> –</line>
+            <line num="199"><noun>Ihr</noun>, die <noun>ihr</noun> <noun>Schlimmres</noun> <verb>erlebt</verb>, ein <noun>Gott</noun> <verb>wird</verb> <noun>dieses</noun> auch <verb>enden</verb>.</line>
+            <line num="200"><noun>Ihr</noun> <verb>seid</verb> <name>Skyllas</name> <noun>Wut</noun> und den lärmdurchschütterten <noun>Riffen</noun></line>
+            <line num="201">Nahe gekommen, ihr habt die kyklopische Felsenbehausung</line>
+            <line num="202">Kennen gelernt. Fasst wiederum Mut, lasst ab von der trüben</line>
+            <line num="203">Furcht. Vielleicht wird einst die Erinnrung daran euch ergötzen.</line>
+            <line num="204">Durch manch Wechselgeschick, durch bedrängter Entscheidungen viele</line>
+            <line num="205">Ziehen nach Latium wir, wo das Schicksal ruhige Sitze</line>
+            <line num="206">Sicher verheißt. Dort darf von neuem sich Troia erheben.</line>
+            <line num="207">Macht euch hart und erhaltet euch selbst für bessere Zeiten!"</line>
             
-            <line>Also lautet sein Wort, und siech von unsäglichem Kummer</line>
-            <line>Zeigt er Hoffnung im Blick; tief birgt er den Schmerz in dem Busen.</line>
+            <line num="208">Also lautet sein Wort, und siech von unsäglichem Kummer</line>
+            <line num="209">Zeigt er Hoffnung im Blick; tief birgt er den Schmerz in dem Busen.</line>
         </body>
     </excerpt>
+    </book>
     
     BOOK 2 LINES 199-233
     Etwas Größres jedoch - und um vieles entsetzlicher - zeigt jetzt
