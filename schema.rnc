@@ -24,19 +24,22 @@ device = attribute device {"alliteration" | "assonance" | "consonance"}
 noun = element noun {case*, pronoun*, text}
 case = attribute case {"nom" | "gen" | "abl" | "dat" | "acc" | "voc"}
 pronoun = attribute pronoun {"1s" | "1p" | "2s" | "2p" | "2sf" | "2pf" | "3s" | "3p"}
-verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*, text}
+verb = element verb {kind*, tense, aspect, mood, voice, formality, address, text}
+    #PLEASE PLEASE USE THESE ATTRIBUTES WHEREVER POSSIBLE. They are not required because participles, infitives, and gerunds would not necessarily be modified by all of these, 
+    #but it's so important to keep track for other verbs!
 kind = attribute kind {"main" | "aux" | "prefix" | "modal"}
     #we added prefix here to account for German's separable prefixes
     #modal: can, should, will, shall, must, could, would, may, etc
 tense = attribute tense {"present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
+    #let's use perfect for "past" in english and for "preterite" in spanish, as they are esentially the same tenses, but with different names.
 aspect = attribute aspect {"continuous" | "simple" |"perfect" | "perfect continuous"}
     # Latin only uses the first 3, English uses all 4, 
 mood = attribute mood {"indicative" | "subjunctive" | "imperative"}
 voice = attribute voice {"passive" | "active"}
-    #formal is necessary for Spanish verbs, sorry. bc spanish is pro-drop, we can't just mark the pronouns
 formality = attribute formality {"formal"}
-    #impersonal used to mark infinitives, participles, gerunds
+    #formal is necessary for Spanish verbs, sorry. bc spanish is pro-drop, we can't just mark the pronouns
 address = attribute address {"personal" | "impersonal"}
+    #impersonal used to mark infinitives, participles, gerunds
 name = element name {nametype, text}
 nametype = attribute nametype {"name" | "nickname" | "patronymic" | "reference" | "other"}
     #is there anything else we need to specify for this? 

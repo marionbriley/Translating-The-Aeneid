@@ -3,8 +3,9 @@
 <title language="english">The Aeneid</title>
 <writer>Vergil</writer>
     
-    <!--BOOK 1 LINES 192-210-->
+    <!--BOOK 1 LINES 192-213-->
         <!--there's more than 18 lines here- how should I number them?-->
+        <!-- hey Sarah this is Marion that was my bad I mislabeled how many there were on Perseus. you're good! -->
     <book number="1">
     <excerpt subject="speech">
         <body>
@@ -34,60 +35,62 @@
     </excerpt>
     </book>
     
-    <!--BOOK 2 LINES 200-233-->
+    <!--BOOK 2 LINES 200-244-->
     <book number="2">
     <excerpt subject="snakes">
    <body> 
-    <line>But now a vaster <noun>spectacle</noun> of <noun>fear</noun></line>
-    <line><verb aspect="simple" kind="main" mood="indicative" tense="perfect" voice="active">burst</verb> over <noun pronoun="1p">us</noun>, <verb kind="main" mood="indicative" >to vex</verb> our startled <noun>souls</noun>.</line>
-    <line><name nametype="name">Laocoon</name>, that <noun>day</noun> by <noun>cast</noun> of <noun>lot</noun></line>
-    <line><noun>priest</noun> unto <name nametype="name">Neptune</name>, <verb aspect="continuous" kind="main" mood="indicative" voice="active" tense="perfect">was</verb> in <noun>act</noun> <verb kind="main" mood="indicative">to slay</verb></line>
-    <line>a huge <noun>bull</noun> at the <noun>god's</noun> appointed <noun>fane</noun>.</line>
-    <line>Lo! o'er the tranquil <noun>deep</noun> from <name nametype="name">Tenedos</name></line>
-    <line>appeared a pair (I shudder as I tell)</line>
-    <line>of vastly coiling serpents, side by side,</line>
-    <line>stretching along the waves, and to the shore</line>
-    <line>taking swift course; their necks were lifted high,</line>
-    <line>their gory dragon-crests o'ertopped the waves;</line>
-    <line>all else, half seen, trailed low along the sea;</line>
-    <line>while with loud cleavage of the foaming brine</line>
-    <line>their monstrous backs wound forward fold on fold.</line>
-    <line>Soon they made land; the furious bright eyes</line>
-    <line>glowed with ensanguined fire; their quivering tongues</line>
-    <line>lapped hungrily the hissing, gruesome jaws.</line>
-    <line>All terror-pale we fled. Unswerving then</line>
-    <line>the monsters to Laocoon made way.</line>
-    <line>First round the tender limbs of his two sons</line>
-    <line>each dragon coiled, and on the shrinking flesh</line>
-    <line>fixed fast and fed. Then seized they on the sire,</line>
-    <line>who flew to aid, a javelin in his hand,</line>
-    <line>embracing close in bondage serpentine</line>
-    <line>twice round the waist; and twice in scaly grasp</line>
-    <line>around his neck, and o'er him grimly peered</line>
-    <line>with lifted head and crest; he, all the while,</line>
-    <line>his holy fillet fouled with venomous blood,</line>
-    <line>tore at his fetters with a desperate hand,</line>
-    <line>and lifted up such agonizing voice,</line>
-    <line>as when a bull, death-wounded, seeks to flee</line>
-    <line>the sacrificial altar, and thrusts back</line>
-    <line>from his doomed head the ill-aimed, glancing blade.</line>
-    <line>then swiftly writhed the dragon-pair away</line>
-    <line>unto the templed height, and in the shrine</line>
-    <line>of cruel Pallas sure asylum found</line>
-    <line>beneath the goddess' feet and orbed shield.</line>
-    <line>Such trembling horror as we ne'er had known</line>
-    <line>seized now on every heart. “ Of his vast guilt</line>
-    <line>Laocoon,” they say, “receives reward;</line>
-    <line>for he with most abominable spear</line>
-    <line>did strike and violate that blessed wood.</line>
-    <line>Yon statue to the temple! Ask the grace</line>
-    <line>of glorious Pallas!” So the people cried</line>
-    <line>in general acclaim.</line>
+    <line num="200">But now a vaster <noun>spectacle</noun> of <noun>fear</noun></line>
+    <line num="201"><verb aspect="simple" kind="main" mood="indicative" tense="perfect" voice="active" address="personal">burst</verb> over <noun pronoun="1p">us</noun>, <verb kind="main" mood="indicative" tense="present" voice="active" address="impersonal">to vex</verb> our startled <noun>souls</noun>.</line>
+    <line num="202"><name nametype="name">Laocoon</name>, that <noun>day</noun> by <noun>cast</noun> of <noun>lot</noun></line>
+    <line num="203"><noun>priest</noun> unto <name nametype="name">Neptune</name>, <verb aspect="continuous" kind="main" mood="indicative" voice="active" tense="perfect">was</verb> in <noun>act</noun> <verb kind="main" mood="indicative" tense="present" address="impersonal">to slay</verb></line>
+    <line num="204">a huge <noun>bull</noun> at the <noun>god's</noun> appointed <noun>fane</noun>.</line>
+    <line num="205">Lo! o'er the tranquil <noun>deep</noun> from <name nametype="name">Tenedos</name></line>
+    <line num="206"><verb aspect="simple" kind="main" mood="indicative" tense="perfect" voice="active">appeared</verb> a <noun>pair</noun> (<noun pronoun="1s">I</noun> <verb aspect="simple" kind="main" mood="indicative" tense="present" voice="active">shudder</verb> as <noun pronoun="1s">I</noun> <verb aspect="simple" kind="main" mood="indicative" tense="present" voice="active">tell</verb>)</line>
+    <line num="207">of vastly <verb tense="present" address="impersonal" kind="main">coiling</verb> <noun>serpents</noun>, side by side,</line>
+    <line num="208"><verb tense="present" address="impersonal" kind="main">stretching</verb> along the <noun>waves</noun>, and to the <noun>shore</noun></line>
+    <line num="209"><verb tense="present" address="impersonal" kind="main">taking</verb> swift <noun>course</noun>; their <noun>necks</noun> <verb aspect="simple" kind="aux" mood="indicative" tense="perfect" voice="active">were</verb> <verb tense="perfect" address="impersonal" kind="main">lifted</verb> high,</line>
+    <line num="210"><!--their--> gory <noun>dragon-crests</noun> <verb kind="main" aspect="simple" mood="indicative" tense="perfect" voice="active" address="personal">o'ertopped</verb> the <noun>waves</noun>;</line>
+    <line num="211">all else, half <verb tense="perfect" address="impersonal" kind="main">seen</verb>, <verb kind="main" aspect="simple" mood="indicative" tense="perfect" voice="active" address="personal">trailed</verb> low along the <noun>sea</noun>;</line>
+    <line num="212">while with loud <noun>cleavage</noun> of the <verb tense="present" address="impersonal" kind="main">foaming</verb> <noun>brine</noun></line>
+    <line num="213"><!--their--> monstrous <noun>backs</noun> <verb kind="main" aspect="simple" mood="indicative" tense="perfect" voice="active" address="personal">wound</verb> forward <noun>fold</noun> on <noun>fold</noun>.</line>
+    <line num="214">Soon they <!--made land-->; the furious bright <noun>eyes</noun></line>
+    <line num="215"><verb kind="main" aspect="simple" mood="indicative" tense="perfect" voice="active" address="personal">glowed</verb> with ensanguined <noun>fire</noun>; <!--their--> quivering <noun>tongues</noun></line>
+    <line num="216"><verb kind="main" aspect="simple" mood="indicative" tense="perfect" voice="active" address="personal">lapped</verb> hungrily the hissing, gruesome <noun>jaws</noun>.</line>
+    <line num="217">All terror-pale <noun pronoun="1p">we</noun> <verb kind="main" aspect="simple" mood="indicative" tense="perfect" voice="active" address="personal">fled</verb>. <!--Unswerving--> then</line>
+    <line num="218">the <noun>monsters</noun> to <name nametype="name">Laocoon</name> <!--made way.--></line>
+    <line num="219">First round the tender <noun>limbs</noun> of <!--his--> two <noun>sons</noun></line>
+    <line num="220">each <noun>dragon</noun> <verb kind="main" tense="perfect" aspect="simple" voice="active" mood="indicative" address="personal">coiled</verb>, and on the <verb kind="main" tense="present" address="impersonal">shrinking</verb> <noun>flesh</noun></line>
+    <line num="221"><verb kind="main" tense="perfect" aspect="simple" voice="active" mood="indicative" address="personal">fixed</verb> fast and <verb kind="main" tense="perfect" aspect="simple" voice="active" mood="indicative" address="personal">fed</verb>. Then <verb kind="main" tense="perfect" aspect="simple" voice="active" mood="indicative" address="personal">seized</verb> <noun pronoun="3p">they</noun> on the <noun>sire</noun>,</line>
+    <line num="222">who <verb kind="aux" tense="perfect" aspect="simple" voice="active" mood="indicative" address="personal">flew</verb> <verb kind="main" tense="present" voice="active" address="impersonal">to aid</verb>, a <noun>javelin</noun> in <!--his--> <noun>hand</noun>,</line>
+    <line num="223"><verb kind="main" tense="present" address="impersonal">embracing</verb> close in <noun>bondage</noun> serpentine</line>
+    <line num="224">twice round the <noun>waist</noun>; and twice in scaly <noun>grasp</noun></line>
+    <line num="225">around <!--his--> <noun>neck</noun>, and o'er <noun pronoun="3s">him</noun> grimly <verb kind="main" aspect="simple" tense="perfect" mood="indicative" voice="active" address="personal">peered</verb></line>
+    <line num="226">with <verb kind="main" tense="perfect" address="impersonal">lifted</verb> <noun>head</noun> and <noun>crest</noun>; <noun pronoun="3s">he</noun>, all the while,</line>
+    <line num="227"><!--his--> holy <noun>fillet</noun> <verb kind="main" tense="perfect" address="impersonal">fouled</verb> with venomous <noun>blood</noun>,</line>
+    <line num="228"><verb aspect="simple" mood="indicative" voice="active" kind="main" tense="perfect" address="personal">tore</verb> at <!--his--> <noun>fetters</noun> with a desperate <noun>hand</noun>,</line>
+    <line num="229">and lifted up such agonizing voice,</line>
+    <line num="230">as when a bull, death-wounded, seeks to flee</line>
+    <line num="231">the sacrificial altar, and thrusts back</line>
+    <line num="232">from his doomed head the ill-aimed, glancing blade.</line>
+    <line num="233">Then swiftly writhed the dragon-pair away</line>
+    <line num="234">unto the templed height, and in the shrine</line>
+    <line num="235">of cruel Pallas sure asylum found</line>
+    <line num="236">beneath the goddess' feet and orbed shield.</line>
+    <line num="237">Such trembling horror as we ne'er had known</line>
+    <line num="238">seized now on every heart. “ Of his vast guilt</line>
+    <line num="239">Laocoon,” they say, “receives reward;</line>
+    <line num="240">for he with most abominable spear</line>
+    <line num="241">did strike and violate that blessed wood.</line>
+    <line num="242">Yon statue to the temple! Ask the grace</line>
+    <line num="243">of glorious Pallas!” So the people cried</line>
+    <line num="244">in general acclaim.</line>
    </body>
     </excerpt>
     </book>
     
     BOOK 4 LINES 679-713
+    <!--Kalan it's Marion I realized I miscounted which lines these were on Perseus for the first and second excerpt, 
+        so maybe ignore the line num attribute for now because the Perseus site isn't loading for me to double check.-->
     Her sister heard. Half in a swoon, she ran
     with trembling steps, where thickest was the throng,
     beating her breast, while with a desperate hand
