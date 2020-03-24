@@ -68,22 +68,22 @@
     <line num="226">with <verb kind="main" tense="perfect" address="impersonal">lifted</verb> <noun>head</noun> and <noun>crest</noun>; <noun pronoun="3s">he</noun>, all the while,</line>
     <line num="227"><!--his--> holy <noun>fillet</noun> <verb kind="main" tense="perfect" address="impersonal">fouled</verb> with venomous <noun>blood</noun>,</line>
     <line num="228"><verb aspect="simple" mood="indicative" voice="active" kind="main" tense="perfect" address="personal">tore</verb> at <!--his--> <noun>fetters</noun> with a desperate <noun>hand</noun>,</line>
-    <line num="229">and lifted up such agonizing voice,</line>
-    <line num="230">as when a bull, death-wounded, seeks to flee</line>
-    <line num="231">the sacrificial altar, and thrusts back</line>
-    <line num="232">from his doomed head the ill-aimed, glancing blade.</line>
-    <line num="233">Then swiftly writhed the dragon-pair away</line>
-    <line num="234">unto the templed height, and in the shrine</line>
-    <line num="235">of cruel Pallas sure asylum found</line>
-    <line num="236">beneath the goddess' feet and orbed shield.</line>
-    <line num="237">Such trembling horror as we ne'er had known</line>
-    <line num="238">seized now on every heart. “ Of his vast guilt</line>
-    <line num="239">Laocoon,” they say, “receives reward;</line>
-    <line num="240">for he with most abominable spear</line>
-    <line num="241">did strike and violate that blessed wood.</line>
-    <line num="242">Yon statue to the temple! Ask the grace</line>
-    <line num="243">of glorious Pallas!” So the people cried</line>
-    <line num="244">in general acclaim.</line>
+    <line num="229">and <!--lifted--> up such agonizing <noun>voice</noun>,</line>
+    <line num="230">as when a <noun>bull</noun>, death-wounded, <verb voice="active" tense="present" mood="indicative" kind="aux" aspect="simple" address="personal">seeks</verb> <verb kind="main" voice="active" address="impersonal" tense="present">to flee</verb></line>
+    <line num="231">the sacrificial <noun>altar</noun>, and <verb mood="indicative" aspect="simple" kind="main" voice="active" address="personal" tense="present">thrusts</verb> back</line>
+    <line num="232">from <!--his--> doomed <noun>head</noun> the ill-aimed, <verb tense="present" address="impersonal" kind="main">glancing</verb> <noun>blade</noun>.</line>
+    <line num="233">Then swiftly <verb kind="main" voice="active" address="personal" tense="perfect" aspect="simple" mood="indicative">writhed</verb> the <noun>dragon-pair</noun> away</line>
+    <line num="234">unto the templed <noun>height</noun>, and in the <noun>shrine</noun></line>
+    <line num="235">of cruel <noun>Pallas</noun> sure <noun>asylum</noun> <verb mood="indicative" aspect="simple" tense="perfect" address="personal" voice="active" kind="main">found</verb></line>
+    <line num="236">beneath the <noun>goddess</noun>' <noun>feet</noun> and orbed <noun>shield</noun>.</line>
+    <line num="237">Such trembling <noun>horror</noun> as <noun pronoun="1p">we</noun> ne'er <verb voice="active" address="personal" tense="perfect" aspect="perfect" mood="indicative">had known</verb></line>
+    <line num="238"><verb mood="indicative" aspect="simple" tense="perfect" address="personal" kind="main" voice="active">seized</verb> now on every <noun>heart</noun>. “ Of <!--his--> vast <noun>guilt</noun></line>
+    <line num="239"><name nametype="name">Laocoon</name>,” <noun pronoun="3p">they</noun> <verb voice="active" kind="main" address="personal" tense="present" aspect="simple" mood="indicative">say</verb>, “<verb mood="indicative" aspect="simple" tense="present" address="personal" kind="main" voice="active">receives</verb> <noun>reward</noun>;</line>
+    <line num="240">for <noun pronoun="3s">he</noun> with most abominable <noun>spear</noun></line>
+    <line num="241"><verb voice="active" kind="aux" address="personal" tense="perfect" aspect="simple" mood="indicative">did</verb> <verb address="impersonal" kind="main" tense="present">strike</verb> and <verb tense="present" address="impersonal" kind="main">violate</verb> that blessed <noun>wood</noun>.</line>
+    <line num="242">Yon <noun>statue</noun> to the <noun>temple</noun>! <verb kind="main" address="personal" tense="present" mood="imperative" aspect="simple" voice="active">Ask</verb> the <noun>grace</noun></line>
+    <line num="243">of glorious <name nametype="name">Pallas</name>!” So the <noun>people</noun> <verb voice="active" aspect="simple" mood="indicative" tense="perfect" address="personal" kind="main">cried</verb></line>
+    <line num="244">in general <noun>acclaim</noun>.</line>
    </body>
     </excerpt>
     </book>

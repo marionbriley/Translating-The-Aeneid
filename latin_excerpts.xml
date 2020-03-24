@@ -1,93 +1,112 @@
-LATIN EXCERPTS
+<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
+<poem>
+    <title language="latin">Aeneidos</title>
+    <writer>Publius Vergilius Maro</writer>
 
-BOOK 1 LINES 195-209
-Vina bonus quae deinde cadis onerarat Acestes
-litore Trinacrio dederatque abeuntibus heros,
- dividit, et dictis maerentia pectora mulcet:
+    <book number="1">
+        <excerpt subject="speech">
+            <body>
+                <line num="195">Vina bonus quae deinde cadis onerarat Acestes</line>
+                <line num="196">litore Trinacrio dederatque abeuntibus heros,</line>
+                <line num="197"> dividit, et dictis maerentia pectora mulcet:</line>
 
-'O socii—neque enim ignari sumus ante malorum— 
-O passi graviora, dabit deus his quoque finem. 
-Vos et Scyllaeam rabiem penitusque sonantis
- accestis scopulos, vos et Cyclopea saxa 
-experti: revocate animos, maestumque timorem 
-mittite: forsan et haec olim meminisse iuvabit. 
-Per varios casus, per tot discrimina rerum
- tendimus in Latium; sedes ubi fata quietas
-ostendunt; illic fas regna resurgere Troiae. 
-Durate, et vosmet rebus servate secundis.'
+                <line num="198">'O socii—neque enim ignari sumus ante malorum— </line>
+                <line num="199">O passi graviora, dabit deus his quoque finem. </line>
+                <line num="200">Vos et Scyllaeam rabiem penitusque sonantis</line>
+                <line num="201"> accestis scopulos, vos et Cyclopea saxa </line>
+                <line num="202">experti: revocate animos, maestumque timorem </line>
+                <line num="203">mittite: forsan et haec olim meminisse iuvabit. </line>
+                <line num="204">Per varios casus, per tot discrimina rerum</line>
+                <line num="205"> tendimus in Latium; sedes ubi fata quietas</line>
+                <line num="206">ostendunt; illic fas regna resurgere Troiae. </line>
+                <line num="207">Durate, et vosmet rebus servate secundis.'</line>
 
-Talia voce refert, curisque ingentibus aeger 
-spem voltu simulat, premit altum corde dolorem.
+                <line num="208">Talia voce refert, curisque ingentibus aeger </line>
+                <line num="209">spem voltu simulat, premit altum corde dolorem.</line>
+            </body>
+        </excerpt>
+    </book>
 
-BOOK 2 LINES 199-233
-Hic aliud maius miseris multoque tremendum
-obicitur magis atque improvida pectora turbat.
-Laocoon, ductus Neptuno sorte sacerdos,
-sollemnis taurum ingentem mactabat ad aras.
-ecce autem gemini a Tenedo tranquilla per alta
-(horresco referens) immensis orbibus angues
-incumbunt pelago pariterque ad litora tendunt;
-pectora quorum inter fluctus arrecta iubaeque
-sanguineae superant undas, pars cetera pontum
-pone legit sinuatque immensa volumine terga.
-fit sonitus spumante salo; iamque arva tenebant
-ardentisque oculos suffecti sanguine et igni
-sibila lambebant linguis vibrantibus ora.
-diffugimus visu exsangues. illi agmine certo
-Laocoonta petunt; et primum parva duorum
-corpora natorum serpens amplexus uterque
-implicat et miseros morsu depascitur artus;
-post ipsum auxilio subeuntem ac tela ferentem
-corripiunt spirisque ligant ingentibus; et iam
-bis medium amplexi, bis collo squamea circum
-terga dati superant capite et cervicibus altis.
-ille simul manibus tendit divellere nodos
-perfusus sanie vittas atroque veneno,
-clamores simul horrendos ad sidera tollit:
-qualis mugitus, fugit cum saucius aram
-taurus et incertam excussit cervice securim.
-at gemini lapsu delubra ad summa dracones
-effugiunt saevaeque petunt Tritonidis arcem,
-sub pedibusque deae clipeique sub orbe teguntur.
-tum vero tremefacta novus per pectora cunctis
-insinuat pavor, et scelus expendisse merentem
-Laocoonta ferunt, sacrum qui cuspide robur
-laeserit et tergo sceleratam intorserit hastam.
-ducendum ad sedes simulacrum orandaque divae
-numina conclamant.
+    <book number="2">
+        <excerpt subject="snakes">
+            <body>
+                <line num="199">Hic aliud maius miseris multoque tremendum</line>
+                <line num="200">obicitur magis atque improvida pectora turbat.</line>
+                <line num="201">Laocoon, ductus Neptuno sorte sacerdos,</line>
+                <line num="202">sollemnis taurum ingentem mactabat ad aras.</line>
+                <line num="203">ecce autem gemini a Tenedo tranquilla per alta</line>
+                <line num="204">(horresco referens) immensis orbibus angues</line>
+                <line num="205">incumbunt pelago pariterque ad litora tendunt;</line>
+                <line num="206">pectora quorum inter fluctus arrecta iubaeque</line>
+                <line num="207">sanguineae superant undas, pars cetera pontum</line>
+                <line num="208">pone legit sinuatque immensa volumine terga.</line>
+                <line num="209">fit sonitus spumante salo; iamque arva tenebant</line>
+                <line num="210">ardentisque oculos suffecti sanguine et igni</line>
+                <line num="211">sibila lambebant linguis vibrantibus ora.</line>
+                <line num="212">diffugimus visu exsangues. illi agmine certo</line>
+                <line num="213">Laocoonta petunt; et primum parva duorum</line>
+                <line num="214">corpora natorum serpens amplexus uterque</line>
+                <line num="215">implicat et miseros morsu depascitur artus;</line>
+                <line num="216">post ipsum auxilio subeuntem ac tela ferentem</line>
+                <line num="217">corripiunt spirisque ligant ingentibus; et iam</line>
+                <line num="218">bis medium amplexi, bis collo squamea circum</line>
+                <line num="219">terga dati superant capite et cervicibus altis.</line>
+                <line num="220">ille simul manibus tendit divellere nodos</line>
+                <line num="221">perfusus sanie vittas atroque veneno,</line>
+                <line num="222">clamores simul horrendos ad sidera tollit:</line>
+                <line num="223">qualis mugitus, fugit cum saucius aram</line>
+                <line num="224">taurus et incertam excussit cervice securim.</line>
+                <line num="225">at gemini lapsu delubra ad summa dracones</line>
+                <line num="226">effugiunt saevaeque petunt Tritonidis arcem,</line>
+                <line num="227">sub pedibusque deae clipeique sub orbe teguntur.</line>
+                <line num="228">tum vero tremefacta novus per pectora cunctis</line>
+                <line num="229">insinuat pavor, et scelus expendisse merentem</line>
+                <line num="230">Laocoonta ferunt, sacrum qui cuspide robur</line>
+                <line num="231">laeserit et tergo sceleratam intorserit hastam.</line>
+                <line num="232">ducendum ad sedes simulacrum orandaque divae</line>
+                <line num="233">numina conclamant.</line>
+            </body>
+        </excerpt>
+    </book>
 
-BOOK 4 LINES 672-705
-audiit exanimis trepidoque exterrita cursu
- unguibus ora soror foedans et pectora pugnis 
-per medios ruit, ac morientem nomine clamat: 
-'hoc illud, germana, fuit? me fraude petebas?
- hoc rogus iste mihi, hoc ignes araeque parabant?
- quid primum deserta querar? comitemne sororem 
-sprevisti moriens? eadem me ad fata vocasses, 
-idem ambas ferro dolor atque eadem hora tulisset. 
-his etiam struxi manibus patriosque vocavi
-voce deos, sic te ut posita, crudelis, abessem? 
-exstinxti te meque, soror, populumque patresque 
-Sidonios urbemque tuam. date, vulnera lymphis 
-abluam et, extremus si quis super halitus errat, 
-ore legam.' sic fata gradus evaserat altos,
-semianimemque sinu germanam amplexa fovebat 
-cum gemitu atque atros siccabat veste cruores.
- illa gravis oculos conata attollere rursus 
-deficit; infixum stridit sub pectore vulnus. 
-ter sese attollens cubitoque adnixa levavit,
-ter revoluta toro est oculisque errantibus alto 
-quaesivit caelo lucem ingemuitque reperta.
-Tum Iuno omnipotens longum miserata dolorem 
-difficilisque obitus Irim demisit Olympo
- quae luctantem animam nexosque resolveret artus.
- nam quia nec fato merita nec morte peribat, 
-sed misera ante diem subitoque accensa furore, 
-nondum illi flavum Proserpina vertice crinem 
-abstulerat Stygioque caput damnaverat Orco.
- ergo Iris croceis per caelum roscida pennis
- mille trahens varios adverso sole colores
- devolat et supra caput astitit. 'hunc ego Diti 
-sacrum iussa fero teque isto corpore solvo': 
-sic ait et dextra crinem secat, omnis et una 
-dilapsus calor atque in ventos vita recessit.
+    <book number="4">
+        <excerpt subject="suicide">
+            <body>
+                <line num="672">audiit exanimis trepidoque exterrita cursu</line>
+                <line num="673"> unguibus ora soror foedans et pectora pugnis </line>
+                <line num="674">per medios ruit, ac morientem nomine clamat: </line>
+                <line num="675">'hoc illud, germana, fuit? me fraude petebas?</line>
+                <line num="676"> hoc rogus iste mihi, hoc ignes araeque parabant?</line>
+                <line num="677"> quid primum deserta querar? comitemne sororem </line>
+                <line num="678">sprevisti moriens? eadem me ad fata vocasses, </line>
+                <line num="679">idem ambas ferro dolor atque eadem hora tulisset. </line>
+                <line num="680">his etiam struxi manibus patriosque vocavi</line>
+                <line num="681">voce deos, sic te ut posita, crudelis, abessem? </line>
+                <line num="682">exstinxti te meque, soror, populumque patresque </line>
+                <line num="683">Sidonios urbemque tuam. date, vulnera lymphis </line>
+                <line num="684">abluam et, extremus si quis super halitus errat, </line>
+                <line num="685">ore legam.' sic fata gradus evaserat altos,</line>
+                <line num="686">semianimemque sinu germanam amplexa fovebat </line>
+                <line num="687">cum gemitu atque atros siccabat veste cruores.</line>
+                <line num="688"> illa gravis oculos conata attollere rursus </line>
+                <line num="689">deficit; infixum stridit sub pectore vulnus. </line>
+                <line num="690">ter sese attollens cubitoque adnixa levavit,</line>
+                <line num="691">ter revoluta toro est oculisque errantibus alto </line>
+                <line num="692">quaesivit caelo lucem ingemuitque reperta.</line>
+                <line num="693">Tum Iuno omnipotens longum miserata dolorem </line>
+                <line num="694">difficilisque obitus Irim demisit Olympo</line>
+                <line num="695"> quae luctantem animam nexosque resolveret artus.</line>
+                <line num="696"> nam quia nec fato merita nec morte peribat, </line>
+                <line num="697">sed misera ante diem subitoque accensa furore, </line>
+                <line num="698">nondum illi flavum Proserpina vertice crinem </line>
+                <line num="699">abstulerat Stygioque caput damnaverat Orco.</line>
+                <line num="700"> ergo Iris croceis per caelum roscida pennis</line>
+                <line num="701"> mille trahens varios adverso sole colores</line>
+                <line num="702"> devolat et supra caput astitit. 'hunc ego Diti </line>
+                <line num="703">sacrum iussa fero teque isto corpore solvo': </line>
+                <line num="704">sic ait et dextra crinem secat, omnis et una </line>
+                <line num="705">dilapsus calor atque in ventos vita recessit.</line>
+            </body>
+        </excerpt>
+    </book>
+</poem>
