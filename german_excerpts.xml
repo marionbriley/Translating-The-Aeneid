@@ -5,64 +5,71 @@
     
     <!--BOOK 1 LINES 195-209-->
     <book number="1">
-    <excerpt>
+    <excerpt subject="speech">
         <body>
-            <line num="195">Dann auch den <noun>Wein</noun>, den in <noun>Krügen</noun> <verb>gefüllt</verb> der gute <name>Akestes</name></line>
-            <line num="196">Am trinakrischen <noun>Strande</noun>, der <noun>Held</noun>, den <noun>Scheidenden</noun> <verb>schenkte</verb>,</line>
-            <line num="197"><noun>Ihn</noun> auch <verb>teilt</verb> <noun>er</noun> und <verb>sänftigt</verb> so die bekümmerten <noun>Herzen</noun>:</line>            
-            <line num="198">"Teure <noun>Gefährten</noun> - <noun>wir</noun> <verb>sind</verb> ja nicht unkundig im <noun>Leiden</noun> –</line>
-            <line num="199"><noun>Ihr</noun>, die <noun>ihr</noun> <noun>Schlimmres</noun> <verb>erlebt</verb>, ein <noun>Gott</noun> <verb>wird</verb> <noun>dieses</noun> auch <verb>enden</verb>.</line>
-            <line num="200"><noun>Ihr</noun> <verb>seid</verb> <name>Skyllas</name> <noun>Wut</noun> und den lärmdurchschütterten <noun>Riffen</noun></line>
-            <line num="201"><verb>Nahe</verb> <verb>gekommen</verb>, <noun>ihr</noun> <verb>habt</verb> die kyklopische <noun>Felsenbehausung</noun></line>
-            <line num="202"><verb>Kennen</verb> <verb>gelernt</verb>. <verb>Fasst</verb> wiederum <noun>Mut</noun>, <verb>lasst</verb> <verb>ab</verb> von der trüben</line>
-            <line num="203"><noun>Furcht</noun>. Vielleicht <verb>wird</verb> einst die <noun>Erinnrung</noun> daran <noun>euch</noun> <verb>ergötzen</verb>.</line>
-            <line num="204">Durch manch <noun>Wechselgeschick</noun>, durch bedrängter <noun>Entscheidungen</noun> viele</line>
-            <line num="205"><verb>Ziehen</verb> nach <noun>Latium</noun> <noun>wir</noun>, wo das <noun>Schicksal</noun> ruhige <noun>Sitze</noun></line>
-            <line num="206">Sicher <verb>verheißt</verb>. Dort <verb>darf</verb> von neuem sich <noun>Troia</noun> <verb>erheben</verb>.</line>
-            <line num="207"><verb>Macht</verb> <noun>euch</noun> hart und <verb>erhaltet</verb> <noun>euch</noun> <noun>selbst</noun> für bessere <noun>Zeiten</noun>!"</line>
+            <line num="195">Dann auch den <noun case="acc">Wein</noun>, <noun case="acc">den</noun> in <noun case="acc">Krügen</noun> <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="impersonal">gefüllt</verb> der gute <name nametype="name" case="nom">Akestes</name></line>
+            <line num="196">Am trinakrischen <noun case="dat">Strande</noun>, der <noun case="nom">Held</noun>, <noun case="acc">den</noun> <sound_device device="alliteration"><noun case="nom">Scheidenden</noun> <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">schenkte</verb></sound_device>,</line>
+            <line num="197"><noun case="acc">Ihn</noun> auch <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">teilt</verb> <noun pronoun="3s" case="nom">er</noun> und <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">sänftigt</verb> so die bekümmerten <noun case="acc">Herzen</noun>:</line>            
+            <line num="198">"Teure <noun case="nom">Gefährten</noun> - <noun case="nom" pronoun="1p">wir</noun> <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">sind</verb> ja nicht unkundig im <noun case="dat">Leiden</noun> –</line>
+            <line num="199"><noun case="nom" pronoun="2p">Ihr</noun>, <noun case="nom">die</noun> <noun possessive="possessor">ihr</noun> <noun possessive="possessee" case="acc">Schlimmres</noun> <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">erlebt</verb>, ein <noun case="nom">Gott</noun> <verb kind="aux" tense="future" aspect="simple" mood="indicative" voice="active" address="personal">wird</verb> <noun case="acc">dieses</noun> auch <verb kind="main" address="impersonal">enden</verb>.</line>
+            <line num="200"><noun case="nom" pronoun="2p">Ihr</noun> <verb kind="aux" aspect="perfect" mood="indicative" voice="active" address="personal">seid</verb> <name nametype="name" possessive="possessor">Skyllas</name> <noun possessive="possessee" case="dat">Wut</noun> und den lärmdurchschütterten <noun case="dat">Riffen</noun></line>
+            <line num="201"><verb kind="prefix">Nahe</verb> <verb kind="main" tense="present" address="impersonal">gekommen</verb>, <noun pronoun="2p" case="nom">ihr</noun> <verb kind="aux" aspect="perfect" mood="indicative" voice="active" address="personal">habt</verb> die kyklopische <noun case="acc">Felsenbehausung</noun></line>
+            <line num="202"><verb kind="prefix">Kennen</verb> <verb kind="main" tense="present" address="impersonal">gelernt</verb>. <verb kind="main" mood="imperative" voice="active" address="personal">Fasst</verb> wiederum <noun case="acc">Mut</noun>, <verb kind="main" mood="imperative" voice="active" address="personal">lasst</verb> <verb kind="prefix">ab</verb> von der trüben</line>
+            <line num="203"><noun case="dat">Furcht</noun>. Vielleicht <verb kind="aux" tense="future" aspect="simple" mood="indicative" voice="active" address="personal">wird</verb> einst die <noun case="nom">Erinnrung</noun> daran <noun pronoun="2p" case="dat">euch</noun> <verb kind="main" address="impersonal">ergötzen</verb>.</line>
+            <line num="204">Durch manch <noun case="nom">Wechselgeschick</noun>, durch bedrängter <noun case="acc">Entscheidungen</noun> viele</line>
+            <line num="205"><verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">Ziehen</verb> nach <noun case="dat">Latium</noun> <noun pronoun="1p" case="nom">wir</noun>, wo das <noun case="nom">Schicksal</noun> ruhige <noun case="acc">Sitze</noun></line>
+            <line num="206">Sicher <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">verheißt</verb>. Dort <verb kind="modal" mood="indicative" voice="active" address="personal">darf</verb> von neuem sich <noun case="nom">Troia</noun> <verb kind="main" address="impersonal">erheben</verb>.</line>
+            <line num="207"><verb kind="main" mood="imperative" voice="active" address="personal">Macht</verb> <noun case="reflexive" pronoun="2p">euch</noun> hart und <verb kind="main" mood="imperative" voice="active" address="personal">erhaltet</verb> <noun case="reflexive" pronoun="2p">euch</noun> selbst für bessere <noun case="acc">Zeiten</noun>!"</line>
             
-            <line num="208">Also <verb>lautet</verb> sein <noun>Wort</noun>, und siech von unsäglichem <noun>Kummer</noun></line>
-            <line num="209"><verb>Zeigt</verb> er <noun>Hoffnung</noun> im <noun>Blick</noun>; tief <verb>birgt</verb> er den <noun>Schmerz</noun> in dem <noun>Busen</noun>.</line>
+            <line num="208">Also <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">lautet</verb> <noun possessive="possessor">sein</noun> <noun possessive="possessee" case="nom">Wort</noun>, und siech von unsäglichem <noun case="dat">Kummer</noun></line>
+            <line num="209"><verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">Zeigt</verb> <noun case="nom" pronoun="3s">er</noun> <noun case="acc">Hoffnung</noun> im <noun case="dat">Blick</noun>; tief <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">birgt</verb> <noun pronoun="3s" case="nom">er</noun> den <noun case="acc">Schmerz</noun> in dem <noun case="dat">Busen</noun>.</line>
         </body>
     </excerpt>
     </book>
     
-    BOOK 2 LINES 199-233
-    Etwas Größres jedoch - und um vieles entsetzlicher - zeigt jetzt
-    Uns Unglücklichen sich und verwirrt die erschrockenen Herzen.
-    Priester Neptuns durch das Los, ist eben Laokoon tätig,
-    Einen gewaltigen Stier am Festaltare zu schlachten.
-    Siehe, da wälzt von Tenedos sich durch die ruhige Tiefe
-    - Schaudernd erzähl ich's - ein Paar von Schlangen in furchtbaren Kreisen,
-    Über der Meerflut Rücken vereint hersteuernd zur Küste.
-    Hoch durch die Brandung erhebt sich die Brust, und die blutigen Mähnen
-    Ragen empor aus den Wogen, dahinter dann schleppt sich der andre
-    Teil durch das Meer, unermesslich den Leib in Windungen schlingend.
-    Rauschen ertönt aus der schäumenden Flut; schon sind sie am Lande,
-    Und mit brennenden Augen, von Blut und Feuer durchschossen,
-    Recken aus zischendem Schlund sie die leckenden, zitternden Zungen.
-    Bleich bei der Schau zerstäuben wir rings. Sie, sicheren Schwunges,
-    Greifen Laokoon an; und die schmächtigen Leiber der beiden
-    Söhnlein umringelt zuerst das Gewürm mit verschlungenem Knoten,
-    Und mit grimmigem Biss zernagt es die Glieder der Armen.
-    Drauf, da er selbst zum Beistand eilt mit erhobener Waffe,
-    Fassen sie ihn und schnüren ihn ein mit furchtbaren Schlingen.
-    Zweimal umwickeln den Leib, zweimal umringeln den Hals sie
-    Ihm mit dem Schuppengewind, und es bäumt sich ihr Nacken und Haupt hoch.
-    Jener bemüht sich der Knoten Gewirr mit den Händen zu trennen;
-    Geifer und schwärzliches Gift umströmt ihm die heiligen Binden;
-    Grässlich ertönt sein Jammergeschrei empor zu den Sternen,
-    Gleich dem Gebrülle des Stiers, wenn verwundet er von dem Altar flieht
-    Und von dem Nacken das Beil, das schwankend geführte, sich schüttelt.
-    Aber das Zwillingsgewürm schlüpft flüchtig hinauf zu des Tempels
-    Höhn, zu der grimmen Tritonia Burg, wo unter der Göttin
-    Füßen es still sich verbirgt und unter dem Rande des Schildes.
-    Jeglicher Busen erbebt; es durchdringt ein nimmer gekannter
-    Schrecken das Volk. Man sagt, Laokoon habe den Frevel,
-    Wie er verdienet, gebüßt, da das heilige Holz mit dem Spieß er
-    Schädigte, da er den Leib mit frevelnder Lanze durchbohrte.
-    Laut heischt alles, das Bild zum Sitze der Göttin zu führen
-    Und sie um Gnade zu flehn.
+    <!--BOOK 2 LINES 199-233-->
+    <book number="2">
+        <excerpt subject="snakes">
+            <body>
+                <line  num="199">Etwas <noun case="nom">Größres</noun> jedoch - und um vieles entsetzlicher - <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">zeigt</verb> jetzt</line>
+                <line num="200">Uns Unglücklichen sich und verwirrt die erschrockenen Herzen.</line>
+                <line  num="201">Priester Neptuns durch das Los, ist eben Laokoon tätig,</line>
+                <line  num="202">Einen gewaltigen Stier am Festaltare zu schlachten.</line>
+                <line  num="203">Siehe, da wälzt von Tenedos sich durch die ruhige Tiefe</line>
+                <line  num="204">- Schaudernd erzähl ich's - ein Paar von Schlangen in furchtbaren Kreisen,</line>
+                <line num="205">Über der Meerflut Rücken vereint hersteuernd zur Küste.</line>
+                <line num="206">Hoch durch die Brandung erhebt sich die Brust, und die blutigen Mähnen</line>
+                <line num="207">Ragen empor aus den Wogen, dahinter dann schleppt sich der andre</line>
+                <line num="208">Teil durch das Meer, unermesslich den Leib in Windungen schlingend.</line>
+                <line num="209">Rauschen ertönt aus der schäumenden Flut; schon sind sie am Lande,</line>
+                <line num="210">Und mit brennenden Augen, von Blut und Feuer durchschossen,</line>
+                <line num="211">Recken aus zischendem Schlund sie die leckenden, zitternden Zungen.</line>
+                <line num="212">Bleich bei der Schau zerstäuben wir rings. Sie, sicheren Schwunges,</line>
+                <line num="213">Greifen Laokoon an; und die schmächtigen Leiber der beiden</line>
+                <line num="214">Söhnlein umringelt zuerst das Gewürm mit verschlungenem Knoten,</line>
+                <line num="215">Und mit grimmigem Biss zernagt es die Glieder der Armen.</line>
+                <line num="216">Drauf, da er selbst zum Beistand eilt mit erhobener Waffe,</line>
+                
+                <line num="217">Fassen sie ihn und schnüren ihn ein mit furchtbaren Schlingen.</line>
+                <line num="218">Zweimal umwickeln den Leib, zweimal umringeln den Hals sie</line>
+                <line num="219">Ihm mit dem Schuppengewind, und es bäumt sich ihr Nacken und Haupt hoch.</line>
+                <line num="220">Jener bemüht sich der Knoten Gewirr mit den Händen zu trennen;</line>
+                <line num="221">Geifer und schwärzliches Gift umströmt ihm die heiligen Binden;</line>
+                <line num="222">Grässlich ertönt sein Jammergeschrei empor zu den Sternen,</line>
+                <line num="223">Gleich dem Gebrülle des Stiers, wenn verwundet er von dem Altar flieht</line>
+                <line num="224">Und von dem Nacken das Beil, das schwankend geführte, sich schüttelt.</line>
+                <line num="225">Aber das Zwillingsgewürm schlüpft flüchtig hinauf zu des Tempels</line>
+                <line num="226">Höhn, zu der grimmen Tritonia Burg, wo unter der Göttin</line>
+                <line num="227">Füßen es still sich verbirgt und unter dem Rande des Schildes.</line>
+                <line num="228">Jeglicher Busen erbebt; es durchdringt ein nimmer gekannter</line>
+                <line num="229">Schrecken das Volk. Man sagt, Laokoon habe den Frevel,</line>
+                <line num="230">Wie er verdienet, gebüßt, da das heilige Holz mit dem Spieß er</line>
+                <line num="231">Schädigte, da er den Leib mit frevelnder Lanze durchbohrte.</line>
+                <line num="232">Laut heischt alles, das Bild zum Sitze der Göttin zu führen</line>
+                <line num="233">Und sie um Gnade zu flehn.</line>
+            </body>
+        </excerpt>
+    </book>
     
     BOOK 4 LINES 672-705
     Außer sich hört es die Schwester; erschreckt, in hastigem Laufe,
