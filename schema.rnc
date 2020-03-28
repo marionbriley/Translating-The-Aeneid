@@ -17,22 +17,21 @@ line = element line { (mixed { num, (fig_lang | sound_device | noun | verb | nam
     #each line contains fig lang, sound devices, nouns, verbs, names, etc.
     #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
 num = attribute num { xsd:int }
-fig_lang = element fig_lang {type, text}
+fig_lang = element fig_lang { (mixed {type, (sound_device | noun | verb | name)* }) }
 type = attribute type {"metaphor" | "simile" | "idiom"}
-sound_device = element sound_device {device, text}
+sound_device = element sound_device { (mixed {device, (fig_lang | noun | verb | name)* }) }
 device = attribute device {"alliteration" | "assonance" | "consonance"}
-noun = element noun {case*, pronoun*, text}
+noun = element noun {case*, pronoun*, possessive*, text}
 case = attribute case {"nom" | "gen" | "abl" | "dat" | "acc" | "voc"}
 pronoun = attribute pronoun {"1s" | "1p" | "2s" | "2p" | "2sf" | "2pf" | "3s" | "3p"}
-
+possessive = attribute possessive {"possessor" | "possessee"}
 verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*, text}
     #PLEASE PLEASE USE THESE ATTRIBUTES WHEREVER POSSIBLE. They are not required because participles, infitives, and gerunds would not necessarily be modified by all of these, 
     #but it's so important to keep track for other verbs!
-kind = attribute kind {"main" | "aux" | "prefix" | "modal"}
+kind = attribute kind {"main" | "aux" | "prefix" | "suffix" | "modal"}
     #we added prefix here to account for German's separable prefixes
     #modal: can, should, will, shall, must, could, would, may, etc
 tense = attribute tense {"preterite" | "past" | "present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
-    #let's use perfect for "past" in english and for "preterite" in spanish, as they are esentially the same tenses, but with different names.
 aspect = attribute aspect {"continuous" | "simple" |"perfect" | "perfect continuous"}
     # Latin only uses the first 3, English uses all 4, 
 mood = attribute mood {"indicative" | "subjunctive" | "imperative"}
