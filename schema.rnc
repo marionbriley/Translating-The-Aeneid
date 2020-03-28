@@ -25,6 +25,7 @@ noun = element noun {case*, pronoun*, possessive*, text}
 case = attribute case {"nom" | "gen" | "abl" | "dat" | "acc" | "voc"}
 pronoun = attribute pronoun {"1s" | "1p" | "2s" | "2p" | "2sf" | "2pf" | "3s" | "3p"}
 possessive = attribute possessive {"possessor" | "possessee"}
+
 verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*, text}
     #PLEASE PLEASE USE THESE ATTRIBUTES WHEREVER POSSIBLE. They are not required because participles, infitives, and gerunds would not necessarily be modified by all of these, 
     #but it's so important to keep track for other verbs!
@@ -41,7 +42,7 @@ formality = attribute formality {"formal"}
 address = attribute address {"personal" | "impersonal"}
     #impersonal used to mark infinitives, participles, gerunds
 
-name = element name {nametype, text}
+name = element name {nametype, possessive*, text}
 nametype = attribute nametype {"name" | "nickname" | "patronymic" | "reference" | "other"}
     #is there anything else we need to specify for this? 
     #reference would tag adjectives or other words used in place of a noun to refer to a person.
