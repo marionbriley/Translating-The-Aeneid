@@ -44,64 +44,61 @@
         <!--PAGES 56-58-->
         <excerpt subject="snakes">
             <body>
-                <line>Terrible entonces singular portento </line>
-                <line>Preséntase á los míseros troyanos </line>
-                <line>De súbito, y sus ánimos conturba. </line>
-                <line>El ilustre <name nametype="name">Laoconte</name>, de <name nametype="name"
-                        >Neptuuo</name>
-                </line>
-                <line>Sacerdote elegido por la suerte, </line>
-                <line>Un toro corpulento cabe el ara</line>
-                <line>Inmola con solemne sacrificio. </line>
-                <line>Y hé aquí que de Ténedos partiendo </line>
-                <line>Sobre el tranquilo piélago se arrojan </line>
-                <line>(Me horrorizo al contarlo) dos serpientes </line>
-                <line>En inmensos anillos enroscadas, </line>
-                <line>Que al par hacia la orilla se dirigen: </line>
-                <line>El pecho entre las aguas levantado, </line>
-                <line>Sobre las ondas las sanguíneas crestas, </line>
-                <line>La cola enorme sin cesar batiendo </line>
-                <line>El mar levanta, y las hinchadas olas </line>
-                <line>En ondulantes circuios revuelve. </line>
-                <line>Suena intenso fragor, hierve la espuma, </line>
-                <line>Y saltan á la vez sobre la playa. </line>
-                <line>Sangre y fuego sus ojos despedían, </line>
-                <line>Y sus lenguas vibrando con silbidos </line>
-                <line>Lamen sus bocas. Á su vista todos </line>
-                <line>Huimos aterrados. Á <name nametype="name">Laoconte</name>
-                </line>
-                <line>Certeras se dirigen; pero antes </line>
-                <line>Á sus dos tiernos hijos se abalanzan, </line>
-                <line>Á sus cuerpos se enroscan, y mordiendo </line>
-                <line>Sus miembros inocentes, los devoran. </line>
+                <line num="320">Terrible entonces singular portento </line>
+                <line num="321">Preséntase á los míseros troyanos </line>
+                <line num="322">De súbito, y sus ánimos conturba. </line>
+                <line num="323">El ilustre <name nametype="name">Laoconte</name>, de <name nametype="name">Neptuuo</name></line>
+                <line num="324">Sacerdote elegido por la suerte, </line>
+                <line num="325">Un toro corpulento cabe el ara</line>
+                <line num="326">Inmola con solemne sacrificio. </line>
+                <line num="327">Y hé aquí que de Ténedos partiendo </line>
+                <line num="328">Sobre el tranquilo piélago se arrojan </line>
+                <line num="329">(Me horrorizo al contarlo) dos serpientes </line>
+                <line num="330">En inmensos anillos enroscadas, </line>
+                <line num="331">Que al par hacia la orilla se dirigen: </line>
+                <line num="332">El pecho entre las aguas levantado, </line>
+                <line num="333">Sobre las ondas las sanguíneas crestas, </line>
+                <line num="334">La cola enorme sin cesar batiendo </line>
+                <line num="335">El mar levanta, y las hinchadas olas </line>
+                <line num="336">En ondulantes circuios revuelve. </line>
+                <line num="337">Suena intenso fragor, hierve la espuma, </line>
+                <line num="338">Y saltan á la vez sobre la playa. </line>
+                <line num="339">Sangre y fuego sus ojos despedían, </line>
+                <line num="340">Y sus lenguas vibrando con silbidos </line>
+                <line num="341">Lamen sus bocas. Á su vista todos </line>
+                <line num="342">Huimos aterrados. Á <name nametype="name">Laoconte</name></line>
+                <line num="343">Certeras se dirigen; pero antes </line>
+                <line num="344">Á sus dos tiernos hijos se abalanzan, </line>
+                <line num="345">Á sus cuerpos se enroscan, y mordiendo </line>
+                <line num="346">Sus miembros inocentes, los devoran. </line>
 
-                <line>Luego se lanzan sobre el mismo padre, </line>
-                <line>Que á salvar á sus hijos corre armado; </line>
-                <line>Y con las fuertes roscas le religan, </line>
-                <line>Y le ciñen dos veces la cintura, </line>
-                <line>Y dos veces le oprimen la garganta </line>
-                <line>Los escamados lomos, elevando </line>
-                <line>Sobre <name nametype="name">Laoconte</name> las altivas crestas. </line>
-                <line>De sórdido veneno y sangre impura</line>
-                <line>Las ínfulas manchadas, con las manos </line>
-                <line>Forceja por romper los recios nudos, </line>
-                <line>Y alza horrendos clamores á los cielos, </line>
-                <line>Cual los bramidos del soberbio toro, </line>
-                <line>Que herida la cerviz de incierto golpe, </line>
-                <line>Huye del ara y la segur arroja. </line>
-                <line>Ambas serpientes se deslizan luego, </line>
-                <line>Al alto templo se dirigen, y entran </line>
-                <line>De la fiera Tritonia en el alcázar, </line>
-                <line>Y á los pies refugiadas de la diosa, </line>
-                <line>Tras su redondo escudo se guarecen. </line>
-                <line>Nuevo pavor los agitados pechos </line>
-                <line>Hace entonces temblar, y juzgan todos </line>
-                <line>Justa expiación del crimen de <name nametype="name">Laoconte</name>, </line>
-                <line>Que osó clavar en el madero santo </line>
-                <line>La sacrilega lanza poderosa, </line>
-                <line>Y con acorde clamoreo piden </line>
-                <line>Que el simulacro en Ilión penetre, </line>
-                <line>Y de la diosa la piedad se implore.</line>
+                <line num="347">Luego se lanzan sobre el mismo padre, </line>
+                <line num="348">Que á salvar á sus hijos corre armado; </line>
+                <line num="349">Y con las fuertes roscas le religan, </line>
+                <line num="350">Y le ciñen dos veces la cintura, </line>
+                <line num="351">Y dos veces le oprimen la garganta </line>
+                <line num="352">Los escamados lomos, elevando </line>
+                <line num="353">Sobre <name nametype="name">Laoconte</name> las altivas crestas. </line>
+                <line num="354">De sórdido veneno y sangre impura</line>
+                <line num="355">Las ínfulas manchadas, con las manos </line>
+                <line num="356">Forceja por romper los recios nudos, </line>
+                <line num="357">Y alza horrendos clamores á los cielos, </line>
+                <line num="358">Cual los bramidos del soberbio toro, </line>
+                <line num="359">Que herida la cerviz de incierto golpe, </line>
+                <line num="360">Huye del ara y la segur arroja. </line>
+                <line num="361">Ambas serpientes se deslizan luego, </line>
+                <line num="362">Al alto templo se dirigen, y entran </line>
+                <line num="363">De la fiera Tritonia en el alcázar, </line>
+                <line num="364">Y á los pies refugiadas de la diosa, </line>
+                <line num="365">Tras su redondo escudo se guarecen. </line>
+                <line num="366">Nuevo pavor los agitados pechos </line>
+                <line num="367">Hace entonces temblar, y juzgan todos </line>
+                <line num="368">Justa expiación del crimen de <name nametype="name">Laoconte</name>, </line>
+                <line num="369">Que osó clavar en el madero santo </line>
+                <line num="370">La sacrilega lanza poderosa, </line>
+                <line num="371">Y con acorde clamoreo piden </line>
+                <line num="372">Que el simulacro en Ilión penetre, </line>
+                <line num="373">Y de la diosa la piedad se implore.</line>
             </body>
         </excerpt>
     </book>
@@ -110,68 +107,66 @@
         <!--PAGES 168-170-->
         <excerpt subject="suicide">
             <body>
-                <line>Oye el rumor exánime la hermana, </line>
-                <line>Y al tropel aterrada de las gentes, </line>
-                <line>Hiriendo el rostro y golpeando el pecho, </line>
-                <line>Tiompe por la apiñada muchedumbre, </line>
-                <line>Y á la espirante por su nombre llama. </line>
-                <line>—«¿Todo para este fin, hermana mía? </line>
-                <line>¿Tal me engañabas? ¿Tan horrendo daño </line>
-                <line>Esa pira, ese fuego, esos altares </line>
-                <line>Guardaban para mí?—Y abandonada, </line>
-                <line>¿Por dónde ahora empezaré mis quejas? </line>
-                <line>—¿A tu doliente hermana no quisiste </line>
-                <line>Por compañera de tu horrible muerte? </line>
-                <line>—Llamárasme á tu lado en tu infortunio, </line>
-                <line>Y el mismo hierro, y el instante mismo </line>
-                <line>Hubieran con entrambas acabado. </line>
-                <line>—¿Levanté con mis manos esa pira, </line>
-                <line>Y mi voz invocó los patrios dioses, </line>
-                <line>Para encontrarme ausente en tu desgracia? </line>
-                <line>Tú con tu infausta muerte has extinguido</line>
-                <line>A tu hermana, á tu pueblo, á los Sidonios </line>
-                <line>Excelsos padres y á tu gran Cartago. </line>
-                <line>—Dadme, y con agua lavaré su herida; </line>
-                <line>Y si áun le resta el postrimer aliento, </line>
-                <line>Recójanlo mis labios.»—Tal exclama: </line>
-                <line>Las altas gradas sube, y estrechando </line>
-                <line>A la expirante hermana contra el seno, </line>
-                <line>Lanza amargos gemidos, y la sangre </line>
-                <line>Enjuga con su veste.— </line>
+                <line num="1035">Oye el rumor exánime la hermana, </line>
+                <line num="1036">Y al tropel aterrada de las gentes, </line>
+                <line num="1037">Hiriendo el rostro y golpeando el pecho, </line>
+                <line num="1038">Tiompe por la apiñada muchedumbre, </line>
+                <line num="1039">Y á la espirante por su nombre llama. </line>
+                <line num="1040">—«¿Todo para este fin, hermana mía? </line>
+                <line num="1041">¿Tal me engañabas? ¿Tan horrendo daño </line>
+                <line num="1042">Esa pira, ese fuego, esos altares </line>
+                <line num="1043">Guardaban para mí?—Y abandonada, </line>
+                <line num="1044">¿Por dónde ahora empezaré mis quejas? </line>
+                <line num="1045">—¿A tu doliente hermana no quisiste </line>
+                <line num="1046">Por compañera de tu horrible muerte? </line>
+                <line num="1047">—Llamárasme á tu lado en tu infortunio, </line>
+                <line num="1048">Y el mismo hierro, y el instante mismo </line>
+                <line num="1049">Hubieran con entrambas acabado. </line>
+                <line num="1050">—¿Levanté con mis manos esa pira, </line>
+                <line num="1051">Y mi voz invocó los patrios dioses, </line>
+                <line num="1052">Para encontrarme ausente en tu desgracia? </line>
+                <line num="1053">Tú con tu infausta muerte has extinguido</line>
+                <line num="1054">A tu hermana, á tu pueblo, á los Sidonios </line>
+                <line num="1055">Excelsos padres y á tu gran Cartago. </line>
+                <line num="1056">—Dadme, y con agua lavaré su herida; </line>
+                <line num="1057">Y si áun le resta el postrimer aliento, </line>
+                <line num="1058">Recójanlo mis labios.»—Tal exclama: </line>
+                <line num="1059">Las altas gradas sube, y estrechando </line>
+                <line num="1060">A la expirante hermana contra el seno, </line>
+                <line num="1061">Lanza amargos gemidos, y la sangre </line>
+                <line num="1062">Enjuga con su veste.— </line>
 
-                <line><name nametype="name">Dido</name> en tanto </line>
-                <line>Alzar procura los cargados ojos, </line>
-                <line>Y le faltan las fuerzas; en su pecho </line>
-                <line>Resuella sin cesar la abierta herida. </line>
-                <line>En el codo apoyándose tres veces Levantóse; </line>
-                <line>tres veces desplomada </line>
-                <line>Sobre el lecho cayó. Buscó en lo alto </line>
-                <line>La luz del cielo con errantes ojos, </line>
-                <line>Y gimió con pesar al encontrarla. </line>
-                <line>Compadecida la potente <name nametype="name">Juno</name>
-                </line>
-                <line>De tanto afán y muerte laboriosa, </line>
-                <line>A <name nametype="name">Iris</name> manda desde el alto Olimpo, </line>
-                <line>Que rompa el lazo, que á los miembros une </line>
-                <line>El alma luchadora.—No muriendo </line>
-                <line>Por decreto del hado, ni de muerte </line>
-                <line>Merecida; mas sólo arrebatada </line>
-                <line>De súbito furor, víctima triste </line>
-                <line>Con prematuro fin, ni <name nametype="name">Proserpina</name>
-                </line>
-                <line>El dorado cabello había cortado, </line>
-                <line>Ni condenado al Orco su cabeza.</line>
-                <line>Vuela bañada en gotas de rocío, </line>
-                <line>Y en torrentes de luz Tris radiante </line>
-                <line>Con sus alas de oro por el cielo; </line>
-                <line>Y por el sol herida, mil colores </line>
-                <line>Difunde en torno.—Plácida se posa </line>
-                <line>Sobre la regia frente; y....—«Yo enviada </line>
-                <line>Esta ofrenda á Plutón sagrada llevo, </line>
-                <line>Y del mísero cuerpo te desato.» — </line>
-                <line>Dice, y corta el cabello con su diestra; </line>
-                <line>Y se extinguió el calor; y al punto mismo </line>
-                <line>Se disipó la vida por los aires.</line>
+                <line num="1063"><name nametype="name">Dido</name> en tanto </line>
+                <line num="1064">Alzar procura los cargados ojos, </line>
+                <line num="1065">Y le faltan las fuerzas; en su pecho </line>
+                <line num="1066">Resuella sin cesar la abierta herida. </line>
+                <line num="1067">En el codo apoyándose tres veces Levantóse; </line>
+                <line num="1068">tres veces desplomada </line>
+                <line num="1069">Sobre el lecho cayó. Buscó en lo alto </line>
+                <line num="1070">La luz del cielo con errantes ojos, </line>
+                <line num="1071">Y gimió con pesar al encontrarla. </line>
+                <line num="1072">Compadecida la potente <name nametype="name">Juno</name></line>
+                <line num="1073">De tanto afán y muerte laboriosa, </line>
+                <line num="1074">A <name nametype="name">Iris</name> manda desde el alto Olimpo, </line>
+                <line num="1075">Que rompa el lazo, que á los miembros une </line>
+                <line num="1076">El alma luchadora.—No muriendo </line>
+                <line num="1077">Por decreto del hado, ni de muerte </line>
+                <line num="1078">Merecida; mas sólo arrebatada </line>
+                <line num="1079">De súbito furor, víctima triste </line>
+                <line num="1080">Con prematuro fin, ni <name nametype="name">Proserpina</name></line>
+                <line num="1081">El dorado cabello había cortado, </line>
+                <line num="1082">Ni condenado al Orco su cabeza.</line>
+                <line num="1083">Vuela bañada en gotas de rocío, </line>
+                <line num="1084">Y en torrentes de luz Tris radiante </line>
+                <line num="1085">Con sus alas de oro por el cielo; </line>
+                <line num="1086">Y por el sol herida, mil colores </line>
+                <line num="1087">Difunde en torno.—Plácida se posa </line>
+                <line num="1088">Sobre la regia frente; y....—«Yo enviada </line>
+                <line num="1089">Esta ofrenda á Plutón sagrada llevo, </line>
+                <line num="1090">Y del mísero cuerpo te desato.» — </line>
+                <line num="1091">Dice, y corta el cabello con su diestra; </line>
+                <line num="1092">Y se extinguió el calor; y al punto mismo </line>
+                <line num="1093">Se disipó la vida por los aires.</line>
             </body>
         </excerpt>
     </book>
