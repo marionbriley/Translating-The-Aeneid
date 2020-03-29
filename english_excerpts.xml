@@ -38,11 +38,11 @@
     <excerpt subject="snakes">
    <body> 
     <line num="200">But now a vaster <noun>spectacle</noun> of <noun>fear</noun></line>
-    <line num="201"><verb aspect="simple" kind="main" mood="indicative" tense="past" voice="active" address="personal">burst</verb> <verb kind="suffix">over</verb> <noun pronoun="1p">us</noun>, <verb kind="main" mood="indicative" tense="present" voice="active" address="impersonal">to vex</verb> our startled <noun>souls</noun>.</line>
+    <line num="201"><verb aspect="simple" kind="main" mood="indicative" tense="past" voice="active" address="personal">burst</verb> <verb kind="suffix">over</verb> <noun pronoun="1p">us</noun>, <sound_device device="alliteration"><verb kind="main" mood="indicative" tense="present" voice="active" address="impersonal">to vex</verb> our startled <noun>souls</noun>.</sound_device></line>
     <line num="202"><name nametype="name">Laocoon</name>, that <noun>day</noun> by <noun>cast</noun> of <noun>lot</noun></line>
     <line num="203"><noun>priest</noun> unto <name nametype="name">Neptune</name>, <verb aspect="continuous" kind="main" mood="indicative" voice="active" tense="past">was</verb> in <noun>act</noun> <verb kind="main" mood="indicative" tense="present" address="impersonal">to slay</verb></line>
     <line num="204">a huge <noun>bull</noun> at the <noun>god's</noun> appointed <noun>fane</noun>.</line>
-    <line num="205">Lo! o'er the tranquil <noun>deep</noun> from <name nametype="name">Tenedos</name></line>
+    <line num="205">Lo! o'er <sound_device device="alliteration">the tranquil <noun>deep</noun> from <name nametype="name">Tenedos</name></sound_device></line>
     <line num="206"><verb aspect="simple" kind="main" mood="indicative" tense="past" voice="active">appeared</verb> a <noun>pair</noun> (<noun pronoun="1s">I</noun> <verb aspect="simple" kind="main" mood="indicative" tense="present" voice="active">shudder</verb> as <noun pronoun="1s">I</noun> <verb aspect="simple" kind="main" mood="indicative" tense="present" voice="active">tell</verb>)</line>
     <line num="207">of vastly <verb tense="present" address="impersonal" kind="main">coiling</verb> <sound_device device="alliteration"><noun>serpents</noun>, side by side,</sound_device></line>
     <line num="208"><verb tense="present" address="impersonal" kind="main">stretching</verb> along the <noun>waves</noun>, and to the <noun>shore</noun></line>
@@ -68,7 +68,7 @@
     <line num="228"><verb aspect="simple" mood="indicative" voice="active" kind="main" tense="past" address="personal">tore</verb> at <noun pronoun="3s" possessive="possessor">his</noun> <noun>fetters</noun> with a desperate <noun>hand</noun>,</line>
     <line num="229">and <verb address="personal" tense="past" kind="main" voice="active" mood="indicative" aspect="simple">lifted</verb> up such agonizing <noun>voice</noun>,</line>
     <fig_lang type="simile">
-    <line num="230">as when a <noun>bull</noun>, death-wounded, <verb voice="active" tense="present" mood="indicative" kind="aux" aspect="simple" address="personal">seeks</verb> <verb kind="main" voice="active" address="impersonal" tense="present">to flee</verb></line>
+    <line num="230">as when a <noun>bull</noun>, death-wounded, <sound_device device="assonance"><verb voice="active" tense="present" mood="indicative" kind="aux" aspect="simple" address="personal">seeks</verb> <verb kind="main" voice="active" address="impersonal" tense="present">to flee</verb></sound_device></line>
     <line num="231">the sacrificial <noun>altar</noun>, and <verb mood="indicative" aspect="simple" kind="main" voice="active" address="personal" tense="present">thrusts</verb> back</line>
     <line num="232">from <noun pronoun="3s" possessive="possessor">his</noun> doomed <noun>head</noun> the ill-aimed, <verb tense="present" address="impersonal" kind="main">glancing</verb> <noun>blade</noun>.</line>
     </fig_lang>
