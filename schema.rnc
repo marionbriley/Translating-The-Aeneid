@@ -29,7 +29,7 @@ possessive = attribute possessive {"possessor" | "possessee"}
 verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*, text}
     #PLEASE PLEASE USE THESE ATTRIBUTES WHEREVER POSSIBLE. They are not required because participles, infitives, and gerunds would not necessarily be modified by all of these, 
     #but it's so important to keep track for other verbs!
-kind = attribute kind {"main" | "aux" | "prefix" | "suffix" | "modal"}
+kind = attribute kind {"main" | "aux" | "prefix" | "suffix" | "modal" | "adjectival"}
     #we added prefix here to account for German's separable prefixes
     #modal: can, should, will, shall, must, could, would, may, etc
 tense = attribute tense {"preterite" | "past" | "present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}

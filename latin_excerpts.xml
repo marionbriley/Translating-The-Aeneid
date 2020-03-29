@@ -6,16 +6,16 @@
     <book number="1">
         <excerpt subject="speech">
             <body>
-                <line num="195">Vina bonus quae deinde cadis onerarat Acestes</line>
-                <line num="196">litore Trinacrio dederatque abeuntibus heros,</line>
-                <line num="197"> dividit, et dictis maerentia pectora mulcet:</line>
+                <line num="195"><noun case="acc">Vina</noun> bonus <noun case="acc">quae</noun> deinde <noun case="abl">cadis</noun> <verb kind="main" tense="pluperfect" mood="indicative" voice="active" address="personal">onerarat</verb> <name nametype="name" case="nom">Acestes</name></line>
+                <line num="196"><noun case="abl">litore</noun> Trinacrio <verb kind="main" tense="pluperfect" mood="indicative" voice="active" address="personal">dederat</verb>que <verb kind="adjectival" tense="present" voice="active" address="impersonal">abeuntibus</verb> <noun case="nom">heros</noun>,</line>
+                <line num="197"> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">dividit</verb>, et <noun case="abl">dictis</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">maerentia</verb> <noun case="acc">pectora</noun> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">mulcet</verb>:</line>
 
-                <line num="198">'O socii—neque enim ignari sumus ante malorum— </line>
-                <line num="199">O passi graviora, dabit deus his quoque finem. </line>
-                <line num="200">Vos et Scyllaeam rabiem penitusque sonantis</line>
-                <line num="201"> accestis scopulos, vos et Cyclopea saxa </line>
-                <line num="202">experti: revocate animos, maestumque timorem </line>
-                <line num="203">mittite: forsan et haec olim meminisse iuvabit. </line>
+                <line num="198">'O <noun case="voc">socii</noun>—neque enim ignari <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">sumus</verb> ante <noun case="gen">malorum</noun>— </line>
+                <line num="199">O <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">passi</verb> <noun case="acc">graviora</noun>, <verb kind="main" tense="future" mood="indicative" voice="active" address="personal">dabit</verb> <noun case="nom">deus</noun> <noun case="dat" pronoun="3p">his</noun> quoque <noun case="acc">finem</noun>. </line>
+                <line num="200"><noun case="nom" pronoun="2p">Vos</noun> et <name nametype="name" case="acc">Scyllaeam</name> rabiem penitusque <verb kind="adjectival" tense="present" voice="active" address="impersonal">sonantis</verb></line>
+                <line num="201"> <verb kind="main" tense="perfect" mood="indicative" voice="active" address="personal">accestis</verb> <noun case="acc">scopulos</noun>, <noun case="nom" pronoun="2p">vos</noun> et Cyclopea <noun case="acc">saxa</noun> </line>
+                <line num="202"><verb kind="adjectival" tense="perfect" voice="active" address="impersonal">experti</verb>: <verb kind="main" tense="present" mood="imperative" voice="active" address="personal">revocate</verb> <noun case="acc">animos</noun>, maestumque <noun case="acc">timorem</noun> </line>
+                <line num="203"><verb kind="main" tense="present" mood="imperative" voice="active" address="personal">mittite</verb>: forsan et haec olim meminisse iuvabit. </line>
                 <line num="204">Per varios casus, per tot discrimina rerum</line>
                 <line num="205"> tendimus in Latium; sedes ubi fata quietas</line>
                 <line num="206">ostendunt; illic fas regna resurgere Troiae. </line>
