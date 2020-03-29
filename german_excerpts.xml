@@ -32,24 +32,24 @@
         <excerpt subject="snakes">
             <body>
                 <line  num="199">Etwas <noun case="nom">Größres</noun> jedoch - und um vieles entsetzlicher - <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">zeigt</verb> jetzt</line>
-                <line num="200">Uns Unglücklichen sich und verwirrt die erschrockenen Herzen.</line>
-                <line  num="201">Priester Neptuns durch das Los, ist eben Laokoon tätig,</line>
-                <line  num="202">Einen gewaltigen Stier am Festaltare zu schlachten.</line>
-                <line  num="203">Siehe, da wälzt von Tenedos sich durch die ruhige Tiefe</line>
-                <line  num="204">- Schaudernd erzähl ich's - ein Paar von Schlangen in furchtbaren Kreisen,</line>
-                <line num="205">Über der Meerflut Rücken vereint hersteuernd zur Küste.</line>
-                <line num="206">Hoch durch die Brandung erhebt sich die Brust, und die blutigen Mähnen</line>
-                <line num="207">Ragen empor aus den Wogen, dahinter dann schleppt sich der andre</line>
-                <line num="208">Teil durch das Meer, unermesslich den Leib in Windungen schlingend.</line>
-                <line num="209">Rauschen ertönt aus der schäumenden Flut; schon sind sie am Lande,</line>
-                <line num="210">Und mit brennenden Augen, von Blut und Feuer durchschossen,</line>
-                <line num="211">Recken aus zischendem Schlund sie die leckenden, zitternden Zungen.</line>
-                <line num="212">Bleich bei der Schau zerstäuben wir rings. Sie, sicheren Schwunges,</line>
-                <line num="213">Greifen Laokoon an; und die schmächtigen Leiber der beiden</line>
-                <line num="214">Söhnlein umringelt zuerst das Gewürm mit verschlungenem Knoten,</line>
-                <line num="215">Und mit grimmigem Biss zernagt es die Glieder der Armen.</line>
-                <line num="216">Drauf, da er selbst zum Beistand eilt mit erhobener Waffe,</line>
-                
+                <line num="200"><noun case="dat" pronoun="1s">Uns</noun> <noun case="dat">Unglücklichen</noun> <noun case="reflexive">sich</noun> und <verb kind="main" tense="present" aspect="simple" mood="indicative" address="personal">verwirrt</verb> die erschrockenen <noun case="acc">Herzen</noun>.</line>
+                <line  num="201"><noun case="nom">Priester</noun> <name nametype="name" case="gen" possessive="possessor">Neptuns</name> durch das <noun case="acc">Los</noun>, <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">ist</verb> eben <name nametype="name" case="nom">Laokoon</name> tätig,</line>
+                <line  num="202">Einen gewaltigen <noun case="nom">Stier</noun> am <noun case="dat">Festaltare</noun> zu <verb kind="main" address="impersonal">schlachten</verb>.</line>
+                <line  num="203"><verb kind="main" mood="imperative" voice="active" address="personal">Siehe</verb>, da <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">wälzt</verb> von <noun case="dat">Tenedos</noun> <noun case="reflexive">sich</noun> durch die ruhige <noun case="acc">Tiefe</noun></line>
+                <line  num="204">- Schaudernd <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">erzähl</verb> <noun case="nom" pronoun="1s">ich</noun><noun case="acc" pronoun="3s">'s</noun> - ein <noun case="nom">Paar</noun> von <noun case="dat">Schlangen</noun> in furchtbaren <noun case="dat">Kreisen</noun>,</line>
+                <line num="205">Über der <noun case="dat">Meerflut</noun> <noun case="acc">Rücken</noun> vereint hersteuernd zur <noun case="dat">Küste</noun>.</line>
+                <line num="206">Hoch durch die <noun case="acc">Brandung</noun> <verb kind="main" tense="present" aspect="simple" mood="indicative" voice="active" address="personal">erhebt</verb> <noun case="reflexive">sich</noun> die <noun case="nom">Brust</noun>, und die blutigen <noun case="nom">Mähnen</noun></line>
+                <line num="207"><verb kind="main" tense="present" aspect="simple" voice="active" mood="indicative" address="personal">Ragen</verb> empor aus den <noun case="dat">Wogen</noun>, dahinter dann <verb kind="main" tense="present" aspect="simple" mood="indicative" address="personal" voice="active">schleppt</verb> <noun case="reflexive">sich</noun> der andre</line>
+                <line num="208"><noun case="nom">Teil</noun> durch das <noun case="acc">Meer</noun>, unermesslich den <noun case="acc">Leib</noun> in <noun case="acc">Windungen</noun> schlingend.</line>
+                <line num="209"><noun case="nom">Rauschen</noun> <verb kind="main" tense="present" aspect="simple" voice="active" address="personal" mood="indicative">ertönt</verb> aus der schäumenden <noun case="dat">Flut</noun>; schon <verb kind="main" tense="present" aspect="simple" mood="indicative" address="personal" voice="active">sind</verb> <noun case="nom" pronoun="3p">sie</noun> am <noun case="dat">Lande</noun>,</line>
+                <line num="210">Und mit brennenden <noun case="dat">Augen</noun>, von <noun case="dat">Blut</noun> und <noun case="dat">Feuer</noun> <verb kind="main" tense="past" aspect="simple" voice="passive" address="impersonal" mood="indicative">durchschossen</verb>,</line>
+                <line num="211"><verb kind="main" tense="present" aspect="simple" mood="indicative" address="personal" voice="active"></verb>Recken aus zischendem <noun case="dat">Schlund</noun> <noun case="nom" pronoun="3p">sie</noun> die leckenden, zitternden <noun case="acc">Zungen</noun>.</line>
+                <line num="212">Bleich bei der <noun>Schau</noun> <verb kind="main" tense="present" aspect="simple" voice="active" address="personal" mood="indicative">zerstäuben</verb> <noun case="nom" pronoun="1p">wir</noun> rings. <sound_device device="alliteration"><noun pronoun="3p" case="nom">Sie</noun>, sicheren <noun case="nom">Schwunges</noun></sound_device>,</line>
+                <line num="213"><verb kind="main" tense="present" aspect="simple" voice="active" mood="indicative" address="personal">Greifen</verb> <name case="acc" nametype="name">Laokoon</name> <verb kind="prefix">an</verb>; und die schmächtigen <noun case="acc" possessive="possessee">Leiber</noun> der beiden</line>
+                <line num="214"><noun case="gen" possessive="possessor">Söhnlein</noun> <verb kind="main" tense="present" aspect="simple" address="personal" mood="indicative" voice="active">umringelt</verb> zuerst das <noun case="nom">Gewürm</noun> mit verschlungenem <noun case="dat">Knoten</noun>,</line>
+                <line num="215">Und mit grimmigem <noun case="dat">Biss</noun> <verb kind="main" tense="present" aspect="simple" voice="active" mood="indicative" address="personal">zernagt</verb> <noun case="nom" pronoun="3s">es</noun> die <noun case="acc" possessive="possessee">Glieder</noun> der <noun case="gen" possessive="possessor">Armen</noun>.</line>
+                <line num="216">Drauf, da <noun case="nom" pronoun="3s">er</noun> selbst zum <noun case="dat">Beistand</noun> <verb kind="main" address="personal" mood="indicative" voice="active" aspect="simple" tense="present">eilt</verb> mit erhobener <noun case="dat">Waffe</noun>,</line>
+                <!--halfway-->
                 <line num="217">Fassen sie ihn und schnüren ihn ein mit furchtbaren Schlingen.</line>
                 <line num="218">Zweimal umwickeln den Leib, zweimal umringeln den Hals sie</line>
                 <line num="219">Ihm mit dem Schuppengewind, und es bäumt sich ihr Nacken und Haupt hoch.</line>
