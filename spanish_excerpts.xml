@@ -8,33 +8,33 @@
     <book number="1">
         <excerpt subject="speech">
             <body>
-                <line num="314">Torna al <noun>puerto</noun>, y reparte entre los <noun pronoun="3p" possessive="possessor">suyos</noun></line>
-                <line num="315">El preciado <noun>botin</noun>, y distribuye </line>
-                <line num="316">El <noun>vino</noun> aquel, que en la trinacria costa </line>
-                <line num="317">En repletos <noun>toneles</noun> le donara </line>
+                <line num="314"><verb address="personal" aspect="simple" kind="main" mood="indicative" tense="present" voice="active">Torna</verb> al <noun>puerto</noun>, y <verb voice="active" tense="present" mood="indicative" kind="main" aspect="simple" address="personal">reparte</verb> entre <noun pronoun="3p" possessive="possessor">los suyos</noun></line>
+                <line num="315">El preciado <noun>botin</noun>, y <verb address="personal" aspect="simple" kind="main" mood="indicative" tense="present" voice="active">distribuye</verb> </line>
+                <line num="316">El <noun>vino</noun> aquel, que en la<name nametype="reference"> trinacria costa</name> </line>
+                <line num="317">En repletos <noun>toneles</noun> <noun pronoun="3s">le</noun> <verb voice="active" tense="imperfect" mood="subjunctive" kind="main" aspect="continuous" address="personal">donara</verb> </line>
                 <line num="318">En su <noun>partida</noun> el bondadoso <name nametype="name">Acestes</name>; </line>
-                <line num="319">Y con <sound_device device="assonance">tales <noun>palabras</noun> los anima,</sound_device></line>
-                <line num="320">Y sus <noun>pechos</noun> asaz entristecidos </line>
-                <line num="321">Consuela así.—«Oh antiguos <noun>compañeros</noun>, </line>
-                <line num="322">Pues no olvidamos los <noun>pasados</noun> males, </line>
-                <line num="323">A sufrirlos mayores <noun>enseñados</noun>; </line>
-                <line num="324">Tambien dará un <noun>dios</noun> fin á los <noun>presentes</noun>. </line>
-                <line num="325">Los que de <name nametype="name">Escila</name> la furiosa <noun>rabia</noun></line>
-                <line num="326"><sound_device device="alliteration">Supisteis soportar, y los <noun>escollos</noun></sound_device></line>
-                <line num="327">Rugientes y las rocas <noun>ciclopéas</noun>,</line>
-                <line num="328">Recobrad el <noun>valor</noun>, y el <noun>miedo</noun> torpe </line>
-                <line num="329">Al <noun>punto</noun> deponed; gratos un <noun>día</noun></line>
-                <line num="330">Acaso <noun pronoun="1p">nos</noun> serán estos <noun>recuerdos</noun>; </line>
+                <line num="319">Y con <sound_device device="assonance">tales <noun>palabras</noun> <noun pronoun="3p">los</noun> <verb address="personal" aspect="simple" kind="main" mood="indicative" tense="present" voice="active">anima</verb>,</sound_device></line>
+                <line num="320">Y sus <noun>pechos</noun> asaz <verb kind="main" tense="past" address="impersonal">entristecidos</verb> </line>
+                <line num="321"><verb voice="active" tense="present" mood="indicative" kind="main" aspect="simple" address="personal">Consuela</verb> así.—«Oh antiguos <noun>compañeros</noun>, </line>
+                <line num="322">Pues no <verb address="personal" aspect="simple" kind="main" mood="indicative" tense="present" voice="active">olvidamos</verb> los <noun>pasados</noun> males, </line>
+                <line num="323">A <verb kind="aux" address="impersonal">sufrir</verb>los mayores <verb kind="main" address="impersonal" tense="past">enseñados</verb>; </line>
+                <line num="324">Tambien <verb tense="future" address="personal" kind="main" voice="active" mood="indicative" aspect="simple">dará</verb> un <noun>dios</noun> fin á los <noun>presentes</noun>. </line>
+                <line num="325"><noun pronoun="3p">Los</noun> que de <name nametype="name">Escila</name> la furiosa <noun>rabia</noun></line>
+                <line num="326"><sound_device device="alliteration"><verb address="personal" tense="preterite" kind="aux" aspect="simple" mood="indicative" voice="active">Supisteis</verb> <verb kind="main" address="impersonal">soportar</verb>, y los <noun>escollos</noun></sound_device></line>
+                <line num="327"><verb address="impersonal" kind="main" tense="present">Rugientes</verb> y las rocas <noun>ciclopéas</noun>,</line>
+                <line num="328"><verb tense="present" kind="main" address="personal" voice="active" mood="imperative" aspect="simple">Recobrad</verb> el <noun>valor</noun>, y el <noun>miedo</noun> torpe </line>
+                <line num="329">Al <noun>punto</noun> <verb aspect="simple" mood="imperative" voice="active" address="personal" kind="main" tense="present">deponed</verb>; gratos un <noun>día</noun></line>
+                <line num="330">Acaso <noun pronoun="1p">nos</noun> <verb tense="future" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">serán</verb> estos <noun>recuerdos</noun>; </line>
                 <line num="331">Que entre <noun>infortunios</noun> y <noun>reveses</noun> tantos </line>
-                <line num="332">Al <name nametype="other">Lacio</name> nuestra <noun>ruta</noun> dirigimos, </line>
-                <line num="333">Allí donde los <noun>hados</noun> nos destinan</line>
-                <line num="334"><noun>Pacificas</noun> moradas, y á su <noun>influjo</noun></line>
-                <line num="335">Resurgirá tambien de <name nametype="other">Troya</name> el <noun>reino</noun>: </line>
-                <line num="336">Sufrid, guarda<noun pronoun="2pf">os</noun> para mejor <noun>fortuna</noun>.»- </line>
+                <line num="332">Al <name nametype="other">Lacio</name> <noun pronoun="1p" possessive="possessor">nuestra</noun> <noun>ruta</noun> <verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">dirigimos</verb>, </line>
+                <line num="333">Allí donde los <noun>hados</noun> <noun pronoun="1p">nos</noun> <verb tense="present" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">destinan</verb></line>
+                <line num="334"><verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">Pacificas</verb> moradas, y á <noun pronoun="3s">su</noun> <noun>influjo</noun></line>
+                <line num="335"><verb tense="future" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">Resurgirá</verb> tambien de <name nametype="other">Troya</name> el <noun>reino</noun>: </line>
+                <line num="336"><verb aspect="simple" voice="active" mood="imperative" address="personal" kind="main" tense="present">Sufrid</verb>, <verb tense="present" kind="main" address="personal" mood="imperative" voice="active" aspect="simple">guarda</verb><noun pronoun="2pf">os</noun> para mejor <noun>fortuna</noun>.»- </line>
 
-                <line num="337">Así les dice, y lleno de <noun>congoja</noun> </line>
-                <line num="338">La <sound_device device="alliteration"><noun>esperanza</noun> simula en su <noun>semblante</noun></sound_device>,</line>
-                <line num="339">Y el acerbo <noun>dolor</noun> en su <noun>alma</noun> oprime.</line>
+                <line num="337">Así <noun pronoun="3p">les</noun> <verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">dice</verb>, y lleno de <noun>congoja</noun> </line>
+                <line num="338">La <sound_device device="alliteration"><noun>esperanza</noun> <verb tense="present" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">simula</verb> en <noun pronoun="3s">su</noun> <noun>semblante</noun></sound_device>,</line>
+                <line num="339">Y el acerbo <noun>dolor</noun> en su <noun>alma</noun> <verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">oprime</verb>.</line>
             </body>
         </excerpt>
     </book>
@@ -43,48 +43,52 @@
         <excerpt subject="snakes">
             <body>
                 <line num="320">Terrible entonces singular portento </line>
-                <line num="321">Preséntase á los míseros troyanos </line>
-                <line num="322">De súbito, y sus ánimos conturba. </line>
+                <line num="321"><verb tense="present" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">Presénta</verb><noun pronoun="3s">se</noun> á los míseros <noun>troyanos</noun> </line>
+                <line num="322">De súbito, y <noun pronoun="3p" possessive="possessor">sus</noun> <noun>ánimos</noun> <verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">conturba</verb>. </line>
                 <line num="323">El ilustre <name nametype="name">Laoconte</name>, de <name nametype="name">Neptuuo</name></line>
-                <line num="324">Sacerdote elegido por la suerte, </line>
-                <line num="325">Un toro <sound_device device="alliteration">corpulento cabe</sound_device> el ara</line>
-                <line num="326">Inmola con <sound_device device="alliteration">solemne sacrificio</sound_device>. </line>
-                <line num="327">Y hé aquí que de Ténedos partiendo </line>
-                <line num="328">Sobre el tranquilo piélago se arrojan </line>
-                <line num="329">(Me horrorizo al contarlo) dos serpientes </line>
-                <line num="330">En inmensos anillos enroscadas, </line>
-                <line num="331">Que <sound_device device="assonance">al par hacia la orilla</sound_device> se dirigen: </line>
-                <line num="332">El pecho entre las aguas levantado, </line>
-                <line num="333">Sobre las ondas las sanguíneas crestas, </line>
-                <line num="334">La cola enorme sin cesar batiendo </line>
-                <line num="335">El mar levanta, y las hinchadas olas </line>
-                <line num="336">En ondulantes circuios revuelve. </line>
-                <line num="337">Suena intenso fragor, hierve la espuma, </line>
-                <line num="338">Y saltan á la vez sobre la playa. </line>
-                <line num="339">Sangre y fuego sus ojos despedían, </line>
-                <line num="340">Y sus lenguas vibrando con silbidos </line>
-                <line num="341">Lamen sus bocas. Á su vista todos </line>
-                <line num="342">Huimos aterrados. Á <name nametype="name">Laoconte</name></line>
-                <line num="343">Certeras se dirigen; pero antes </line>
-                <line num="344">Á sus dos tiernos hijos se abalanzan, </line>
-                <line num="345">Á sus cuerpos se enroscan, y mordiendo </line>
-                <line num="346">Sus miembros inocentes, los devoran. </line>
+                <line num="324"><noun>Sacerdote</noun> <verb kind="main" address="impersonal" tense="past">elegido</verb> por la <noun>suerte</noun>, </line>
+                <line num="325">Un <noun>toro</noun> <sound_device device="alliteration">corpulento <verb tense="present" address="personal" kind="main" mood="indicative" voice="active" aspect="simple">cabe</verb></sound_device> el <noun>ara</noun></line>
+                <line num="326"><verb aspect="simple" voice="active" mood="indicative" kind="main" address="personal" tense="present">Inmola</verb> con <sound_device device="alliteration">solemne <noun>sacrificio</noun></sound_device>. </line>
+                <line num="327">Y <verb tense="present" address="personal" kind="main" mood="indicative" voice="active" aspect="simple">hé</verb> aquí que de <name nametype="name">Ténedos</name> <verb kind="main" tense="present" address="impersonal">partiendo</verb> </line>
+                <line num="328">Sobre el tranquilo <noun>piélago</noun> <noun pronoun="3p">se</noun> <verb address="personal" tense="present" kind="main" aspect="simple" voice="active" mood="indicative">arrojan</verb> </line>
+                <line num="329">(<noun pronoun="1s">Me</noun> <verb mood="indicative" voice="active" aspect="simple" kind="main" tense="present" address="personal">horrorizo</verb> al <verb address="impersonal" kind="main">contar</verb><noun>lo</noun>) dos <noun>serpientes</noun> </line>
+                <line num="330">En inmensos <noun>anillos</noun> <verb kind="main" address="impersonal" tense="past">enroscadas</verb>, </line>
+                <line num="331">Que <sound_device device="assonance">al par hacia la <noun>orilla</noun></sound_device> <noun pronoun="3p">se</noun> <verb tense="present" address="personal" kind="main" aspect="simple" voice="active" mood="indicative">dirigen</verb>: </line>
+                <line num="332">El <noun>pecho</noun> entre las <noun>aguas</noun> <verb tense="past" address="impersonal" kind="main">levantado</verb>, </line>
+                <line num="333">Sobre las <noun>ondas</noun> las sanguíneas <noun>crestas</noun>, </line>
+                <line num="334">La <noun>cola</noun> enorme sin <verb kind="aux" address="impersonal">cesar</verb> <verb kind="main" address="impersonal" tense="present">batiendo</verb> </line>
+                <line num="335">El <noun>mar</noun> <verb address="personal" tense="present" kind="main" mood="indicative" voice="active" aspect="simple">levanta</verb>, y las <verb kind="main" tense="past" address="impersonal">hinchadas</verb> <noun>olas</noun> </line>
+                <line num="336">En <verb kind="main" tense="present" address="impersonal">ondulantes</verb> <noun>circuios</noun> <verb address="personal" tense="present" kind="main" aspect="simple" voice="active" mood="indicative">revuelve</verb>. </line>
+                <line num="337"><verb mood="indicative" voice="active" aspect="simple" kind="main" tense="present" address="personal">Suena</verb> intenso <noun>fragor</noun>, <verb address="personal" tense="present" kind="main" aspect="simple" voice="active" mood="indicative">hierve</verb> la <noun>espuma</noun>, </line>
+                <line num="338">Y <verb mood="indicative" voice="active" aspect="simple" kind="main" tense="present" address="personal">saltan</verb> á la <noun>vez</noun> sobre la <noun>playa</noun>. </line>
+                <line num="339"><noun>Sangre</noun> y <noun>fuego</noun> <noun pronoun="3p">sus</noun> <noun>ojos</noun> <verb address="personal" tense="imperfect" kind="main" aspect="simple" voice="active" mood="indicative">despedían</verb>, </line>
+                <line num="340">Y <noun pronoun="3p">sus</noun> <noun>lenguas</noun> <verb kind="main" address="impersonal" tense="present">vibrando</verb> con <noun>silbidos</noun> </line>
+                <line num="341"><verb tense="present" address="personal" kind="main" mood="indicative" voice="active" aspect="simple">Lamen</verb> <noun pronoun="3p">sus</noun> <noun>bocas</noun>. Á <noun pronoun="3s">su</noun> <noun>vista</noun> todos </line>
+                <line num="342"><verb aspect="simple" voice="active" mood="indicative" kind="main" address="personal" tense="present">Huimos</verb> <verb tense="past" kind="main" address="impersonal">aterrados</verb>. Á <name nametype="name">Laoconte</name></line>
+                <line num="343">Certeras <noun pronoun="3p">se</noun> <verb address="personal" kind="main" tense="present" mood="indicative" voice="active" aspect="simple">dirigen</verb>; pero antes </line>
+                <line num="344">Á <noun pronoun="3p" possessive="possessor">sus</noun> dos tiernos <noun>hijos</noun> <noun pronoun="3p">se</noun> <verb aspect="simple" voice="active" mood="indicative" tense="present" kind="main" address="personal">abalanzan</verb>, </line>
+                <line num="345">Á <noun pronoun="3p" possessive="possessor">sus</noun> <noun>cuerpos</noun> <noun pronoun="3p">se</noun> <verb address="personal" kind="main" tense="present" mood="indicative" voice="active" aspect="simple">enroscan</verb>, y <verb address="impersonal" tense="present" kind="main">mordiendo</verb> </line>
+                <line num="346"><noun pronoun="3p">Sus</noun> <noun>miembros</noun> inocentes, <noun>los</noun> <verb kind="main" tense="present" address="personal" aspect="simple" voice="active" mood="indicative">devoran</verb>. </line>
 
                 <line num="347">Luego se lanzan sobre el mismo padre, </line>
                 <line num="348">Que á salvar á sus hijos corre armado; </line>
+                <fig_lang type="polyptoton">
                 <line num="349">Y con las fuertes roscas le religan, </line>
                 <line num="350">Y le <fig_lang type="polyptoton">ciñen dos veces la cintura,</fig_lang> </line>
                 <line num="351">Y dos veces le oprimen la garganta </line>
+                </fig_lang>
                 <line num="352">Los escamados lomos, elevando </line>
                 <line num="353">Sobre <name nametype="name">Laoconte</name> las altivas crestas. </line>
                 <line num="354">De sórdido veneno y sangre impura</line>
                 <line num="355">Las ínfulas manchadas, con las manos </line>
                 <line num="356">Forceja por romper los recios nudos, </line>
                 <line num="357">Y alza horrendos clamores á los cielos, </line>
-                <line num="358">Cual los bramidos del soberbio toro, </line>
+                <fig_lang type="simile">
+                 <line num="358">Cual los bramidos del soberbio toro, </line>
                 <line num="359">Que herida la cerviz de incierto golpe, </line>
                 <line num="360">Huye del ara y la segur arroja. </line>
-                <line num="361">Ambas serpientes se deslizan luego, </line>
+                </fig_lang>
+                <line num="361">Ambas <sound_device device="consonance">serpientes se deslizan</sound_device> luego, </line>
                 <line num="362">Al alto templo se dirigen, y entran </line>
                 <line num="363">De la fiera Tritonia en el alcázar, </line>
                 <line num="364">Y á los pies refugiadas de la diosa, </line>
@@ -111,20 +115,24 @@
                 <line num="1039">Y á la espirante por su nombre llama. </line>
                 <line num="1040">—«¿Todo para este fin, hermana mía? </line>
                 <line num="1041">¿Tal me engañabas? ¿Tan horrendo daño </line>
-                <line num="1042">Esa pira, ese fuego, esos altares </line>
+                <line num="1042"><fig_lang type="anaphora">Esa pira, ese fuego, esos altares</fig_lang> </line>
                 <line num="1043">Guardaban para mí?—Y abandonada, </line>
                 <line num="1044">¿Por dónde ahora empezaré mis quejas? </line>
                 <line num="1045">—¿A tu doliente hermana no quisiste </line>
                 <line num="1046">Por compañera de tu horrible muerte? </line>
-                <line num="1047">—Llamárasme á tu lado en tu infortunio, </line>
+                <fig_lang type="polyptoton">
+                 <line num="1047">—Llamárasme á tu lado en tu infortunio, </line>
                 <line num="1048">Y el mismo hierro, y el instante mismo </line>
                 <line num="1049">Hubieran con entrambas acabado. </line>
+                </fig_lang>
                 <line num="1050">—¿Levanté con mis manos esa pira, </line>
                 <line num="1051">Y mi voz invocó los patrios dioses, </line>
                 <line num="1052">Para encontrarme ausente en tu desgracia? </line>
                 <line num="1053">Tú con tu infausta muerte has extinguido</line>
-                <line num="1054">A tu hermana, á tu pueblo, á los Sidonios </line>
+                <fig_lang type="anaphora">
+                 <line num="1054">A tu hermana, á tu pueblo, á los Sidonios </line>
                 <line num="1055">Excelsos padres y á tu gran Cartago. </line>
+                </fig_lang>
                 <line num="1056">—Dadme, y con agua lavaré su herida; </line>
                 <line num="1057">Y si áun le resta el postrimer aliento, </line>
                 <line num="1058">Recójanlo mis labios.»—Tal exclama: </line>
@@ -137,8 +145,10 @@
                 <line num="1064">Alzar procura los cargados ojos, </line>
                 <line num="1065">Y le faltan las fuerzas; en su pecho </line>
                 <line num="1066">Resuella sin cesar la abierta herida. </line>
-                <line num="1067">En el codo apoyándose tres veces Levantóse; </line>
+                <fig_lang type="anaphora">
+                 <line num="1067">En el codo apoyándose tres veces Levantóse; </line>
                 <line num="1068">tres veces desplomada </line>
+                </fig_lang>
                 <line num="1069">Sobre el lecho cayó. Buscó en lo alto </line>
                 <line num="1070">La luz del cielo con errantes ojos, </line>
                 <line num="1071">Y gimió con pesar al encontrarla. </line>
@@ -146,8 +156,10 @@
                 <line num="1073">De tanto afán y muerte laboriosa, </line>
                 <line num="1074">A <name nametype="name">Iris</name> manda desde el alto Olimpo, </line>
                 <line num="1075">Que rompa el lazo, que á los miembros une </line>
-                <line num="1076">El alma luchadora.—No muriendo </line>
+                <fig_lang type="polyptoton">
+                 <line num="1076">El alma luchadora.—No muriendo </line>
                 <line num="1077">Por decreto del hado, ni de muerte </line>
+                </fig_lang>
                 <line num="1078">Merecida; mas sólo arrebatada </line>
                 <line num="1079">De súbito furor, víctima triste </line>
                 <line num="1080">Con prematuro fin, ni <name nametype="name">Proserpina</name></line>
@@ -155,13 +167,13 @@
                 <line num="1082">Ni condenado al Orco su cabeza.</line>
                 <line num="1083">Vuela bañada en gotas de rocío, </line>
                 <line num="1084">Y en torrentes de luz Tris radiante </line>
-                <line num="1085">Con sus alas de oro por el cielo; </line>
+                <line num="1085">Con sus alas de <sound_device device="assonance">oro por el cielo;</sound_device> </line>
                 <line num="1086">Y por el sol herida, mil colores </line>
                 <line num="1087">Difunde en torno.—Plácida se posa </line>
                 <line num="1088">Sobre la regia frente; y....—«Yo enviada </line>
                 <line num="1089">Esta ofrenda á Plutón sagrada llevo, </line>
                 <line num="1090">Y del mísero cuerpo te desato.» — </line>
-                <line num="1091">Dice, y corta el cabello con su diestra; </line>
+                <line num="1091">Dice, y <sound_device device="alliteration">corta el cabello con</sound_device> su diestra; </line>
                 <line num="1092">Y se extinguió el calor; y al punto mismo </line>
                 <line num="1093">Se disipó la vida por los aires.</line>
             </body>
