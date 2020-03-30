@@ -2,7 +2,6 @@
 <poem>
     <title language="latin">Aeneidos</title>
     <writer>Publius Vergilius Maro</writer>
-
     <book number="1">
         <excerpt subject="speech">
             <body>
@@ -48,7 +47,7 @@
                 <line num="212"><noun case="acc">Laocoonta</noun> <sound_device device="alliteration"><verb kind="main" address="personal" voice="active" tense="present" aspect="simple" mood="indicative">petunt</verb>; et primum parva</sound_device> duorum</line>
                 <line num="213"><noun case="acc">corpora</noun> <noun case="gen">natorum</noun> <sound_device device="consonance"><noun case="nom">serpens</noun> <verb kind="main" voice="passive" tense="perfect" address="impersonal">amplexus</verb></sound_device> uterque</line>
                 </fig_lang>
-                <line num="214">implicat et <sound_device device="consonance">miseros morsu</sound_device> depascitur artus;</line>
+                <line num="214"><verb address="personal" tense="present" voice="active" kind="main" aspect="simple" mood="indicative">implicat</verb> et <sound_device device="consonance">miseros <noun case="abl">morsu</noun></sound_device> <verb mood="indicative" aspect="simple" kind="main" voice="passive" tense="present" address="personal">depascitur</verb> <noun case="acc">artus</noun>;</line>
                 <line num="215"><sound_device device="consonance">post <noun case="acc" pronoun="3s">ipsum</noun> <noun case="dat">auxilio</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">subeuntem</verb></sound_device> ac <noun case="acc">tela</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">ferentem</verb></line>
                 <line num="216"><verb kind="main" tense="present" mood="indicative" voice="active" address="personal" aspect="simple">corripiunt</verb> <noun case="abl">spiris</noun>que <verb kind="main" tense="present" mood="indicative" voice="active" address="personal" aspect="simple">ligant</verb> ingentibus; et iam</line>
                 <line num="217"><fig_lang type="anaphora">bis <noun case="acc">medium</noun> <verb kind="adjectival" tense="perfect" voice="active" address="impersonal">amplexi</verb>, bis <noun case="abl">collo</noun> squamea circum</fig_lang></line>
@@ -67,7 +66,7 @@
                 <line num="228"><verb kind="main" tense="present" mood="indicative" voice="active" address="personal" aspect="simple">insinuat</verb> <noun case="nom">pavor</noun>, et <noun case="acc">scelus</noun> <verb kind="main" tense="perfect" voice="active" address="impersonal">expendisse</verb> merentem</line>
                 <line num="229"><name nametype="name" case="acc">Laocoonta</name> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal" aspect="simple">ferunt</verb>, sacrum <noun case="nom">qui</noun> <noun case="abl">cuspide</noun> <noun case="acc">robur</noun></line>
                 <line num="230"><verb kind="main" tense="perfect" mood="subjunctive" voice="active" address="personal" aspect="perfect">laeserit</verb> et <noun case="dat">tergo</noun> sceleratam <verb kind="main" tense="perfect" mood="subjunctive" voice="active" address="personal" aspect="perfect">intorserit</verb> <noun case="acc">hastam</noun>.</line>
-<!--synechdoche?--><line num="231"><verb kind="main" address="impersonal">ducendum</verb> ad <noun case="acc">sedes</noun> <noun case="acc">simulacrum</noun> <verb kind="main" address="impersonal">oranda</verb>que <noun case="dat">divae</noun></line>
+                <line num="231"><verb kind="main" address="impersonal">ducendum</verb> ad <noun case="acc">sedes</noun> <noun case="acc">simulacrum</noun> <verb kind="main" address="impersonal">oranda</verb>que <noun case="dat">divae</noun></line>
                 <line num="232"><noun case="acc">numina</noun> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal" aspect="simple">conclamant</verb>.</line>
             </body>
         </excerpt>
@@ -76,28 +75,28 @@
     <book number="4">
         <excerpt subject="suicide">
             <body>
-                <line num="672">audiit exanimis trepidoque exterrita cursu</line>
-                <line num="673"> unguibus <sound_device device="assonance">ora soror foedans et pectora</sound_device> pugnis </line>
-                <line num="674">per medios ruit, ac morientem nomine clamat: </line>
-                <line num="675">'hoc illud, germana, fuit? me fraude petebas?</line>
-                <line num="676"> hoc rogus iste mihi, hoc ignes araeque parabant?</line>
-                <line num="677"> quid primum deserta querar? comitemne sororem </line>
-                <line num="678">sprevisti moriens? eadem me ad fata vocasses, </line>
-                <line num="679">idem ambas ferro dolor atque eadem hora tulisset. </line>
+                <line num="672"><verb address="personal" tense="perfect" voice="active" kind="main" aspect="perfect" mood="indicative">audiit</verb> exanimis trepidoque <verb kind="adjectival" voice="passive" tense="perfect" address="impersonal">exterrita</verb> <noun case="abl">cursu</noun></line>
+                <line num="673"> <noun case="abl">unguibus</noun> <sound_device device="assonance"><noun case="acc">ora</noun> <noun case="nom">soror</noun> <verb tense="present" kind="adjectival" voice="active" address="impersonal">foedans</verb> et <noun case="acc">pectora</noun></sound_device> <noun case="abl">pugnis</noun> </line>
+                <line num="674">per <noun case="acc">medios</noun> <verb address="personal" voice="active" kind="main" tense="present" aspect="simple" mood="indicative">ruit</verb>, ac <verb kind="adjectival" tense="present" voice="active" address="impersonal">morientem</verb> <noun case="abl">nomine</noun> <verb address="personal" tense="present" voice="active" kind="main" mood="indicative" aspect="simple">clamat</verb>: </line>
+                <line num="675">'<noun case="nom">hoc</noun> <noun case="acc">illud</noun>, <noun case="voc">germana</noun>, <verb aspect="perfect" mood="indicative" kind="main" tense="perfect" voice="active" address="personal">fuit</verb>? <noun case="acc" pronoun="1s">me</noun> <noun case="abl">fraude</noun> <verb address="personal" voice="active" tense="imperfect" kind="main" mood="indicative" aspect="continuous">petebas</verb>?</line>
+                <line num="676"> <noun case="nom">hoc</noun> <noun case="nom">rogus</noun> <noun case="nom">iste</noun> <noun case="dat">mihi</noun>, hoc <noun case="acc">ignes</noun> <noun case="nom">arae</noun>que <verb address="personal" voice="active" tense="imperfect" kind="main" mood="indicative" aspect="continuous">parabant</verb>?</line>
+                <line num="677"> <noun case="nom">quid</noun> primum <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">deserta</verb> <verb address="personal" voice="active" tense="present" kind="main" aspect="simple" mood="subjunctive">querar</verb>? <noun case="acc">comitem</noun>ne <noun case="acc">sororem</noun> </line>
+                <line num="678"><verb mood="indicative" aspect="perfect" kind="main" tense="perfect" voice="active" address="personal">sprevisti</verb> <verb address="impersonal" kind="adjectival" tense="present" voice="active">moriens</verb>? eadem <noun pronoun="1s">me</noun> ad <noun case="acc">fata</noun> <verb voice="active" tense="pluperfect" kind="main" address="personal" aspect="perfect" mood="subjunctive">vocasses</verb>, </line>
+                <line num="679">idem ambas <noun case="abl">ferro</noun> <noun case="nom">dolor</noun> atque eadem <noun case="nom">hora</noun> <verb mood="subjunctive" aspect="perfect" address="personal" kind="main" tense="pluperfect" voice="active">tulisset</verb>. </line>
                 <fig_lang type="polyptoton">
-                 <line num="680">his etiam struxi manibus patriosque vocavi</line>
-                <line num="681">voce deos, sic te ut posita, crudelis, abessem? </line>
+                 <line num="680">his etiam <verb voice="active" tense="perfect" kind="main" address="personal" aspect="perfect" mood="indicative">struxi</verb> <noun case="abl">manibus</noun> patriosque <verb mood="indicative" aspect="perfect" address="personal" kind="main" tense="perfect" voice="active">vocavi</verb></line>
+                <line num="681"><noun case="abl">voce</noun> <noun case="acc">deos</noun>, sic <noun pronoun="2s" case="acc">te</noun> ut <verb voice="passive" tense="perfect" address="impersonal" kind="adjectival">posita</verb>, <noun case="voc">crudelis</noun>, <verb kind="main" address="personal" tense="imperfect" voice="active" aspect="continuous" mood="subjunctive">abessem</verb>? </line>
                 </fig_lang>
                 <fig_lang type="polysyndeton">
-                 <line num="682">exstinxti te meque, soror, populumque patresque </line>
-                <line num="683">Sidonios urbemque tuam. date, vulnera lymphis </line>
+                 <line num="682"><verb mood="indicative" aspect="perfect" voice="active" tense="perfect" address="personal" kind="main">exstinxti</verb> <noun case="acc">te</noun> <noun case="acc">me</noun>que, <noun case="nom">soror</noun>, <noun case="acc">populum</noun>que <noun case="acc">patres</noun>que </line>
+                <line num="683">Sidonios <noun case="acc">urbem</noun>que tuam. <verb kind="main" address="personal" tense="present" voice="active" aspect="simple" mood="imperative">date</verb>, <noun case="acc">vulnera</noun> <noun case="abl">lymphis</noun> </line>
                 </fig_lang>
-                <line num="684">abluam et, extremus si quis super halitus errat, </line>
-                <line num="685">ore legam.' sic fata gradus evaserat altos,</line>
-                <line num="686">semianimemque sinu germanam amplexa fovebat </line>
-                <line num="687">cum gemitu atque atros siccabat veste cruores.</line>
-                <line num="688"> illa gravis oculos conata attollere rursus </line>
-                <line num="689">deficit; infixum stridit sub pectore vulnus. </line>
+                <line num="684"><verb mood="subjunctive" address="personal" kind="main" aspect="simple" voice="active" tense="present">abluam</verb> et, extremus si quis <verb mood="subjunctive" address="personal" kind="main" aspect="simple" voice="passive" tense="present">super</verb> <noun case="nom">halitus</noun> <verb tense="present" voice="active" aspect="simple" kind="main" address="personal" mood="indicative">errat</verb>, </line>
+                <line num="685"><noun case="abl">ore</noun> <verb tense="present" voice="active" aspect="simple" kind="main" address="personal" mood="subjunctive">legam</verb>.' sic <verb address="impersonal" kind="adjectival" voice="passive" tense="perfect">fata</verb> <noun case="acc">gradus</noun> <verb tense="pluperfect" voice="active" mood="indicative" aspect="perfect" kind="main" address="personal">evaserat</verb> altos,</line>
+                <line num="686">semianimemque <noun case="abl">sinu</noun> <noun case="acc">germanam</noun> <verb address="impersonal" kind="adjectival" voice="passive" tense="perfect">amplexa</verb> <verb tense="imperfect" voice="active" kind="main" address="personal" aspect="continuous" mood="indicative">fovebat</verb> </line>
+                <line num="687">cum <noun case="abl">gemitu</noun> atque atros <verb mood="indicative" aspect="continuous" address="personal" kind="main" voice="active" tense="imperfect">siccabat</verb> <noun case="abl">veste</noun> <noun case="acc">cruores</noun>.</line>
+                <line num="688"> <noun case="nom">illa</noun> gravis <noun case="acc">oculos</noun> <verb kind="adjectival" address="impersonal" tense="perfect" voice="passive">conata</verb> <verb kind="main" address="impersonal">attollere</verb> rursus </line>
+                <line num="689"><verb voice="active" tense="present" address="personal" kind="main" aspect="simple" mood="indicative">deficit</verb>; <verb voice="passive" tense="perfect" address="impersonal" kind="adjectival">infixum</verb> <verb mood="indicative" aspect="simple" kind="main" address="personal" tense="present" voice="active"></verb> sub <noun case="abl">pectore</noun> <noun case="nom">vulnus</noun>. </line>
                 <fig_lang type="anaphora">
                 <line num="690">ter <noun pronoun="3s" case="acc">sese</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">attollens</verb> <noun case="abl">cubito</noun>que <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">adnixa</verb> <verb kind="main" tense="perfect" mood="indicative" voice="active" address="personal">levavit</verb>,</line>
                 <line num="691">ter <verb kind="main" tense="perfect" voice="passive" mood="indicative" address="impersonal">revoluta</verb> <noun case="dat">toro</noun> <verb kind="aux" tense="present" mood="indicative" voice="active" address="personal" aspect="simple">est</verb> <noun case="abl">oculis</noun>que <verb kind="adjectival" tense="present" voice="active" address="impersonal">errantibus</verb> alto </line>
