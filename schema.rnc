@@ -32,10 +32,11 @@ verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*,
 kind = attribute kind {"main" | "aux" | "prefix" | "suffix" | "modal" | "adjectival"}
     #we added prefix here to account for German's separable prefixes
     #modal: can, should, will, shall, must, could, would, may, etc
-tense = attribute tense {"preterite" | "past" | "present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
+tense = attribute tense {"preterite" | "past" | "present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect" | "conditional"}
+    #conditional is considered an indicative tense in Spanish
 aspect = attribute aspect {"continuous" | "simple" |"perfect" | "perfect continuous"}
     # Latin only uses the first 3, English uses all 4, 
-mood = attribute mood {"indicative" | "subjunctive" | "imperative"}
+mood = attribute mood {"indicative" | "subjunctive" | "imperative" | "conditional"}
 voice = attribute voice {"passive" | "active"}
 formality = attribute formality {"formal"}
     #formal is necessary for Spanish verbs, sorry. bc spanish is pro-drop, we can't just mark the pronouns
