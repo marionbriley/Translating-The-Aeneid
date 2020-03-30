@@ -18,7 +18,7 @@ line = element line { (mixed { num, (fig_lang | sound_device | noun | verb | nam
     #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
 num = attribute num { xsd:int }
 fig_lang = element fig_lang { (mixed {type, (line | sound_device | noun | verb | name)* }) }
-type = attribute type {"metaphor" | "simile" | "idiom" | "anaphora" | "polysyndeton" | "asyndeton" | "chiasmus" | "personification" | "synechdoche" | "polyptoton"}
+type = attribute type {"metaphor" | "simile" | "idiom" | "anaphora" | "polysyndeton" | "asyndeton" | "chiasmus" | "personification" | "synechdoche" | "polyptoton" | "synchysis"}
 sound_device = element sound_device { (mixed {device, (line | fig_lang | noun | verb | name)* }) }
 device = attribute device {"alliteration" | "assonance" | "consonance"}
 noun = element noun {case*, pronoun*, possessive*, text}
