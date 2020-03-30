@@ -47,24 +47,24 @@
                 <line num="213">Laocoonta petunt; et primum parva duorum</line>
                 <line num="214">corpora natorum serpens amplexus uterque</line>
                 <line num="215">implicat et miseros morsu depascitur artus;</line>
-                <line num="216">post ipsum auxilio subeuntem ac tela ferentem</line>
-                <line num="217">corripiunt spirisque ligant ingentibus; et iam</line>
-                <line num="218">bis medium amplexi, bis collo squamea circum</line>
-                <line num="219">terga dati superant capite et cervicibus altis.</line>
-                <line num="220">ille simul manibus tendit divellere nodos</line>
-                <line num="221">perfusus sanie vittas atroque veneno,</line>
-                <line num="222">clamores simul horrendos ad sidera tollit:</line>
-                <line num="223">qualis mugitus, fugit cum saucius aram</line>
-                <line num="224">taurus et incertam excussit cervice securim.</line>
-                <line num="225">at gemini lapsu delubra ad summa dracones</line>
-                <line num="226">effugiunt saevaeque petunt Tritonidis arcem,</line>
-                <line num="227">sub pedibusque deae clipeique sub orbe teguntur.</line>
-                <line num="228">tum vero tremefacta novus per pectora cunctis</line>
-                <line num="229">insinuat pavor, et scelus expendisse merentem</line>
-                <line num="230">Laocoonta ferunt, sacrum qui cuspide robur</line>
-                <line num="231">laeserit et tergo sceleratam intorserit hastam.</line>
-                <line num="232">ducendum ad sedes simulacrum orandaque divae</line>
-                <line num="233">numina conclamant.</line>
+                <line num="216">post <noun case="acc" pronoun="3s">ipsum</noun> <noun case="dat">auxilio</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">subeuntem</verb> ac <noun case="acc">tela</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">ferentem</verb></line>
+                <line num="217"><verb kind="main" tense="present" mood="indicative" voice="active" address="personal">corripiunt</verb> <noun case="abl">spiris</noun>que <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">ligant</verb> ingentibus; et iam</line>
+                <line num="218">bis <noun case="acc">medium</noun> <verb kind="adjectival" tense="perfect" voice="active" address="impersonal">amplexi</verb>, bis <noun case="abl">collo</noun> squamea circum</line>
+                <line num="219"><noun case="acc">terga</noun> <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">dati</verb> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">superant</verb> <noun case="abl">capite</noun> et <noun case="abl">cervicibus</noun> altis.</line>
+                <line num="220"><noun case="nom" pronoun="3s">ille</noun> simul <noun case="abl">manibus</noun> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">tendit</verb> <verb kind="main" tense="present" voice="active" address="impersonal">divellere</verb> <noun case="acc">nodos</noun></line>
+                <line num="221"><verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">perfusus</verb> <noun case="abl">sanie</noun> <noun case="acc">vittas</noun> atroque <noun case="abl">veneno</noun>,</line>
+                <line num="222"><noun case="acc">clamores</noun> simul horrendos ad <noun case="acc">sidera</noun> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">tollit</verb>:</line>
+                <line num="223">qualis <noun case="nom">mugitus</noun>, <verb kind="main" tense="perfect" mood="indicative" voice="active" address="personal">fugit</verb> cum saucius <noun case="acc">aram</noun></line>
+                <line num="224"><noun case="nom">taurus</noun> et incertam <verb kind="main" tense="perfect" mood="indicative" voice="active" address="personal">excussit</verb> <noun case="abl">cervice</noun> <noun case="acc">securim</noun>.</line>
+                <line num="225">at gemini <noun case="abl">lapsu</noun> <noun case="acc">delubra</noun> ad summa <noun case="nom">dracones</noun></line>
+                <line num="226"><verb kind="main" tense="present" mood="indicative" voice="active" address="personal">effugiunt</verb> saevaeque <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">petunt</verb> <name nametype="nickname" possessive="possessor">Tritonidis</name> <noun case="acc">arcem</noun>,</line>
+                <line num="227">sub <noun case="abl">pedibus</noun>que <noun case="gen">deae</noun> <noun case="gen">clipei</noun>que sub <noun case="abl">orbe</noun> <verb kind="main" tense="present" mood="indicative" voice="passive" address="personal">teguntur</verb>.</line>
+                <line num="228">tum vero <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">tremefacta</verb> novus per <noun case="acc">pectora</noun> <noun case="abl">cunctis</noun></line>
+                <line num="229"><verb kind="main" tense="present" mood="indicative" voice="active" address="personal">insinuat</verb> <noun case="nom">pavor</noun>, et <noun case="acc">scelus</noun> <verb kind="main" tense="perfect" voice="active" address="impersonal">expendisse</verb> merentem</line>
+                <line num="230"><name nametype="name" case="acc">Laocoonta</name> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">ferunt</verb>, sacrum <noun case="nom">qui</noun> <noun case="abl">cuspide</noun> <noun case="acc">robur</noun></line>
+                <line num="231"><verb kind="main" tense="perfect" mood="subjunctive" voice="active" address="personal">laeserit</verb> et <noun case="dat">tergo</noun> sceleratam <verb kind="main" tense="perfect" mood="subjunctive" voice="active" address="personal">intorserit</verb> <noun case="acc">hastam</noun>.</line>
+                <line num="232"><verb kind="main" address="impersonal">ducendum</verb> ad <noun case="acc">sedes</noun> <noun case="acc">simulacrum</noun> <verb kind="main" address="impersonal">oranda</verb>que <noun case="dat">divae</noun></line>
+                <line num="233"><noun case="acc">numina</noun> <verb kind="main" tense="present" mood="indicative" voice="active" address="personal">conclamant</verb>.</line>
             </body>
         </excerpt>
     </book>
@@ -90,22 +90,22 @@
                 <line num="687">cum gemitu atque atros siccabat veste cruores.</line>
                 <line num="688"> illa gravis oculos conata attollere rursus </line>
                 <line num="689">deficit; infixum stridit sub pectore vulnus. </line>
-                <line num="690">ter sese attollens cubitoque adnixa levavit,</line>
-                <line num="691">ter revoluta toro est oculisque errantibus alto </line>
-                <line num="692">quaesivit caelo lucem ingemuitque reperta.</line>
-                <line num="693">Tum Iuno omnipotens longum miserata dolorem </line>
-                <line num="694">difficilisque obitus Irim demisit Olympo</line>
-                <line num="695"> quae luctantem animam nexosque resolveret artus.</line>
-                <line num="696"> nam quia nec fato merita nec morte peribat, </line>
-                <line num="697">sed misera ante diem subitoque accensa furore, </line>
-                <line num="698">nondum illi flavum Proserpina vertice crinem </line>
-                <line num="699">abstulerat Stygioque caput damnaverat Orco.</line>
-                <line num="700"> ergo Iris croceis per caelum roscida pennis</line>
-                <line num="701"> mille trahens varios adverso sole colores</line>
-                <line num="702"> devolat et supra caput astitit. 'hunc ego Diti </line>
-                <line num="703">sacrum iussa fero teque isto corpore solvo': </line>
-                <line num="704">sic ait et dextra crinem secat, omnis et una </line>
-                <line num="705">dilapsus calor atque in ventos vita recessit.</line>
+                <line num="690">ter <noun pronoun="3s" case="acc">sese</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">attollens</verb> <noun case="abl">cubito</noun>que <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">adnixa</verb> <verb kind="main" tense="perfect" mood="indicative" voice="active" address="personal">levavit</verb>,</line>
+                <line num="691">ter <verb kind="main" tense="perfect" voice="passive" mood="indicative" address="impersonal">revoluta</verb> <noun case="dat">toro</noun> <verb kind="aux" tense="present" mood="indicative" voice="active" address="personal">est</verb> <noun case="abl">oculis</noun>que <verb kind="adjectival" tense="present" voice="active" address="impersonal">errantibus</verb> alto </line>
+                <line num="692"><verb kind="main" tense="perfect" voice="active" mood="indicative" address="personal">quaesivit</verb> <noun case="abl">caelo</noun> <noun case="acc">lucem</noun> <verb kind="main" tense="perfect" voice="active" mood="indicative" address="personal">ingemuit</verb>que <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">reperta</verb>.</line>
+                <line num="693">Tum <name nametype="name" case="nom">Iuno</name> omnipotens longum <verb kind="main" tense="perfect" voice="active" mood="indicative" address="personal">miserata</verb> <noun case="acc">dolorem</noun> </line>
+                <line num="694">difficilisque <noun case="gen">obitus</noun> <name nametype="name" case="acc">Irim</name> <verb kind="main" tense="perfect" voice="active" mood="indicative" address="personal">demisit</verb> <noun case="abl">Olympo</noun></line>
+                <line num="695"> <noun case="nom">quae</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">luctantem</verb> <noun case="acc">animam</noun> <verb kind="adjectival" tense="perfect" voice="active" address="impersonal">nexos</verb>que <verb kind="main" tense="imperfect" voice="active" mood="subjunctive" address="personal">resolveret</verb> <noun case="acc">artus</noun>.</line>
+                <line num="696"> nam quia nec <noun case="abl">fato</noun> merita nec <noun case="abl">morte</noun> <verb kind="main" tense="imperfect" voice="active" mood="indicative" address="personal">peribat</verb>, </line>
+                <line num="697">sed misera ante <noun case="acc">diem</noun> subitoque accensa <noun case="abl">furore</noun>, </line>
+                <line num="698">nondum <noun case="dat">illi</noun> flavum <name nametype="name" case="nom">Proserpina</name> <noun case="abl">vertice</noun> <noun case="acc">crinem</noun> </line>
+                <line num="699"><verb kind="main" tense="pluperfect" voice="active" mood="indicative" address="personal">abstulerat</verb> Stygioque <noun case="acc">caput</noun> <verb kind="main" tense="pluperfect" voice="active" mood="indicative" address="personal">damnaverat</verb> <noun case="dat">Orco</noun>.</line>
+                <line num="700"> ergo <name nametype="name" case="nom">Iris</name> croceis per <noun case="acc">caelum</noun> roscida <noun case="abl">pennis</noun></line>
+                <line num="701"> mille <verb kind="adjectival" tense="present" voice="active" address="impersonal">trahens</verb> varios adverso <noun case="abl">sole</noun> <noun case="acc">colores</noun></line>
+                <line num="702"> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">devolat</verb> et supra <noun case="acc">caput</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">astitit</verb>. '<noun case="acc">hunc</noun> <noun pronoun="1s" case="nom">ego</noun> <name nametype="nickname" case="dat">Diti</name> </line>
+                <line num="703"><noun case="acc">sacrum</noun> <verb kind="adjectival" tense="perfect" voice="passive" address="impersonal">iussa</verb> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">fero</verb> <noun pronoun="2s" case="acc">te</noun>que isto <noun case="abl">corpore</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">solvo</verb>': </line>
+                <line num="704">sic <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">ait</verb> et <noun case="abl">dextra</noun> <noun case="acc">crinem</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">secat</verb>, omnis et una </line>
+                <line num="705"><verb kind="main" tense="perfect" voice="active" mood="indicative" address="personal">dilapsus</verb> <noun case="nom">calor</noun> atque in <noun case="acc">ventos</noun> <noun case="nom">vita</noun> <verb kind="main" tense="perfect" voice="active" mood="indicative" address="personal">recessit</verb>.</line>
             </body>
         </excerpt>
     </book>
