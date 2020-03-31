@@ -1,4 +1,4 @@
-# Meeting Notes
+# Meeting Notes 
 ## March 5, 2019
 
 Started markup on English, Spanish, and German (no Latin yet- that's on paper at the moment)

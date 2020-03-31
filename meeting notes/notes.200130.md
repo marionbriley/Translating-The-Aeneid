@@ -1,4 +1,4 @@
-# Notes
+# Notes 
 ## 01.30.2020
 
 ### Research Question

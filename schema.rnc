@@ -18,7 +18,7 @@ line = element line { (mixed { num, (fig_lang | sound_device | noun | verb | nam
     #a line is a physical line that may be unique to the version (english lines =/= latin lines, and this makes me anxious)
 num = attribute num { xsd:int }
 fig_lang = element fig_lang { (mixed {type, (line | sound_device | noun | verb | name)* }) }
-type = attribute type {"metaphor" | "simile" | "idiom" | "anaphora" | "polysyndeton" | "asyndeton" | "chiasmus" | "personification" | "synechdoche" | "polyptoton"}
+type = attribute type {"metaphor" | "simile" | "idiom" | "anaphora" | "polysyndeton" | "asyndeton" | "chiasmus" | "personification" | "synechdoche" | "polyptoton" | "synchysis"}
 sound_device = element sound_device { (mixed {device, (line | fig_lang | noun | verb | name)* }) }
 device = attribute device {"alliteration" | "assonance" | "consonance"}
 noun = element noun {case*, pronoun*, possessive*, text}
@@ -32,10 +32,11 @@ verb = element verb {kind, tense*, aspect*, mood*, voice*, formality*, address*,
 kind = attribute kind {"main" | "aux" | "prefix" | "suffix" | "modal" | "adjectival"}
     #we added prefix here to account for German's separable prefixes
     #modal: can, should, will, shall, must, could, would, may, etc
-tense = attribute tense {"preterite" | "past" | "present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect"}
+tense = attribute tense {"preterite" | "past" | "present" | "imperfect" | "perfect" | "pluperfect" | "future" | "future perfect" | "conditional"}
+    #conditional is considered an indicative tense in Spanish
 aspect = attribute aspect {"continuous" | "simple" |"perfect" | "perfect continuous"}
     # Latin only uses the first 3, English uses all 4, 
-mood = attribute mood {"indicative" | "subjunctive" | "imperative"}
+mood = attribute mood {"indicative" | "subjunctive" | "imperative" | "conditional"}
 voice = attribute voice {"passive" | "active"}
 formality = attribute formality {"formal"}
     #formal is necessary for Spanish verbs, sorry. bc spanish is pro-drop, we can't just mark the pronouns

@@ -1,4 +1,4 @@
-# Notes
+# Notes 
 ## March 26
 
 check in with everyone concerning wellbeing

@@ -1,4 +1,4 @@
-# Notes February 6
+# Notes February 6 
 
 * Pace yourself
 * Questions?
