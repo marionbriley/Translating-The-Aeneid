@@ -50,60 +50,65 @@
                 <line num="215">Und mit grimmigem <noun case="dat">Biss</noun> <verb kind="main" tense="present" aspect="simple" voice="active" mood="indicative" address="personal">zernagt</verb> <noun case="nom" pronoun="3s">es</noun> die <noun case="acc" possessive="possessee">Glieder</noun> der <noun case="gen" possessive="possessor">Armen</noun>.</line>
                 <line num="216">Drauf, da <noun case="nom" pronoun="3s">er</noun> selbst zum <noun case="dat">Beistand</noun> <verb kind="main" address="personal" mood="indicative" voice="active" aspect="simple" tense="present">eilt</verb> mit erhobener <noun case="dat">Waffe</noun>,</line>
                 <!--halfway-->
-                <line num="217">Fassen sie ihn und schnüren ihn ein mit furchtbaren Schlingen.</line>
-                <line num="218">Zweimal umwickeln den Leib, zweimal umringeln den Hals sie</line>
-                <line num="219">Ihm mit dem Schuppengewind, und es bäumt sich ihr Nacken und Haupt hoch.</line>
-                <line num="220">Jener bemüht sich der Knoten Gewirr mit den Händen zu trennen;</line>
-                <line num="221">Geifer und schwärzliches Gift umströmt ihm die heiligen Binden;</line>
-                <line num="222">Grässlich ertönt sein Jammergeschrei empor zu den Sternen,</line>
-                <line num="223">Gleich dem Gebrülle des Stiers, wenn verwundet er von dem Altar flieht</line>
-                <line num="224">Und von dem Nacken das Beil, das schwankend geführte, sich schüttelt.</line>
-                <line num="225">Aber das Zwillingsgewürm schlüpft flüchtig hinauf zu des Tempels</line>
-                <line num="226">Höhn, zu der grimmen Tritonia Burg, wo unter der Göttin</line>
-                <line num="227">Füßen es still sich verbirgt und unter dem Rande des Schildes.</line>
-                <line num="228">Jeglicher Busen erbebt; es durchdringt ein nimmer gekannter</line>
-                <line num="229">Schrecken das Volk. Man sagt, Laokoon habe den Frevel,</line>
-                <line num="230">Wie er verdienet, gebüßt, da das heilige Holz mit dem Spieß er</line>
-                <line num="231">Schädigte, da er den Leib mit frevelnder Lanze durchbohrte.</line>
-                <line num="232">Laut heischt alles, das Bild zum Sitze der Göttin zu führen</line>
-                <line num="233">Und sie um Gnade zu flehn.</line>
+                <line num="217"><verb kind="main" tense="present" voice="active" mood="indicative" address="personal">Fassen</verb> <noun pronoun="3p" case="nom">sie</noun> <noun pronoun="3s" case="acc">ihn</noun> und <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">schnüren</verb> <noun pronoun="3s" case="acc">ihn</noun> <verb kind="prefix">ein</verb> mit furchtbaren <noun case="dat">Schlingen</noun>.</line>
+                <line num="218">Zweimal <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">umwickeln</verb> den <noun case="acc">Leib</noun>, zweimal <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">umringeln</verb> den <noun case="acc">Hals</noun> <noun pronoun="3p" case="nom">sie</noun></line>
+                <line num="219"><noun pronoun="3s" case="dat">Ihm</noun> mit dem <noun case="dat">Schuppengewind</noun>, und es <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">bäumt</verb> <noun pronoun="3s" case="reflexive">sich</noun> <noun pronoun="3s" case="dat">ihr</noun> Nacken und Haupt hoch.</line>
+                <line num="220"><noun case="nom">Jener</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">bemüht</verb> <noun pronoun="3s" case="reflexive">sich</noun> der Knoten Gewirr mit den <noun case="dat">Händen</noun> zu <verb kind="main" address="impersonal">trennen</verb>;</line>
+                <line num="221"><noun case="nom">Geifer</noun> und schwärzliches <noun case="nom">Gift</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">umströmt</verb> <noun pronoun="3s" case="dat">ihm</noun> die heiligen <noun case="acc">Binden</noun>;</line>
+                <line num="222">Grässlich <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">ertönt</verb> sein <noun case="nom">Jammergeschrei</noun> empor zu den <noun case="dat">Sternen</noun>,</line>
+                <line num="223">Gleich dem <noun case="dat">Gebrülle</noun> des <noun case="gen" possessive="possessor">Stiers</noun>, wenn <verb kind="adjectival" tense="past" voice="passive" address="impersonal">verwundet</verb> <noun pronoun="3s" case="nom">er</noun> von dem <noun case="dat">Altar</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">flieht</verb></line>
+                <line num="224">Und von dem <noun case="dat">Nacken</noun> das <noun case="nom">Beil</noun>, <noun case="nom">das</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">schwankend</verb> geführte, <noun pronoun="3s" case="reflexive">sich</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">schüttelt</verb>.</line>
+                <line num="225">Aber das <noun case="nom">Zwillingsgewürm</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">schlüpft</verb> flüchtig hinauf zu des <noun case="gen">Tempels</noun></line>
+                <line num="226">Höhn, zu der grimmen <name nametype="nickname">Tritonia</name> <noun case="dat">Burg</noun>, wo unter der <noun case="gen" possessive="possessor">Göttin</noun></line>
+                <line num="227"><noun case="dat">Füßen</noun> <noun pronoun="3s" case="nom">es</noun> still <noun pronoun="3s" case="reflexive">sich</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">verbirgt</verb> und unter dem <noun case="dat">Rande</noun> des <noun case="gen" possessive="possessor">Schildes</noun>.</line>
+                <line num="228">Jeglicher <noun case="nom">Busen</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">erbebt</verb>; es <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">durchdringt</verb> ein nimmer gekannter</line>
+                <line num="229"><noun case="nom">Schrecken</noun> das <noun case="acc">Volk</noun>. <noun case="nom">Man</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">sagt</verb>, <noun case="nom">Laokoon</noun> <verb kind="aux" tense="past" mood="indicative" voice="active" address="personal">habe</verb> den <noun case="acc">Frevel</noun>,</line>
+                <line num="230">Wie <noun pronoun="3s" case="nom">er</noun> <verb kind="main" tense="past" voice="active" mood="indicative" address="personal">verdienet</verb>, <verb kind="main" tense="past" voice="active" mood="indicative" address="personal">gebüßt</verb>, da das heilige <noun case="acc">Holz</noun> mit dem <noun case="dat">Spieß</noun> <noun pronoun="3s" case="nom">er</noun></line>
+                <line num="231"><verb kind="main" tense="past" aspect="simple" voice="active" mood="indicative" address="personal">Schädigte</verb>, da <noun pronoun="3s" case="nom">er</noun> den <noun case="acc">Leib</noun> mit frevelnder <noun case="dat">Lanze</noun> <verb kind="main" tense="past" aspect="simple" voice="active" mood="indicative" address="personal">durchbohrte</verb>.</line>
+                <line num="232">Laut <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">heischt</verb> <noun case="nom">alles</noun>, das <noun case="acc">Bild</noun> zum <noun case="dat">Sitze</noun> der <noun case="gen" possessive="possessor">Göttin</noun> zu <verb kind="main" address="impersonal">führen</verb></line>
+                <line num="233">Und <noun pronoun="3p" case="nom">sie</noun> um <noun case="acc">Gnade</noun> zu <verb kind="main" address="impersonal">flehn</verb>.</line>
             </body>
         </excerpt>
     </book>
-    
-    BOOK 4 LINES 672-705
-    Außer sich hört es die Schwester; erschreckt, in hastigem Laufe,
-    Stürzt, das Gesicht zerfleischend, die Brust mit den Fäusten zerschlagend,
-    Durch das Gedränge sie hin und ruft der Verscheidenden Namen:
-    "War das, Schwester, dein Plan? Mich also wolltest du täuschen?
-    Dies hat der Holzstoß mir, die Altär' und das Feuer bedeutet?
-    Oh, was klag ich, Verlassne, zuerst? Als Todesgefährtin
-    Hast du die Schwester verschmäht? O hätt'st du mich zu dir gerufen!
-    Wären wir beide vereint von einerlei Wunde gefallen!
-    Selbst mit den Händen noch häuft ich den Bau, rief selbst zu der Heimat
-    Göttern, damit nun so, Grausame, du ohne mich lägest!
-    Schwester, dich selbst und mich und das Volk und die tyrischen Väter
-    Tötetest du und die eigene Stadt. Gebt Wasser, die Wunden
-    Abzuwaschen! Umschwebt sie ein irrender Hauch noch im Scheiden,
-    Küss ich ihn fort." So redend, erklomm sie die ragenden Stufen.
-    Sanft am Busen umhegt sie die kaum noch atmende Schwester
-    Seufzend und trocknet mit ihrem Gewand ihr das starrende Blut ab.
-    Jene bemüht sich den sinkenden Blick zu erheben; doch schwindet
-    Wieder die Kraft; es zischt in der Brust ihr die klaffende Wunde.
-    Dreimal richtet sie sich empor und stützt auf den Arm sich;
-    Dreimal stürzt sie zurück auf den Pfühl; mit irrenden Augen
-    Sucht sie am Himmel nach Licht und seufzt, da den Schimmer sie wahrnimmt.
-    Und die allmächtige Iuno, gerührt durch die Qualen des Todes
-    Und durch den dauernden Schmerz, schickt Iris jetzt vom Olympos,
-    Dass sie den ringenden Geist und der Glieder Verbindung ihr löse.
-    Denn da nicht durch Geschick sie den Tod litt noch durch Verschuldung,
-    Sondern durch plötzliche Wut vor der Zeit elendiglich umkam,
-    Hatte Proserpina ihr noch nicht vom Scheitel die blonde
-    Locke geraubt und ihr Haupt zum stygischen Orkus verurteilt.
-    Drum vom Himmel herab auf safranfarbigen Flügeln
-    Schwang, von der Sonne bestrahlt, sich die tauige Iris in tausend
-    Schillernder Farben Geleit und stand ihr zu Häupten: "Die Locke
-    Bring auf Befehl ich als Opfer dem Dis, dich lös ich vom Körper."
-    Sprach's und schor mit der Rechten das Haar. Da schwand ihr die Wärme
-    Gänzlich sogleich, und das Leben entwich und zerstob in die Lüfte.
+
+    <book number="4">
+        <excerpt subject="suicide">
+            <body>
+                <line num="672">Außer <noun pronoun="3s" case="reflexive">sich</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">hört</verb> <noun pronoun="3s" case="acc">es</noun> die <noun case="nom">Schwester</noun>; erschreckt, in hastigem <noun case="dat">Laufe</noun>,</line>
+                <line num="673"><verb kind="main" tense="present" voice="active" mood="indicative" address="personal">Stürzt</verb>, das <noun case="acc">Gesicht</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">zerfleischend</verb>, die <noun case="acc">Brust</noun> mit den <noun case="dat">Fäusten</noun> <verb kind="adjectival" tense="present" voice="active" address="impersonal">zerschlagend</verb>,</line>
+                <line num="674">Durch das <noun case="acc">Gedränge</noun> <noun pronoun="3s" case="nom">sie</noun> hin und <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">ruft</verb> der <noun case="gen" possessive="possessor">Verscheidenden</noun> <noun case="acc">Namen</noun>:</line>
+                <line num="675">"<verb kind="main" tense="past" voice="active" mood="indicative" address="personal">War</verb> <noun case="nom">das</noun>, <noun case="voc">Schwester</noun>, dein <noun case="nom">Plan</noun>? <noun pronoun="1s" case="acc">Mich</noun> also <verb kind="modal" tense="past" aspect="simple" voice="active" mood="indicative" address="personal">wolltest</verb> <noun pronoun="2s" case="nom">du</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">täuschen</verb>?</line>
+                <line num="676">Dies <verb kind="aux" tense="present" voice="active" mood="indicative" address="personal">hat</verb> der <noun case="nom">Holzstoß</noun> <noun pronoun="1s" case="dat">mir</noun>, die <noun case="nom">Altär</noun>' und das <noun case="nom">Feuer</noun> <verb kind="main" tense="past" voice="active" mood="indicative" address="personal">bedeutet</verb>?</line>
+                <line num="677">Oh, was <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">klag</verb> <noun pronoun="1s" case="nom">ich</noun>, <noun case="voc">Verlassne</noun>, zuerst? Als <noun case="acc">Todesgefährtin</noun></line>
+                <line num="678"><verb kind="aux" tense="present" voice="active" mood="indicative" address="personal">Hast</verb> <noun pronoun="2s" case="nom">du</noun> die <noun case="acc">Schwester</noun> <verb kind="main" tense="past" voice="active" mood="indicative" address="personal">verschmäht</verb>? O <verb kind="aux" tense="present" voice="active" mood="subjunctive" address="personal">hätt'st</verb> <noun case="nom" pronoun="2s">du</noun> <noun pronoun="1s" case="acc">mich</noun> zu <noun pronoun="2s" case="dat">dir</noun> <verb kind="main" tense="past" voice="active" mood="indicative" address="personal">gerufen</verb>!</line>
+                <line num="679"><verb kind="aux" tense="present" voice="active" mood="subjunctive" address="personal">Wären</verb> <noun pronoun="1p" case="nom">wir</noun> beide vereint von einerlei <noun case="dat">Wunde</noun> <verb kind="main" tense="past" voice="active" mood="indicative" address="personal">gefallen</verb>!</line>
+                <line num="680">Selbst mit den <noun case="dat">Händen</noun> noch <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">häuft</verb> <noun pronoun="1s" case="nom">ich</noun> den <noun case="acc">Bau</noun>, <verb kind="main" tense="past" aspect="simple" voice="active" mood="indicative" address="personal">rief</verb> selbst zu der <noun case="dat">Heimat</noun></line>
+                <line num="681"><noun case="gen" possessive="possessor">Göttern</noun>, damit nun so, <noun case="voc">Grausame</noun>, <noun case="nom" pronoun="2s">du</noun> ohne <noun case="acc" pronoun="1s">mich</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">lägest</verb>!</line>
+                <line num="682"><noun case="voc">Schwester</noun>, <fig_lang type="polysyndeton"><noun pronoun="2s" case="acc">dich</noun> selbst und <noun pronoun="1s" case="acc">mich</noun> und das <noun case="acc">Volk</noun> und die tyrischen <noun case="acc">Väter</noun></fig_lang></line>
+                <line num="683"><verb kind="main" tense="past" voice="active" aspect="simple" mood="indicative" address="personal">Tötetest</verb> <noun pronoun="2s" case="nom">du</noun> und die eigene <noun case="acc">Stadt</noun>. <verb kind="main" tense="present" voice="active" mood="imperative" address="personal">Gebt</verb> <noun case="acc">Wasser</noun>, die <noun case="acc">Wunden</noun></line>
+                <line num="684"><verb kind="prefix">Ab</verb>zu<verb kind="main" tense="present" voice="active" mood="indicative" address="personal">waschen</verb>! <verb kind="prefix">Um</verb><verb kind="main" tense="present" voice="active" mood="indicative" address="personal">schwebt</verb> <noun pronoun="3s" case="acc">sie</noun> ein irrender <noun case="nom">Hauch</noun> noch im <noun case="dat">Scheiden</noun>,</line>
+                <line num="685"><verb kind="main" tense="present" voice="active" mood="indicative" address="personal">Küss</verb> <noun pronoun="1s" case="nom">ich</noun> <noun case="acc" pronoun="3s">ihn</noun> fort." So <verb kind="main" tense="present" voice="active" mood="indicative" address="impersonal">redend</verb>, <verb kind="main" tense="past" voice="active" aspect="simple" mood="indicative" address="personal">erklomm</verb> <noun pronoun="3s" case="nom">sie</noun> die ragenden <noun case="acc">Stufen</noun>.</line>
+                <line num="686">Sanft am <noun case="dat">Busen</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">umhegt</verb> <noun pronoun="3s" case="nom">sie</noun> die kaum noch atmende <noun case="acc">Schwester</noun></line>
+                <line num="687"><verb kind="adjectival" tense="present" voice="active" mood="indicative" address="impersonal">Seufzend</verb> und <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">trocknet</verb> mit ihrem <noun case="dat">Gewand</noun> ihr das starrende <noun case="acc">Blut</noun> <verb kind="prefix">ab</verb>.</line>
+                <line num="688"><noun case="nom">Jene</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">bemüht</verb> <noun pronoun="3s" case="reflexive">sich</noun> den sinkenden <noun case="acc">Blick</noun> zu <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">erheben</verb>; doch <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">schwindet</verb></line>
+                <line num="689">Wieder die <noun case="nom">Kraft</noun>; <noun pronoun="3s" case="nom">es</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">zischt</verb> in der <noun case="dat">Brust</noun> <noun pronoun="3s" case="dat" possessive="possessor">ihr</noun> die klaffende <noun case="nom">Wunde</noun>.</line>
+                <line num="690">Dreimal <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">richtet</verb> <noun pronoun="3s" case="nom">sie</noun> <noun pronoun="3s" case="reflexive">sich</noun> empor und <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">stützt</verb> auf den <noun case="dat">Arm</noun> <noun pronoun="3s" case="reflexive">sich</noun>;</line>
+                <line num="691">Dreimal <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">stürzt</verb> <noun case="nom" pronoun="3s">sie</noun> zurück auf den <noun case="dat">Pfühl</noun>; mit irrenden <noun case="dat">Augen</noun></line>
+                <line num="692"><verb kind="main" tense="present" voice="active" mood="indicative" address="personal">Sucht</verb> <noun pronoun="3s" case="nom">sie</noun> am <noun case="dat">Himmel</noun> nach <noun case="dat">Licht</noun> und <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">seufzt</verb>, da den <noun case="acc">Schimmer</noun> <noun pronoun="3s" case="nom">sie</noun> wahr<verb kind="main" tense="present" voice="active" mood="indicative" address="personal">nimmt</verb>.</line>
+                <line num="693">Und die allmächtige <name nametype="name" case="nom">Iuno</name>, <verb kind="adjectival" tense="past" voice="passive" address="impersonal">gerührt</verb> durch die <noun case="acc">Qualen</noun> des <noun case="gen" possessive="possessor">Todes</noun></line>
+                <line num="694">Und durch den dauernden <noun case="acc">Schmerz</noun>, <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">schickt</verb> <name nametype="name" case="acc">Iris</name> jetzt vom <noun case="dat">Olympos</noun>,</line>
+                <line num="695">Dass <noun pronoun="3s" case="nom">sie</noun> den ringenden <noun case="acc">Geist</noun> und der <noun case="gen" possessive="possessor">Glieder</noun> <noun case="acc">Verbindung</noun> ihr <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">löse</verb>.</line>
+                <line num="696">Denn da nicht durch <noun case="acc">Geschick</noun> <noun pronoun="3s" case="nom">sie</noun> den <noun case="acc">Tod</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">litt</verb> noch durch <noun case="acc">Verschuldung</noun>,</line>
+                <line num="697">Sondern durch plötzliche <noun case="acc">Wut</noun> vor der <noun case="dat">Zeit</noun> elendiglich <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">umkam</verb>,</line>
+                <line num="698"><verb kind="aux" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">Hatte</verb> <name nametype="name" case="nom">Proserpina</name> <noun pronoun="3s" case="dat" possessive="possessor">ihr</noun> noch nicht vom <noun case="dat">Scheitel</noun> die blonde</line>
+                <line num="699"><noun case="acc">Locke</noun> <verb kind="main" tense="past" mood="indicative" voice="active" address="impersonal">geraubt</verb> und <noun pronoun="3s" case="dat" possessive="possessor">ihr</noun> <noun case="acc">Haupt</noun> zum stygischen <noun case="dat">Orkus</noun> <verb kind="main" tense="past" mood="indicative" voice="active" address="impersonal">verurteilt</verb>.</line>
+                <line num="700">Drum vom <noun case="dat">Himmel</noun> herab auf safranfarbigen <noun case="dat">Flügeln</noun></line>
+                <line num="701"><verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">Schwang</verb>, von der <noun case="dat">Sonne</noun> bestrahlt, <noun pronoun="3s" case="reflexive">sich</noun> die tauige <name nametype="name" case="nom">Iris</name> in tausend</line>
+                <line num="702">Schillernder <noun case="dat">Farben</noun> <noun case="nom">Geleit</noun> und <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">stand</verb> <noun pronoun="3s" possessive="possessor" case="dat">ihr</noun> zu <noun case="dat" possessive="possessee">Häupten</noun>: "Die <noun case="acc">Locke</noun></line>
+                <line num="703"><verb kind="main" tense="present" voice="active" mood="indicative" address="personal">Bring</verb> auf <noun case="dat">Befehl</noun> <noun pronoun="1s" case="nom">ich</noun> als <noun case="acc">Opfer</noun> dem <noun case="dat">Dis</noun>, <noun pronoun="2s" case="acc">dich</noun> <verb kind="main" tense="present" voice="active" mood="indicative" address="personal">lös</verb> <noun pronoun="1s" case="nom">ich</noun> vom <noun case="dat">Körper</noun>."</line>
+                <line num="704"><verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">Sprach's</verb> und <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">schor</verb> mit der <noun case="dat">Rechten</noun> das <noun case="acc">Haar</noun>. Da <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">schwand</verb> <noun pronoun="3s" case="dat" possessive="possessee">ihr</noun> die <noun case="nom">Wärme</noun></line>
+                <line num="705">Gänzlich sogleich, und das <noun case="nom">Leben</noun> <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">entwich</verb> und <verb kind="main" tense="past" aspect="simple" mood="indicative" voice="active" address="personal">zerstob</verb> in die <noun case="acc">Lüfte</noun>.</line>
+            </body>
+        </excerpt>
+    </book>
 </poem>
