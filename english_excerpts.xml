@@ -88,59 +88,64 @@
     </excerpt>
     </book>
     
-    BOOK 4 LINES 679-713
-    Her sister heard. Half in a swoon, she ran
-    with trembling steps, where thickest was the throng,
-    beating her breast, while with a desperate hand
-    she tore at her own face, and called aloud
-    upon the dying Queen.
-    “Was it for this
-    my own true sister used me with such guile?
-    O, was this horrid deed the dire intent
-    of altars, Iofty couch, and funeral fires?
-    What shall I tell for chiefest of my woes?
-    Lost that I am! Why, though in death, cast off
-    thy sister from thy heart? Why not invite
-    one mortal stroke for both, a single sword,
-    one agony together? But these hands
-    built up thy pyre; and my voice implored
-    the blessing of our gods, who granted me
-    that thou shouldst perish thus—and I not know!
-    In thy self-slaughter, sister, thou hast slain
-    myself, thy people, the grave counsellors
-    of Sidon, and yon city thou didst build
-    to be thy throne!—Go, fetch me water, there!
-    That I may bathe those gashes! If there be
-    one hovering breath that stays, let my fond lips
-    discover and receive!” So saying, she sprang up
-    from stair to stair, and, clasping to her breast
-    her sister's dying form, moaned grievously,
-    and staunched the dark blood with her garment's fold.
-    Vainly would Dido lift her sinking eyes,
-    but backward fell, while at her heart the wound
-    opened afresh; three times with straining arm
-    she rose; three times dropped helpless, her dimmed eyes
-    turned skyward, seeking the sweet light of day, —
-    which when she saw, she groaned.
-    Great Juno then
-    looked down in mercy on that lingering pain
-    and labor to depart: from realms divine
-    she sent the goddess of the rainbow wing,
-    Iris, to set the struggling spirit free
-    and loose its fleshly coil. For since the end
-    came not by destiny, nor was the doom
-    of guilty deed, but of a hapless wight
-    to sudden madness stung, ere ripe to die,
-    therefore the Queen of Hades had not shorn
-    the fair tress from her forehead, nor assigned
-    that soul to Stygian dark. So Iris came
-    on dewy, saffron pinions down from heaven,
-    a thousand colors on her radiant way,
-    from the opposing sun. She stayed her flight
-    above that pallid brow: “I come with power
-    to make this gift to Death. I set thee free
-    from thy frail body's bound.” With her right hand
-    she cut the tress: then through its every limb
-    the sinking form grew cold; the vital breath
-    fled forth, departing on the viewless air.
+    <book number="4">
+        <excerpt subject="suicide">
+            <body>
+                <line num="0"><noun pronoun="3s" possessive="possessor">Her</noun> <noun possessive="possessee">sister</noun> <verb kind="main" tense="past" voice="active" mood="indicative">heard</verb>. Half in a <noun>swoon</noun>, <noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">ran</verb></line>
+                <line num="0">with trembling <noun>steps</noun>, <sound_device device="alliteration">where thickest <verb kind="main" tense="past" voice="active" mood="indicative">was</verb> the <noun>throng</noun></sound_device>,</line>
+                <line num="0">beating <noun pronoun="3s" possessive="possessor">her</noun> <noun possessive="possessee">breast</noun>, while with a desperate <noun>hand</noun></line>
+                <line num="0">she <verb kind="main" tense="past" voice="active" mood="indicative">tore</verb> at <noun pronoun="3s" possessive="possessor">her</noun> own <noun possessive="possessee">face</noun>, and <verb kind="main" tense="past" voice="active" mood="indicative">called</verb> aloud</line>
+                <line num="0">upon the dying <noun>Queen</noun>.</line>
+                <line num="0">“<verb kind="main" tense="past" voice="active" mood="indicative">Was</verb> <noun pronoun="3s">it</noun> for <noun>this</noun></line>
+                <line num="0"><noun pronoun="1s" possessive="possessor">my</noun> own true <noun possessive="possessee">sister</noun> <verb kind="main" tense="past" voice="active" mood="indicative">used</verb> <noun pronoun="3s">me</noun> with such <noun>guile</noun>?</line>
+                <line num="0">O, <verb kind="main" tense="past" voice="active" mood="indicative">was</verb> this horrid <noun>deed</noun> the dire <noun possessive="possessee">intent</noun></line>
+                <line num="0">of <noun possessive="possessor">altars</noun>, Iofty <noun possessive="possessor">couch</noun>, and funeral <noun possessive="possessor">fires</noun>?</line>
+                <line num="0">What <verb kind="modal" tense="present" voice="active">shall</verb> I <verb kind="main" tense="present" voice="active" mood="indicative">tell</verb> for chiefest of <noun pronoun="1s" possessive="possessor">my</noun> <noun possessive="possessee">woes</noun>?</line>
+                <line num="0">Lost that <noun pronoun="1s">I</noun> <verb kind="main" tense="present" voice="active" mood="indicative">am</verb>! Why, though in <noun>death</noun>, <verb kind="main" tense="present" voice="active">cast</verb> off</line>
+                <line num="0"><noun pronoun="2s" possessive="possessor">thy</noun> <noun possessive="possessee">sister</noun> from <noun pronoun="2s" possessive="possessor">thy</noun> <noun possessive="possessee">heart</noun>? Why not <verb kind="main" tense="present" voice="active">invite</verb></line>
+                <line num="0">one mortal <noun>stroke</noun> for <noun>both</noun>, a single <noun>sword</noun>,</line>
+                <line num="0">one <noun>agony</noun> together? But these <noun>hands</noun></line>
+                <line num="0"><verb kind="main" tense="past" voice="active" mood="indicative">built</verb> up <noun pronoun="2s" possessive="possessor">thy</noun> <noun possessive="possessee">pyre</noun>; and <noun possessive="possessor" pronoun="1s">my</noun> <noun possessive="possessee">voice</noun> <verb kind="main" tense="past" voice="active" mood="indicative">implored</verb></line>
+                <line num="0">the <noun possessive="possessee">blessing</noun> of <noun pronoun="1p" possessive="possessor">our</noun> <noun>gods</noun>, <noun>who</noun> <verb kind="main" tense="past" voice="active" mood="indicative">granted</verb> <noun pronoun="1s">me</noun></line>
+                <line num="0">that <noun pronoun="2s">thou</noun> <verb kind="modal" voice="active">shouldst</verb> <verb kind="main" voice="active" mood="indicative">perish</verb> thus—and <noun pronoun="1s">I</noun> not <verb kind="main" voice="active" mood="indicative">know</verb>!</line>
+                <line num="0">In <noun pronoun="2s" possessive="possessor">thy</noun> <noun possessive="possessee">self-slaughter</noun>, <noun>sister</noun>, <noun pronoun="2s">thou</noun> <verb kind="aux" voice="active" mood="indicative">hast</verb> <verb kind="main" voice="active" mood="indicative">slain</verb></line>
+                <line num="0"><noun pronoun="1s">myself</noun>, <noun pronoun="2s" possessive="possessor">thy</noun> <noun possessive="possessee">people</noun>, the grave <noun possessive="possessee">counsellors</noun></line>
+                <line num="0">of <noun possessive="possessor">Sidon</noun>, and yon <noun>city</noun> <noun pronoun="2s">thou</noun> <verb kind="aux" tense="past" voice="active" mood="indicative">didst</verb> <verb kind="main" tense="past" voice="active" mood="indicative">build</verb></line>
+                <line num="0">to <verb kind="main" tense="present" voice="active" mood="indicative">be</verb> <noun pronoun="2s" possessive="possessor">thy</noun> <noun possessive="possessee">throne</noun>!—<verb kind="main" tense="present" voice="active" mood="imperative">Go</verb>, <verb kind="main" tense="present" voice="active" mood="imperative">fetch</verb> <noun pronoun="1s">me</noun> <noun>water</noun>, there!</line>
+                <line num="0">That <noun pronoun="1s">I</noun> <verb kind="aux" tense="present" voice="active">may</verb> <verb kind="main" tense="present" voice="active">bathe</verb> those <noun>gashes</noun>! If there <verb kind="main" tense="present" voice="active">be</verb></line>
+                <line num="0">one hovering <noun>breath</noun> that <verb kind="main" tense="present" voice="active" mood="indicative">stays</verb>, <verb kind="aux" tense="present" voice="active">let</verb> <noun pronoun="1s" possessive="possessor">my</noun> fond <noun possessive="possessee">lips</noun></line>
+                <line num="0"><verb kind="main" tense="present" voice="active">discover</verb> and <verb kind="main" tense="present" voice="active">receive</verb>!” So saying, <noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">sprang</verb> up</line>
+                <line num="0">from <noun>stair</noun> to <noun>stair</noun>, and, clasping to <noun pronoun="3s" possessive="possessor">her</noun> <noun possessive="possessee">breast</noun></line>
+                <line num="0"><noun pronoun="3s" possessive="possessor">her</noun> <noun>sister's</noun> dying <noun possessive="possessee">form</noun>, <verb kind="main" tense="past" voice="active" mood="indicative">moaned</verb> grievously,</line>
+                <line num="0">and <verb kind="main" tense="past" voice="active" mood="indicative">staunched</verb> the dark <noun>blood</noun> with <noun pronoun="3s" possessive="possessor">her</noun> <noun>garment's</noun> <noun possessive="possessee">fold</noun>.</line>
+                <line num="0">Vainly <verb kind="aux" tense="past" voice="active" mood="indicative">would</verb> <name nametype="name">Dido</name> <verb kind="main" tense="past" voice="active" mood="indicative">lift</verb> <noun pronoun="3s" possessive="possessor">her</noun> sinking <noun possessive="possessee">eyes</noun>,</line>
+                <line num="0">but backward <verb kind="main" tense="past" voice="active" mood="indicative">fell</verb>, while at <noun pronoun="3s" possessive="possessor">her</noun> <noun possessive="possessee">heart</noun> the <noun>wound</noun></line>
+                <line num="0"><verb kind="main" tense="past" voice="active" mood="indicative">opened</verb> afresh; three <noun>times</noun> with straining <noun>arm</noun></line>
+                <line num="0"><noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">rose</verb>; three <noun>times</noun> <verb kind="main" tense="past" voice="active" mood="indicative">dropped</verb> helpless, <noun pronoun="3s" possessive="possessor">her</noun> dimmed <noun possessive="possessee">eyes</noun></line>
+                <line num="0"><verb kind="main" tense="past" voice="active" mood="indicative">turned</verb> skyward, seeking the sweet <noun possessive="possessee">light</noun> of <noun possessive="possessor">day</noun>, —</line>
+                <line num="0">which when <noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">saw</verb>, <noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">groaned</verb>.</line>
+                <line num="0">Great <name nametype="name">Juno</name> then</line>
+                <line num="0"><verb kind="main" tense="past" voice="active" mood="indicative">looked</verb> down in <noun>mercy</noun> on that lingering <noun>pain</noun></line>
+                <line num="0">and <noun>labor</noun> to depart: from <noun>realms</noun> divine</line>
+                <line num="0"><noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">sent</verb> the <noun possessive="possessee">goddess</noun> of the rainbow <noun possessive="possessor">wing</noun>,</line>
+                <line num="0"><name nametype="name">Iris</name>, to set the struggling <noun>spirit</noun> free</line>
+                <line num="0">and loose its fleshly <noun>coil</noun>. For since the <noun>end</noun></line>
+                <line num="0"><verb kind="main" tense="past" voice="active" mood="indicative">came</verb> not by <noun>destiny</noun>, nor <verb kind="main" tense="past" voice="active" mood="indicative">was</verb> the <noun possessive="possessee">doom</noun></line>
+                <line num="0">of guilty <noun possessive="possessor">deed</noun>, but of a hapless <noun possessive="possessor">wight</noun></line>
+                <line num="0">to sudden <noun>madness</noun> stung, ere ripe to <verb kind="main" tense="present" voice="active" mood="indicative">die</verb>,</line>
+                <line num="0">therefore the <name nametype="nickname">Queen of Hades</name> <verb kind="aux" tense="past" voice="active" mood="indicative">had</verb> not <verb kind="main" tense="past" voice="active" mood="indicative">shorn</verb></line>
+                <line num="0">the fair <noun>tress</noun> from <noun pronoun="3s" possessive="possessor">her</noun> <noun possessive="possessee">forehead</noun>, nor <verb kind="main" tense="past" voice="active" mood="indicative">assigned</verb></line>
+                <line num="0">that <noun>soul</noun> to Stygian <noun>dark</noun>. So <name nametype="name">Iris</name> <verb kind="main" tense="past" voice="active" mood="indicative">came</verb></line>
+                <line num="0">on dewy, saffron <noun>pinions</noun> down from <noun>heaven</noun>,</line>
+                <line num="0">a thousand <noun>colors</noun> on <noun pronoun="3s" possessive="possessor">her</noun> radiant <noun possessive="possessee">way</noun>,</line>
+                <line num="0">from the opposing <noun>sun</noun>. <noun pronoun="3s">She</noun> <verb kind="main" tense="past" voice="active" mood="indicative">stayed</verb> <noun pronoun="3s" possessive="possessor">her</noun> <noun possessive="possessee">flight</noun></line>
+                <line num="0">above that pallid <noun>brow</noun>: “<noun pronoun="1s">I</noun> <verb kind="main" tense="present" voice="active" mood="indicative">come</verb> with <noun>power</noun></line>
+                <line num="0">to <verb kind="main" tense="present" voice="active" mood="indicative">make</verb> this <noun>gift</noun> to <noun>Death</noun>. <noun pronoun="1s">I</noun> <verb kind="main" tense="present" voice="active" mood="indicative">set</verb> <noun pronoun="2s">thee</noun> free</line>
+                <line num="0">from <noun pronoun="2s" possessive="possessor">thy</noun> frail <noun>body's</noun> <noun possessive="possessee">bound</noun>.” With <noun pronoun="3s" possessive="possessor">her</noun> right <noun possessive="possessee">hand</noun></line>
+                <line num="0"><noun pronoun="3s">she</noun> <verb kind="main" tense="past" voice="active" mood="indicative">cut</verb> the <noun>tress</noun>: then through <noun pronoun="3s" possessive="possessor">its</noun> every <noun possessive="possessee">limb</noun></line>
+                <line num="0">the sinking <noun>form</noun> <verb kind="main" tense="past" voice="active" mood="indicative">grew</verb> cold; the vital <noun>breath</noun></line>
+                <line num="0"><verb kind="main" tense="past" voice="active" mood="indicative">fled</verb> forth, departing on the viewless <noun>air</noun>.</line>
+            </body>
+        </excerpt>
+    </book>
 </poem>
