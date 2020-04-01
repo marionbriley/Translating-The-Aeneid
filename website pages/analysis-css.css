@@ -17,11 +17,18 @@ h2
     font-size: 25px
 }
 
-p
+h3
 {
     text-align:center;
     font-family: Papyrus,fantasy;
     font-size: 20px
+}
+
+p
+{
+    text-align:center;
+    font-family: Papyrus,fantasy;
+    font-size: 18px
 }
 
 nav {
@@ -50,3 +57,8 @@ a:link {
     text-decoration: none;
     color: black;
 }
+
+a:visited {
+    text-decoration: none;
+    color: black;
+    }
