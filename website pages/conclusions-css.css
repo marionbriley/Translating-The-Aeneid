@@ -32,11 +32,9 @@ p
 }
 
 nav {
-    background-color: antiquewhite;
     text-align: center;
     border-bottom-style: solid;
     border-width: 2px;
-    border-top-color: white;
     border-color: black;
     margin: 0px;
     font-size: 24px;
@@ -61,4 +59,7 @@ a:link {
 a:visited {
     text-decoration: none;
     color: black;
+    }
+div {
+    background-color: antiquewhite;
     }

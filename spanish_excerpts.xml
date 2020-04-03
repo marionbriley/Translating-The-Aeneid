@@ -20,7 +20,7 @@
                 <line num="323">A <verb kind="aux" address="impersonal">sufrir</verb>los mayores <verb kind="adjectival" address="impersonal" tense="past">enseñados</verb>; </line>
                 <line num="324">Tambien <verb tense="future" address="personal" kind="main" voice="active" mood="indicative" aspect="simple">dará</verb> un <noun>dios</noun> fin á los <noun>presentes</noun>. </line>
                 <line num="325"><noun pronoun="3p">Los</noun> que de <name nametype="name">Escila</name> la furiosa <noun>rabia</noun></line>
-                <line num="326"><sound_device device="alliteration"><verb address="personal" tense="preterite" kind="aux" aspect="simple" mood="indicative" voice="active">Supisteis</verb> <verb kind="main" address="impersonal">soportar</verb>, y los <noun>escollos</noun></sound_device></line>
+                <line num="326"><sound_device device="sibilance"><verb address="personal" tense="preterite" kind="aux" aspect="simple" mood="indicative" voice="active">Supisteis</verb> <verb kind="main" address="impersonal">soportar</verb>, y los <noun>escollos</noun></sound_device></line>
                 <line num="327"><verb address="impersonal" kind="main" tense="present">Rugientes</verb> y las rocas <noun>ciclopéas</noun>,</line>
                 <line num="328"><verb tense="present" kind="main" address="personal" voice="active" mood="imperative" aspect="simple">Recobrad</verb> el <noun>valor</noun>, y el <noun>miedo</noun> torpe </line>
                 <line num="329">Al <noun>punto</noun> <verb aspect="simple" mood="imperative" voice="active" address="personal" kind="main" tense="present">deponed</verb>; gratos un <noun>día</noun></line>
@@ -33,7 +33,7 @@
                 <line num="336"><verb aspect="simple" voice="active" mood="imperative" address="personal" kind="main" tense="present">Sufrid</verb>, <verb tense="present" kind="main" address="personal" mood="imperative" voice="active" aspect="simple">guarda</verb><noun pronoun="2pf">os</noun> para mejor <noun>fortuna</noun>.»- </line>
 
                 <line num="337">Así <noun pronoun="3p">les</noun> <verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">dice</verb>, y lleno de <noun>congoja</noun> </line>
-                <line num="338">La <sound_device device="alliteration"><noun>esperanza</noun> <verb tense="present" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">simula</verb> en <noun pronoun="3s">su</noun> <noun>semblante</noun></sound_device>,</line>
+                <line num="338">La <sound_device device="sibilance"><noun>esperanza</noun> <verb tense="present" kind="main" address="personal" mood="indicative" voice="active" aspect="simple">simula</verb> en <noun pronoun="3s">su</noun> <noun>semblante</noun></sound_device>,</line>
                 <line num="339">Y el acerbo <noun>dolor</noun> en su <noun>alma</noun> <verb aspect="simple" voice="active" mood="indicative" address="personal" kind="main" tense="present">oprime</verb>.</line>
             </body>
         </excerpt>
@@ -48,7 +48,7 @@
                 <line num="323">El ilustre <name nametype="name">Laoconte</name>, de <name nametype="name">Neptuuo</name></line>
                 <line num="324"><noun>Sacerdote</noun> <verb kind="main" address="impersonal" tense="past">elegido</verb> por la <noun>suerte</noun>, </line>
                 <line num="325">Un <noun>toro</noun> <sound_device device="alliteration">corpulento <verb tense="present" address="personal" kind="main" mood="indicative" voice="active" aspect="simple">cabe</verb></sound_device> el <noun>ara</noun></line>
-                <line num="326"><verb aspect="simple" voice="active" mood="indicative" kind="main" address="personal" tense="present">Inmola</verb> con <sound_device device="alliteration">solemne <noun>sacrificio</noun></sound_device>. </line>
+                <line num="326"><verb aspect="simple" voice="active" mood="indicative" kind="main" address="personal" tense="present">Inmola</verb> con <sound_device device="sibilance">solemne <noun>sacrificio</noun></sound_device>. </line>
                 <line num="327">Y <verb tense="present" address="personal" kind="main" mood="indicative" voice="active" aspect="simple">hé</verb> aquí que de <name nametype="name">Ténedos</name> <verb kind="main" tense="present" address="impersonal">partiendo</verb> </line>
                 <line num="328">Sobre el tranquilo <noun>piélago</noun> <noun pronoun="3p">se</noun> <verb address="personal" tense="present" kind="main" aspect="simple" voice="active" mood="indicative">arrojan</verb> </line>
                 <line num="329">(<noun pronoun="1s">Me</noun> <verb mood="indicative" voice="active" aspect="simple" kind="main" tense="present" address="personal">horrorizo</verb> al <verb address="impersonal" kind="main">contar</verb><noun>lo</noun>) dos <noun>serpientes</noun> </line>
@@ -88,7 +88,7 @@
                 <line num="359">Que <noun>herida</noun> la <noun>cerviz</noun> de incierto <noun>golpe</noun>, </line>
                 <line num="360"><verb aspect="simple" mood="indicative" voice="active" tense="present" address="personal" kind="main">Huye</verb> del <noun>ara</noun> y la <noun>segur</noun> <verb kind="main" address="personal" tense="present" voice="active" mood="indicative" aspect="simple">arroja</verb>. </line>
                 </fig_lang>
-                <line num="361">Ambas <sound_device device="consonance"><noun>serpientes</noun> <noun pronoun="3s">se</noun> <verb aspect="simple" mood="indicative" voice="active" tense="present" address="personal" kind="main">deslizan</verb></sound_device> luego, </line>
+                <line num="361">Ambas <sound_device device="sibilance"><noun>serpientes</noun> <noun pronoun="3s">se</noun> <verb aspect="simple" mood="indicative" voice="active" tense="present" address="personal" kind="main">deslizan</verb></sound_device> luego, </line>
                 <line num="362">Al alto <noun>templo</noun> <noun pronoun="3s">se</noun> <verb kind="main" address="personal" tense="present" voice="active" mood="indicative" aspect="simple">dirigen</verb>, y <verb aspect="simple" mood="indicative" voice="active" tense="present" address="personal" kind="main">entran</verb> </line>
                 <line num="363">De la fiera <name nametype="name">Tritonia</name> en el <noun>alcázar</noun>, </line>
                 <line num="364">Y á los <noun>pies</noun> <verb kind="adjectival" tense="past" address="impersonal">refugiadas</verb> de la <noun>diosa</noun>, </line>
