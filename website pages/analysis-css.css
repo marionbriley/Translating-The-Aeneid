@@ -1,42 +1,62 @@
 html
 {
-    background-color:#e3e8ff
+    background-color: white;
 }
 
 h1
 {
-    text-align:center;
+    text-align:left;
+    padding-left: 2%;
     font-family: Papyrus,fantasy;
-    font-size: 40px
+    font-size: 50px;
+    color: #003559;
 }
 
 h2
 {
-    text-align:center;
+    text-align:right;
+    padding-right: 2%;
+    float: right;
     font-family: Papyrus,fantasy;
-    font-size: 25px
+    font-size: 30px;
+    color: #003559;
 }
 
 h3
 {
-    text-align:center;
-    font-family: Papyrus,fantasy;
-    font-size: 20px
+    padding-left: 2%;
+    margin-bottom: 2px;
+    text-align:left;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: white;
+}
+
+h1, h2 {
+    display: inline;
 }
 
 p
 {
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 0px;
     text-align:left;
-    font-size: 18px
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 nav {
     text-align: center;
-    border-bottom-style: solid;
-    border-width: 2px;
-    border-color: black;
     margin: 0px;
-    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
 }
 nav ul {
     margin: 0;
@@ -48,23 +68,48 @@ nav ul li {
 }
 li { 
     padding-left:35px;
+    padding-top: 6px;
+    padding-bottom: 6px;
 }
 
 a:link {
     text-decoration: none;
-    color: black;
+    color: #003559;
 }
 
 a:visited {
     text-decoration: none;
-    color: black;
+    color: #003559;
     }
+
+a:hover {
+    text-decoration: none;
+    color: white;
+    outline-color: #003559;
+    outline-width: 2px;
+}
     
 div {
-    background-color: antiquewhite;
+    background-color: #fff0d6;
+    }
+
+section {
+    background-color: #d4e9ff;
+    position: sticky;
+    top:0;
     }
     
 body {
-    padding-left: 4%;
-    padding-right: 4%;
+    margin: 0px;
 }
+
+div.text {
+    background-color: #003559;
+    padding: 2%;
+    border: solid white;
+    border-top-width: 10px;
+    border-bottom-width:10px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+}
+    
