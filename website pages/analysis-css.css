@@ -26,8 +26,7 @@ h3
 
 p
 {
-    text-align:center;
-    font-family: Papyrus,fantasy;
+    text-align:left;
     font-size: 18px
 }
 
@@ -60,6 +59,12 @@ a:visited {
     text-decoration: none;
     color: black;
     }
+    
 div {
     background-color: antiquewhite;
     }
+    
+body {
+    padding-left: 4%;
+    padding-right: 4%;
+}
