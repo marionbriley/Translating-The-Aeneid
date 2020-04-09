@@ -67,7 +67,7 @@ nav ul li {
     list-style-type: none;
 }
 li { 
-    padding-left:35px;
+    padding-left:14.3%;
     padding-top: 6px;
     padding-bottom: 6px;
 }
@@ -110,4 +110,30 @@ div.text {
     border-left-width: 10px;
     border-right-width: 10px;
 }
-    
+
+.ghost-button {
+  display: inline-block;
+  width: 150px;
+  height: 40px;
+  line-height: 40px;
+  padding: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #003559;
+  border: 2px solid white;
+  text-align: center;
+  vertical-align: middle;
+  outline: none;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin-right: 4%;
+  margin-left: 3%;
+}
+
+a.ghost-button {
+    color: white;
+    vertical-align: middle; 
+    text-align: center;
+}
