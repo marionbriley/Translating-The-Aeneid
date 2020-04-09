@@ -2,6 +2,8 @@
 <poem>
 <title language="english">The Aeneid</title>
 <writer>Vergil</writer>
+<translator>Theodore C. Williams</translator>
+    <publish_info>1910</publish_info>
     
     <!--BOOK 1 LINES 192-213-->
     <book number="1">
