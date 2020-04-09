@@ -1,5 +1,5 @@
 start = poem
-poem = element poem { title , writer , translator*, publish_info*, book*}
+poem = element poem { title+ , writer , translator*, publish_info*, book*}
 #meta-info
 title = element title { mixed { language} }
 language = attribute language { "latin" | "english" | "spanish" | "german" }
