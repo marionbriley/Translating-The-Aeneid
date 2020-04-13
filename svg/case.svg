@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+   <g transform="translate(100, 600)">
+      <text x="-10" y="-0" text-anchor="end" font-size="larger">0</text>
+      <line x1="0"
+            y1="-125"
+            x2="750"
+            y2="-125"
+            stroke="lightgray"
+            stroke-linecap="square"
+            stroke-width="3"
+            stroke-dasharray="10"/>
+      <text x="-10" y="-125" text-anchor="end" font-size="larger">25</text>
+      <line x1="0"
+            y1="-250"
+            x2="750"
+            y2="-250"
+            stroke="lightgray"
+            stroke-linecap="square"
+            stroke-width="3"/>
+      <text x="-10" y="-250" text-anchor="end" font-size="larger">50</text>
+      <line x1="0"
+            y1="-375"
+            x2="750"
+            y2="-375"
+            stroke="lightgray"
+            stroke-linecap="square"
+            stroke-width="3"
+            stroke-dasharray="10"/>
+      <text x="-10" y="-375" text-anchor="end" font-size="larger">75</text>
+      <line x1="0"
+            y1="-500"
+            x2="750"
+            y2="-500"
+            stroke="lightgray"
+            stroke-linecap="square"
+            stroke-width="3"/>
+      <text x="-10" y="-500" text-anchor="end" font-size="larger">100</text>
+      <rect x="12.5" y="-130" width="50" height="130" fill="orange"/>
+      <rect x="162.5" y="-30" width="50" height="30" fill="orange"/>
+      <rect x="312.5" y="-45" width="50" height="45" fill="orange"/>
+      <rect x="462.5" y="-285" width="50" height="285" fill="orange"/>
+      <rect x="612.5" y="-200" width="50" height="200" fill="orange"/>
+      <text x="62.5" y="25" text-anchor="middle">Nominative</text>
+      <text x="212.5" y="25" text-anchor="middle">Genitive</text>
+      <text x="362.5" y="25" text-anchor="middle">Dative</text>
+      <text x="512.5" y="25" text-anchor="middle">Accusative</text>
+      <text x="662.5" y="25" text-anchor="middle">Ablative</text>
+      <text x="925" y="-340" text-anchor="start" font-size="larger">Latin</text>
+      <rect x="900" y="-350" width="10" height="10" fill="orange"/>
+      <rect x="62.5" y="-430" width="50" height="430" fill="green"/>
+      <rect x="212.5" y="-55" width="50" height="55" fill="green"/>
+      <rect x="362.5" y="-395" width="50" height="395" fill="green"/>
+      <rect x="512.5" y="-370" width="50" height="370" fill="green"/>
+      <text x="925" y="-300" text-anchor="start" font-size="larger">German</text>
+      <rect x="900" y="-310" width="10" height="10" fill="green"/>
+      <line x1="0"
+            y1="0"
+            x2="750"
+            y2="0"
+            stroke="black"
+            stroke-linecap="square"
+            stroke-width="3"/>
+      <line x1="0"
+            y1="0"
+            x2="0"
+            y2="-530"
+            stroke="black"
+            stroke-linecap="square"
+            stroke-width="3"/>
+      <text x="375" y="75" text-anchor="middle" font-size="larger">Noun Case</text>
+      <text x="-70"
+            y="-250"
+            writing-mode="tb"
+            text-anchor="middle"
+            font-size="larger">Number of Nouns</text>
+      <text x="375"
+            y="-575"
+            text-anchor="middle"
+            font-size="larger"
+            font-weight="bold">Comparison of Noun Case Usage</text>
+   </g>
+</svg>
