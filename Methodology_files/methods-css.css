@@ -67,7 +67,7 @@ nav ul li {
     list-style-type: none;
 }
 li { 
-    padding-left: 35px;
+    padding-left:14.3%;
     padding-top: 6px;
     padding-bottom: 6px;
 }
@@ -116,7 +116,7 @@ div.text {
   width: 150px;
   height: 40px;
   line-height: 40px;
-  padding-left: 5%;
+  padding: 8px;
   padding-top: 10px;
   padding-bottom: 10px;
   color: #003559;

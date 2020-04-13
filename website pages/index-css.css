@@ -119,7 +119,7 @@ div.content-slider {
 
 div.slider {
     height: 200px;
-    width: 900px;
+    width: 1000px;
     margin: 40px auto 0;
     overflow: visible;
     position: relative;
@@ -142,7 +142,7 @@ div.slider ul {
 }
 
 div.slider li {
-    width: 750px;
+    width: 1200px;
     height: 240px;
     position: absolute;
     top: -225px;

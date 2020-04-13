@@ -134,4 +134,69 @@ a.ghost-button {
     vertical-align: middle; 
     text-align: center;
 }
-    
+
+div.dropdown, div.dropdown-content{
+    background-color: #003559;   
+}
+
+button.dropbtn {
+  width: 400px;
+  padding: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #003559;
+  border: 3px solid white;
+  text-align: center;
+  vertical-align: middle;
+  outline: none;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 auto;
+}
+
+
+.dropbtn {
+  background-color: #003559;
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  border: 3px solid white;
+  width: 300px;
+}
+
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+
+.dropdown-content a {
+  color: #005339;
+  background-color: #b8dbff;
+  padding: 12px 16px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  text-decoration: none;
+  display: block;
+}
+
+
+.dropdown-content a:hover {background-color: #fff0d6; color: #005339;}
+
+.dropdown:hover .dropdown-content {display: block;}
