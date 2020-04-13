@@ -227,7 +227,7 @@
             <xsl:value-of select="'Pluperfect'"/>
         </text>
         <text x="900" y="20" text-anchor="middle">
-            <xsl:value-of select="'Future'"/>
+            <xsl:value-of select="'Future'"/></text>
 
     </xsl:template>
 </xsl:stylesheet>
