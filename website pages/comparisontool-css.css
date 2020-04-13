@@ -33,11 +33,12 @@ div.dropdown, div.dropdown-content{
 }
 
 button.dropbtn {
-  width: 400px;
+  width: 300px;
   padding: 8px;
   padding-top: 10px;
   padding-bottom: 10px;
-  color: #003559;
+  background-color: #003559;
+  color: white;
   border: 3px solid white;
   text-align: center;
   vertical-align: middle;
@@ -46,7 +47,8 @@ button.dropbtn {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   font-weight: 500;
-  margin: 0 auto;
+  display: block;
+  margin-left: 50%
 }
 
 
@@ -60,6 +62,8 @@ button.dropbtn {
   font-weight: 500;
   border: 3px solid white;
   width: 300px;
+  display: block;
+  margin-left: 50%
 }
 
 
@@ -73,7 +77,7 @@ button.dropbtn {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 400px;
+  min-width: 300px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
 }
