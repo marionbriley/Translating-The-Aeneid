@@ -110,4 +110,18 @@ div.text {
     border-left-width: 10px;
     border-right-width: 10px;
 }
-    
+
+div.text a:link {
+    text-decoration: none;
+    color: white;
+}
+
+div.text a:visited {
+    text-decoration: none;
+    color: white;
+    }
+
+div.text a:hover {
+    text-decoration: none;
+    color: #fff0d6;
+}

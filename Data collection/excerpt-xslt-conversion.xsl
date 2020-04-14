@@ -35,25 +35,33 @@
     
     <xsl:template match="verb">
         <span class="verb">
-            <xsl:apply-templates/>
+            <div class="tooltip"><xsl:apply-templates/>
+                <span class="tooltiptext">Verb</span>
+            </div>
         </span>
     </xsl:template>
     
     <xsl:template match="noun">
         <span class="noun">
-            <xsl:apply-templates/>
+            <div class="tooltip"><xsl:apply-templates/>
+                <span class="tooltiptext">Noun</span>
+            </div>
         </span>
     </xsl:template>
         
     <xsl:template match="sound_device">
         <span class="sound_device">
-            <xsl:apply-templates/>
+            <div class="tooltip"><xsl:apply-templates/>
+                <span class="tooltiptext">Sound Device</span>
+            </div>
         </span>
     </xsl:template>
     
     <xsl:template match="name">
         <span class="name">
-            <xsl:apply-templates/>
+            <div class="tooltip"><xsl:apply-templates/>
+                <span class="tooltiptext">Name</span>
+            </div>
         </span>
     </xsl:template>
     
