@@ -110,4 +110,11 @@ div.text {
     border-left-width: 10px;
     border-right-width: 10px;
 }
+
+img {
+    margin: auto;
+    display: inline-block;
+    width: 25%;
+    height: 25%
+}
     

@@ -112,4 +112,15 @@ div.text {
     border-left-width: 10px;
     border-right-width: 10px;
 }
+
+div.text ul li {
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 0px;
+    text-align:left;
+    font-size: 16px;
+    font-weight: 200;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
     
