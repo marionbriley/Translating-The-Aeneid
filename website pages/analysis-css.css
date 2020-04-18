@@ -123,4 +123,19 @@ div.text ul li {
     font-family: 'Roboto', sans-serif;
     color: white;
 }
+
+div.text a:link {
+    text-decoration: none;
+    color: white;
+}
+
+div.text a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+div.text a:hover {
+    text-decoration: none;
+    color: #fff0d6;
+}
     
