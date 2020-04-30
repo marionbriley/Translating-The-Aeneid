@@ -1,4 +1,4 @@
-<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
 <title language="english">The Aeneid</title>
 <writer>Vergil</writer>

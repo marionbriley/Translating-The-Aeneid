@@ -1,4 +1,5 @@
-<?xml-model href="schema.rnc" type="application/relax-ng-compact-syntax"?>
+
+<?xml-model href="../../schema.rnc" type="application/relax-ng-compact-syntax"?>
 <poem>
     <title language="latin">Aeneidos</title>
     <writer>Publius Vergilius Maro</writer>
