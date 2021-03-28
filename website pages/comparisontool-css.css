@@ -31,6 +31,8 @@ div.dropdown, div.dropdown-content{
     background-color: #003559;   
 }
 
+/* select an excerpt button */
+
 button.dropbtn {
   width: 300px;
   padding: 8px;
@@ -65,6 +67,7 @@ button.dropbtn {
   margin-left: 50%
 }
 
+/* actual stuff which drops down from button */
 
 .dropdown {
   position: relative;
@@ -77,6 +80,7 @@ button.dropbtn {
   display: none;
   position: absolute;
   vertical-align: middle;
+  left: 150px;
   background-color: #f1f1f1;
   min-width: 300px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -95,14 +99,16 @@ button.dropbtn {
 }
 
 
-.dropdown-content a:hover {background-color: #fff0d6; color: #005339;}
+.dropdown-content a:hover {background-color: #fff0d6; color: #003559;}
 
 .dropdown:hover .dropdown-content {display: block;}
-
+ 
+ /* underlining of sound devices */
 span.sound_device {
     text-decoration:underline
 }
 
+/* next 3 spans are parts of speech */
 span.noun {
     color: #b8dbff;
 }
@@ -114,22 +120,22 @@ span.name {
     color: #b8dbff
 }
 
+/* Message box */
 .tooltip {
   position: relative;
-  display: inline-block;
+  display: inline;
 }
 
 /* Tooltip text */
 div.tooltip span.tooltiptext {
   visibility: hidden;
-  width: 40px;
+  min-width: 40px;
   background-color: #b8dbff;
   color: #003559;
   text-align: center;
   padding: 2px 0;
   border-radius: 6px;
   position: absolute;
-  z-index: 1;
   bottom: 125%;
   margin-left: -60px;
 
@@ -138,7 +144,7 @@ div.tooltip span.tooltiptext {
   transition: opacity 0.3s;
 }
 
-/* Tooltip arrow */
+/* little tooltip arrow */
 .tooltip .tooltiptext::after {
   content: "";
   position: absolute;
